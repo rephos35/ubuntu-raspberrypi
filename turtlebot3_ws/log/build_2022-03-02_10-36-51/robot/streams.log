@@ -1,0 +1,22 @@
+[0.046s] Invoking command in '/home/ubuntu/turtlebot3_ws/build/robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy /usr/bin/cmake --build /home/ubuntu/turtlebot3_ws/build/robot -- -j4 -l4
+[0.247s] Invoked command in '/home/ubuntu/turtlebot3_ws/build/robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy /usr/bin/cmake --build /home/ubuntu/turtlebot3_ws/build/robot -- -j4 -l4
+[0.437s] Invoking command in '/home/ubuntu/turtlebot3_ws/build/robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy /usr/bin/cmake --install /home/ubuntu/turtlebot3_ws/build/robot
+[0.509s] -- Install configuration: ""
+[0.513s] -- Execute custom install script
+[0.515s] -- Up-to-date symlink: /home/ubuntu/turtlebot3_ws/install/robot/lib/robot/robot.py
+[0.518s] -- Up-to-date symlink: /home/ubuntu/turtlebot3_ws/install/robot/share/ament_index/resource_index/package_run_dependencies/robot
+[0.522s] -- Up-to-date symlink: /home/ubuntu/turtlebot3_ws/install/robot/share/ament_index/resource_index/parent_prefix_path/robot
+[0.525s] -- Up-to-date symlink: /home/ubuntu/turtlebot3_ws/install/robot/share/robot/environment/ament_prefix_path.sh
+[0.528s] -- Up-to-date symlink: /home/ubuntu/turtlebot3_ws/install/robot/share/robot/environment/ament_prefix_path.dsv
+[0.531s] -- Up-to-date symlink: /home/ubuntu/turtlebot3_ws/install/robot/share/robot/environment/path.sh
+[0.533s] -- Up-to-date symlink: /home/ubuntu/turtlebot3_ws/install/robot/share/robot/environment/path.dsv
+[0.537s] -- Up-to-date symlink: /home/ubuntu/turtlebot3_ws/install/robot/share/robot/local_setup.bash
+[0.540s] -- Up-to-date symlink: /home/ubuntu/turtlebot3_ws/install/robot/share/robot/local_setup.sh
+[0.543s] -- Up-to-date symlink: /home/ubuntu/turtlebot3_ws/install/robot/share/robot/local_setup.zsh
+[0.546s] -- Up-to-date symlink: /home/ubuntu/turtlebot3_ws/install/robot/share/robot/local_setup.dsv
+[0.551s] -- Symlinking: /home/ubuntu/turtlebot3_ws/install/robot/share/robot/package.dsv
+[0.609s] -- Up-to-date symlink: /home/ubuntu/turtlebot3_ws/install/robot/share/ament_index/resource_index/packages/robot
+[0.613s] -- Up-to-date symlink: /home/ubuntu/turtlebot3_ws/install/robot/share/robot/cmake/robotConfig.cmake
+[0.616s] -- Up-to-date symlink: /home/ubuntu/turtlebot3_ws/install/robot/share/robot/cmake/robotConfig-version.cmake
+[0.619s] -- Up-to-date symlink: /home/ubuntu/turtlebot3_ws/install/robot/share/robot/package.xml
+[0.630s] Invoked command in '/home/ubuntu/turtlebot3_ws/build/robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy /usr/bin/cmake --install /home/ubuntu/turtlebot3_ws/build/robot

@@ -1,0 +1,5 @@
+1645791639.1814585 [INFO] [launch]: All log files can be found below /home/ubuntu/.ros/log/2022-02-25-12-20-39-160371-raspberrypi-5702
+1645791639.1823280 [INFO] [launch]: Default logging verbosity is set to INFO
+1645791639.6681187 [INFO] [robot_state_publisher-1]: process started with pid [5705]
+1645791639.6699209 [INFO] [hlds_laser_publisher-2]: process started with pid [5707]
+1645791639.6710107 [INFO] [turtlebot3_ros-3]: process started with pid [5709]

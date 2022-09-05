@@ -1,0 +1,5 @@
+[WARN] [1645152724.731348032] [joy_node]: Couldn't open joystick force feedback: Bad file descriptor
+[INFO] [1645152724.731631836] [joy_node]: Opened joystick: /dev/input/js0. deadzone_: 0.050000.
+[ERROR] [1645153140.355562974] [joy_node]: Connection to joystick device lost unexpectedly. Will reopen.
+[ERROR] [1645153140.356447069] [joy_node]: Couldn't open joystick /dev/input/js0. Will retry every second.
+[INFO] [1645153230.166993342] [rclcpp]: signal_handler(signal_value=2)

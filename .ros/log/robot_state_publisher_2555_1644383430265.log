@@ -1,0 +1,8 @@
+[INFO] [1644383430.438760129] [robot_state_publisher]: got segment base_footprint
+[INFO] [1644383430.439115211] [robot_state_publisher]: got segment base_link
+[INFO] [1644383430.439176305] [robot_state_publisher]: got segment base_scan
+[INFO] [1644383430.439209120] [robot_state_publisher]: got segment caster_back_link
+[INFO] [1644383430.439238028] [robot_state_publisher]: got segment imu_link
+[INFO] [1644383430.439265344] [robot_state_publisher]: got segment wheel_left_link
+[INFO] [1644383430.439293344] [robot_state_publisher]: got segment wheel_right_link
+[INFO] [1644383452.555247359] [rclcpp]: signal_handler(signal_value=2)

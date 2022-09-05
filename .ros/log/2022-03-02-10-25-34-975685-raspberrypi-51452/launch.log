@@ -1,0 +1,9 @@
+1646216734.9876127 [INFO] [launch]: All log files can be found below /home/ubuntu/.ros/log/2022-03-02-10-25-34-975685-raspberrypi-51452
+1646216734.9887815 [INFO] [launch]: Default logging verbosity is set to INFO
+1646216735.5800638 [INFO] [robot_state_publisher-1]: process started with pid [51461]
+1646216735.5842605 [INFO] [hlds_laser_publisher-2]: process started with pid [51463]
+1646216735.5966580 [INFO] [turtlebot3_ros-3]: process started with pid [51465]
+1646216738.7461767 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1646216738.8053198 [INFO] [robot_state_publisher-1]: process has finished cleanly [pid 51461]
+1646216738.8084233 [ERROR] [hlds_laser_publisher-2]: process has died [pid 51463, exit code 255, cmd '/opt/ros/foxy/lib/hls_lfcd_lds_driver/hlds_laser_publisher --ros-args -r __node:=hlds_laser_publisher -r __node:=hlds_laser_publisher --params-file /tmp/launch_params_th5zv8tp'].
+1646216739.7712665 [ERROR] [turtlebot3_ros-3]: process has died [pid 51465, exit code -6, cmd '/home/ubuntu/turtlebot3_ws/install/turtlebot3_node/lib/turtlebot3_node/turtlebot3_ros -i /dev/ttyACM0 --ros-args --params-file /home/ubuntu/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/param/burger.yaml'].

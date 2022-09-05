@@ -1,0 +1,44 @@
+[INFO] [1646216913.870490140] [turtlebot3_node]: Init TurtleBot3 Node Main
+[INFO] [1646216913.883773417] [turtlebot3_node]: Init DynamixelSDKWrapper
+[INFO] [1646216913.888925565] [DynamixelSDKWrapper]: Succeeded to open the port(/dev/ttyACM0)!
+[INFO] [1646216913.904667193] [DynamixelSDKWrapper]: Succeeded to change the baudrate!
+[INFO] [1646216913.943803487] [turtlebot3_node]: Start Calibration of Gyro
+[INFO] [1646216918.946452662] [turtlebot3_node]: Calibration End
+[INFO] [1646216918.946597125] [turtlebot3_node]: Add Motors
+[INFO] [1646216918.948826347] [turtlebot3_node]: Add Wheels
+[INFO] [1646216918.949082198] [turtlebot3_node]: Add Sensors
+[INFO] [1646216918.956724402] [turtlebot3_node]: Succeeded to create battery state publisher
+[INFO] [1646216919.002345732] [turtlebot3_node]: Succeeded to create imu publisher
+[INFO] [1646216919.010031195] [turtlebot3_node]: Succeeded to create sensor state publisher
+[INFO] [1646216919.014640768] [turtlebot3_node]: Succeeded to create joint state publisher
+[INFO] [1646216919.014758343] [turtlebot3_node]: Add Devices
+[INFO] [1646216919.014798343] [turtlebot3_node]: Succeeded to create motor power server
+[INFO] [1646216919.033299897] [turtlebot3_node]: Succeeded to create reset server
+[INFO] [1646216919.039661619] [turtlebot3_node]: Succeeded to create sound server
+[INFO] [1646216919.046039637] [turtlebot3_node]: Run!
+[INFO] [1646216919.112454355] [diff_drive_controller]: Init Odometry
+[INFO] [1646216919.134986520] [diff_drive_controller]: Run!
+[ERROR] [1646217903.263770420] [DynamixelSDKWrapper]: Failed to read[[TxRxResult] There is no status packet!]
+[ERROR] [1646217903.305980635] [DynamixelSDKWrapper]: Failed to read[[TxRxResult] There is no status packet!]
+[ERROR] [1646217903.381261127] [DynamixelSDKWrapper]: Failed to read[[TxRxResult] There is no status packet!]
+[ERROR] [1646217903.421219750] [DynamixelSDKWrapper]: Failed to read[[TxRxResult] There is no status packet!]
+[ERROR] [1646217903.495827220] [DynamixelSDKWrapper]: Failed to read[[TxRxResult] There is no status packet!]
+[ERROR] [1646217903.535800564] [DynamixelSDKWrapper]: Failed to read[[TxRxResult] There is no status packet!]
+[ERROR] [1646217903.609872597] [DynamixelSDKWrapper]: Failed to read[[TxRxResult] There is no status packet!]
+[ERROR] [1646217903.684169008] [DynamixelSDKWrapper]: Failed to read[[TxRxResult] There is no status packet!]
+[ERROR] [1646217903.727383155] [DynamixelSDKWrapper]: Failed to read[[TxRxResult] There is no status packet!]
+[ERROR] [1646217903.801789987] [DynamixelSDKWrapper]: Failed to read[[TxRxResult] There is no status packet!]
+[ERROR] [1646217903.841676594] [DynamixelSDKWrapper]: Failed to read[[TxRxResult] There is no status packet!]
+[ERROR] [1646217903.917611017] [DynamixelSDKWrapper]: Failed to read[[TxRxResult] There is no status packet!]
+[ERROR] [1646217903.991397342] [DynamixelSDKWrapper]: Failed to read[[TxRxResult] There is no status packet!]
+[ERROR] [1646217904.031223584] [DynamixelSDKWrapper]: Failed to read[[TxRxResult] There is no status packet!]
+[ERROR] [1646217904.111393747] [DynamixelSDKWrapper]: Failed to read[[TxRxResult] There is no status packet!]
+[ERROR] [1646217904.185595315] [DynamixelSDKWrapper]: Failed to read[[TxRxResult] There is no status packet!]
+[ERROR] [1646217904.225494665] [DynamixelSDKWrapper]: Failed to read[[TxRxResult] There is no status packet!]
+[ERROR] [1646217904.302882279] [DynamixelSDKWrapper]: Failed to read[[TxRxResult] There is no status packet!]
+[ERROR] [1646217904.343671400] [DynamixelSDKWrapper]: Failed to read[[TxRxResult] There is no status packet!]
+[ERROR] [1646217904.423404177] [DynamixelSDKWrapper]: Failed to read[[TxRxResult] There is no status packet!]
+[ERROR] [1646217904.497591153] [DynamixelSDKWrapper]: Failed to read[[TxRxResult] There is no status packet!]
+[ERROR] [1646217904.537554092] [DynamixelSDKWrapper]: Failed to read[[TxRxResult] There is no status packet!]
+[ERROR] [1646217904.611822027] [DynamixelSDKWrapper]: Failed to read[[TxRxResult] There is no status packet!]
+[ERROR] [1646217904.686000263] [DynamixelSDKWrapper]: Faile

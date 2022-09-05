@@ -1,0 +1,57 @@
+[0.068s] Invoking command in '/home/ubuntu/turtlebot3_ws/build/robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy /usr/bin/cmake /home/ubuntu/turtlebot3_ws/src/robot -DCMAKE_INSTALL_PREFIX=/home/ubuntu/turtlebot3_ws/install/robot
+[1.173s] -- The C compiler identification is GNU 9.3.0
+[2.123s] -- The CXX compiler identification is GNU 9.3.0
+[2.150s] -- Check for working C compiler: /usr/bin/cc
+[2.510s] -- Check for working C compiler: /usr/bin/cc -- works
+[2.519s] -- Detecting C compiler ABI info
+[2.897s] -- Detecting C compiler ABI info - done
+[2.949s] -- Detecting C compile features
+[2.953s] -- Detecting C compile features - done
+[2.967s] -- Check for working CXX compiler: /usr/bin/c++
+[3.365s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[3.372s] -- Detecting CXX compiler ABI info
+[3.853s] -- Detecting CXX compiler ABI info - done
+[3.907s] -- Detecting CXX compile features
+[3.911s] -- Detecting CXX compile features - done
+[3.948s] -- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+[4.156s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[4.157s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[5.561s] -- Found rclpy: 1.0.8 (/opt/ros/foxy/share/rclpy/cmake)
+[5.585s] -- Found std_msgs: 2.0.5 (/opt/ros/foxy/share/std_msgs/cmake)
+[5.831s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.899s] -- Found rosidl_adapter: 1.2.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[6.399s] -- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[6.595s] -- Found FastRTPS: /opt/ros/foxy/include  
+[7.169s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[7.433s] -- Found geometry_msgs: 2.0.5 (/opt/ros/foxy/share/geometry_msgs/cmake)
+[7.635s] -- Found sensor_msgs: 2.0.5 (/opt/ros/foxy/share/sensor_msgs/cmake)
+[8.300s] -- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[9.377s] -- Added test 'copyright' to check source files copyright and LICENSE
+[9.408s] -- Added test 'flake8' to check Python code syntax and style conventions
+[9.413s] -- Added test 'lint_cmake' to check CMake code style
+[9.429s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[9.440s] -- Added test 'xmllint' to check XML markup files
+[9.494s] -- Configuring done
+[9.511s] -- Generating done
+[9.520s] -- Build files have been written to: /home/ubuntu/turtlebot3_ws/build/robot
+[9.580s] Invoked command in '/home/ubuntu/turtlebot3_ws/build/robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy /usr/bin/cmake /home/ubuntu/turtlebot3_ws/src/robot -DCMAKE_INSTALL_PREFIX=/home/ubuntu/turtlebot3_ws/install/robot
+[9.586s] Invoking command in '/home/ubuntu/turtlebot3_ws/build/robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy /usr/bin/cmake --build /home/ubuntu/turtlebot3_ws/build/robot -- -j4 -l4
+[10.152s] Invoked command in '/home/ubuntu/turtlebot3_ws/build/robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy /usr/bin/cmake --build /home/ubuntu/turtlebot3_ws/build/robot -- -j4 -l4
+[10.627s] Invoking command in '/home/ubuntu/turtlebot3_ws/build/robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy /usr/bin/cmake --install /home/ubuntu/turtlebot3_ws/build/robot
+[10.753s] -- Install configuration: ""
+[10.755s] -- Installing: /home/ubuntu/turtlebot3_ws/install/robot/share/ament_index/resource_index/package_run_dependencies/robot
+[10.757s] -- Installing: /home/ubuntu/turtlebot3_ws/install/robot/share/ament_index/resource_index/parent_prefix_path/robot
+[10.759s] -- Installing: /home/ubuntu/turtlebot3_ws/install/robot/share/robot/environment/ament_prefix_path.sh
+[10.760s] -- Installing: /home/ubuntu/turtlebot3_ws/install/robot/share/robot/environment/ament_prefix_path.dsv
+[10.762s] -- Installing: /home/ubuntu/turtlebot3_ws/install/robot/share/robot/environment/path.sh
+[10.765s] -- Installing: /home/ubuntu/turtlebot3_ws/install/robot/share/robot/environment/path.dsv
+[10.773s] -- Installing: /home/ubuntu/turtlebot3_ws/install/robot/share/robot/local_setup.bash
+[10.774s] -- Installing: /home/ubuntu/turtlebot3_ws/install/robot/share/robot/local_setup.sh
+[10.776s] -- Installing: /home/ubuntu/turtlebot3_ws/install/robot/share/robot/local_setup.zsh
+[10.777s] -- Installing: /home/ubuntu/turtlebot3_ws/install/robot/share/robot/local_setup.dsv
+[10.778s] -- Installing: /home/ubuntu/turtlebot3_ws/install/robot/share/robot/package.dsv
+[10.781s] -- Installing: /home/ubuntu/turtlebot3_ws/install/robot/share/ament_index/resource_index/packages/robot
+[10.783s] -- Installing: /home/ubuntu/turtlebot3_ws/install/robot/share/robot/cmake/robotConfig.cmake
+[10.784s] -- Installing: /home/ubuntu/turtlebot3_ws/install/robot/share/robot/cmake/robotConfig-version.cmake
+[10.797s] -- Installing: /home/ubuntu/turtlebot3_ws/install/robot/share/robot/package.xml
+[10.823s] Invoked command in '/home/ubuntu/turtlebot3_ws/build/robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy /usr/bin/cmake --install /home/ubuntu/turtlebot3_ws/build/robot

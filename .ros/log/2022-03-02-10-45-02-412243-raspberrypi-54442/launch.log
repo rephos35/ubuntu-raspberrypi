@@ -1,0 +1,6 @@
+1646217902.4245582 [INFO] [launch]: All log files can be found below /home/ubuntu/.ros/log/2022-03-02-10-45-02-412243-raspberrypi-54442
+1646217902.4254303 [INFO] [launch]: Default logging verbosity is set to INFO
+1646217902.8940971 [INFO] [robot_state_publisher-1]: process started with pid [54444]
+1646217902.8948908 [INFO] [hlds_laser_publisher-2]: process started with pid [54446]
+1646217902.8956010 [INFO] [turtlebot3_ros-3]: process started with pid [54448]
+1646217909.3110557 [ERROR] [turtlebot3_ros-3]: process has died [pid 54448, exit code -6, cmd '/home/ubuntu/turtlebot3_ws/install/turtlebot3_node/lib/turtlebot3_node/turtlebot3_ros -i /dev/ttyACM0 --ros-args --params-file /home/ubuntu/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/param/burger.yaml'].

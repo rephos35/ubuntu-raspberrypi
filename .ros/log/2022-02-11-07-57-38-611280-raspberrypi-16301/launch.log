@@ -1,0 +1,9 @@
+1644566258.6226499 [INFO] [launch]: All log files can be found below /home/ubuntu/.ros/log/2022-02-11-07-57-38-611280-raspberrypi-16301
+1644566258.6233907 [INFO] [launch]: Default logging verbosity is set to INFO
+1644566259.0080235 [INFO] [robot_state_publisher-1]: process started with pid [16303]
+1644566259.0092354 [INFO] [hlds_laser_publisher-2]: process started with pid [16305]
+1644566259.0103130 [INFO] [turtlebot3_ros-3]: process started with pid [16307]
+1644566881.6044078 [ERROR] [launch]: using SIGTERM or SIGQUIT can result in orphaned processes
+1644566881.6050303 [ERROR] [launch]: make sure no processes launched are still running
+1644566948.2971399 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1644566948.3048275 [ERROR] [launch]: run task was canceled

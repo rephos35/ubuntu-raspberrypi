@@ -1,0 +1,6 @@
+1644987723.1801324 [INFO] [launch]: All log files can be found below /home/ubuntu/.ros/log/2022-02-16-05-02-03-170580-raspberrypi-1239
+1644987723.1810009 [INFO] [launch]: Default logging verbosity is set to INFO
+1644987723.6291890 [INFO] [joy_node-1]: process started with pid [1242]
+1644987784.1872876 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1644987784.1911252 [joy_node-1] [INFO] [1644987784.186682179] [rclcpp]: signal_handler(signal_value=2)
+1644987784.2124443 [INFO] [joy_node-1]: process has finished cleanly [pid 1242]

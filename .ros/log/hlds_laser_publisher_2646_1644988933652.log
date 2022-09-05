@@ -1,0 +1,3 @@
+[INFO] [1644988933.684954119] [hlds_laser_publisher]: Init hlds_laser_publisher Node Main
+[INFO] [1644988933.685251656] [hlds_laser_publisher]: port : /dev/ttyUSB0 frame_id : base_scan
+[INFO] [1644989489.177159011] [rclcpp]: signal_handler(signal_value=2)

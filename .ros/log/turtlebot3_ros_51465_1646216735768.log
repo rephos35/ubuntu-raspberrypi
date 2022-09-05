@@ -1,0 +1,6 @@
+[INFO] [1646216735.973878876] [turtlebot3_node]: Init TurtleBot3 Node Main
+[INFO] [1646216735.974437005] [turtlebot3_node]: Init DynamixelSDKWrapper
+[INFO] [1646216735.978578135] [DynamixelSDKWrapper]: Succeeded to open the port(/dev/ttyACM0)!
+[INFO] [1646216735.984328653] [DynamixelSDKWrapper]: Succeeded to change the baudrate!
+[INFO] [1646216736.025751113] [turtlebot3_node]: Start Calibration of Gyro
+[INFO] [1646216738.745291204] [rclcpp]: signal_handler(signal_value=2)

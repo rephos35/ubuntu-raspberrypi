@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/ubuntu/turtlebot3_ws/build/raspicam2/libRasPiCamPublisherNode.so" "/home/ubuntu/turtlebot3_ws/build/raspicam2/libraspicam.so" "TARGETS" "RasPiCamPublisherNode" "raspicam" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")

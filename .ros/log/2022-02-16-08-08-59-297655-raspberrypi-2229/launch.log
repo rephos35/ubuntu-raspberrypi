@@ -1,0 +1,9 @@
+1644998939.3073773 [INFO] [launch]: All log files can be found below /home/ubuntu/.ros/log/2022-02-16-08-08-59-297655-raspberrypi-2229
+1644998939.3082087 [INFO] [launch]: Default logging verbosity is set to INFO
+1644998939.6924868 [INFO] [robot_state_publisher-1]: process started with pid [2231]
+1644998939.6936231 [INFO] [hlds_laser_publisher-2]: process started with pid [2233]
+1644998939.6944382 [INFO] [turtlebot3_ros-3]: process started with pid [2235]
+1644999100.5037458 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1644999100.5653098 [INFO] [robot_state_publisher-1]: process has finished cleanly [pid 2231]
+1644999100.5743070 [ERROR] [hlds_laser_publisher-2]: process has died [pid 2233, exit code 255, cmd '/opt/ros/foxy/lib/hls_lfcd_lds_driver/hlds_laser_publisher --ros-args -r __node:=hlds_laser_publisher -r __node:=hlds_laser_publisher --params-file /tmp/launch_params_z70dj9na'].
+1644999100.5809646 [INFO] [turtlebot3_ros-3]: process has finished cleanly [pid 2235]

@@ -1,0 +1,120 @@
+[0.000000] (-) TimerEvent: {}
+[0.001077] (-) JobUnselected: {'identifier': 'robot'}
+[0.001396] (-) JobUnselected: {'identifier': 'turtlebot3'}
+[0.002109] (-) JobUnselected: {'identifier': 'turtlebot3_bringup'}
+[0.002653] (-) JobUnselected: {'identifier': 'turtlebot3_description'}
+[0.003559] (-) JobUnselected: {'identifier': 'turtlebot3_example'}
+[0.003758] (-) JobUnselected: {'identifier': 'turtlebot3_node'}
+[0.003863] (-) JobUnselected: {'identifier': 'turtlebot3_teleop'}
+[0.003973] (launch_joy_robot) JobQueued: {'identifier': 'launch_joy_robot', 'dependencies': OrderedDict()}
+[0.004088] (launch_joy_robot) JobStarted: {'identifier': 'launch_joy_robot'}
+[0.063240] (launch_joy_robot) JobProgress: {'identifier': 'launch_joy_robot', 'progress': 'cmake'}
+[0.064114] (launch_joy_robot) Command: {'cmd': ['/usr/bin/cmake', '/home/ubuntu/turtlebot3_ws/src/launch_joy_robot', '-DCMAKE_INSTALL_PREFIX=/home/ubuntu/turtlebot3_ws/install/launch_joy_robot'], 'cwd': '/home/ubuntu/turtlebot3_ws/build/launch_joy_robot', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'ubuntu'), ('SSH_CLIENT', '192.168.0.207 41746 22'), ('LC_TIME', 'en_US.UTF-8'), ('XDG_SESSION_TYPE', 'tty'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/home/ubuntu/turtlebot3_ws/install/raspicam2/lib:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib'), ('HOME', '/home/ubuntu'), ('OLDPWD', '/home/ubuntu'), ('TURTLEBOT3_MAX_SPEED', '0.22'), ('SSH_TTY', '/dev/pts/0'), ('ROS_PYTHON_VERSION', '3'), ('LC_MONETARY', 'en_US.UTF-8'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLCON_PREFIX_PATH', '/home/ubuntu/turtlebot3_ws/install'), ('ROS_DISTRO', 'foxy'), ('LOGNAME', 'ubuntu'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('TERM', 'xterm-256color'), ('XDG_SESSION_ID', '1'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/opt/ros/foxy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'), ('LC_ADDRESS', 'en_US.UTF-8'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('TURTLEBOT3_MAX_ROTATE', '2.84'), ('LANG', 'en_US.UTF-8'), ('LC_TELEPHONE', 'en_US.UTF-8'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('ROS_DOMAIN_ID', '30'), ('AMENT_PREFIX_PATH', '/home/ubuntu/turtlebot3_ws/install/turtlebot3:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_bringup:/home/ubuntu/turtlebot3_ws/install/turtlebot3_node:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/home/ubuntu/turtlebot3_ws/install/turtlebot3_description:/home/ubuntu/turtlebot3_ws/install/robot:/home/ubuntu/turtlebot3_ws/install/raspicam2:/opt/ros/foxy'), ('SHELL', '/bin/bash'), ('LC_NAME', 'en_US.UTF-8'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('LC_MEASUREMENT', 'en_US.UTF-8'), ('LC_IDENTIFICATION', 'en_US.UTF-8'), ('PWD', '/home/ubuntu/turtlebot3_ws/build/launch_joy_robot'), ('OPENCR_PORT', '/dev/ttyACM0'), ('TURTLEBOT3_MODEL', 'burger'), ('LC_ALL', 'en_US.UTF-8'), ('SSH_CONNECTION', '192.168.0.207 41746 192.168.0.161 22'), ('XDG_DATA_DIRS', '/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/home/ubuntu/turtlebot3_ws/build/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.8/site-packages:/home/ubuntu/turtlebot3_ws/build/turtlebot3_example:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages'), ('LC_NUMERIC', 'en_US.UTF-8'), ('LC_PAPER', 'en_US.UTF-8'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/home/ubuntu/turtlebot3_ws/install/turtlebot3:/home/ubuntu/turtlebot3_ws/install/turtlebot3_bringup:/home/ubuntu/turtlebot3_ws/install/turtlebot3_node:/home/ubuntu/turtlebot3_ws/install/turtlebot3_description:/home/ubuntu/turtlebot3_ws/install/robot:/home/ubuntu/turtlebot3_ws/install/raspicam2:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy'), ('OPENCR_MODEL', 'burger')]), 'shell': False}
+[0.099054] (-) TimerEvent: {}
+[0.199792] (-) TimerEvent: {}
+[0.300550] (-) TimerEvent: {}
+[0.401299] (-) TimerEvent: {}
+[0.501949] (-) TimerEvent: {}
+[0.602600] (-) TimerEvent: {}
+[0.703247] (-) TimerEvent: {}
+[0.803907] (-) TimerEvent: {}
+[0.904672] (-) TimerEvent: {}
+[1.005331] (-) TimerEvent: {}
+[1.106003] (-) TimerEvent: {}
+[1.114393] (launch_joy_robot) StdoutLine: {'line': b'-- The C compiler identification is GNU 9.3.0\n'}
+[1.206213] (-) TimerEvent: {}
+[1.306886] (-) TimerEvent: {}
+[1.407570] (-) TimerEvent: {}
+[1.508188] (-) TimerEvent: {}
+[1.608839] (-) TimerEvent: {}
+[1.709450] (-) TimerEvent: {}
+[1.810146] (-) TimerEvent: {}
+[1.873574] (launch_joy_robot) StdoutLine: {'line': b'-- The CXX compiler identification is GNU 9.3.0\n'}
+[1.907620] (launch_joy_robot) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc\n'}
+[1.910278] (-) TimerEvent: {}
+[2.010920] (-) TimerEvent: {}
+[2.111657] (-) TimerEvent: {}
+[2.212557] (-) TimerEvent: {}
+[2.223434] (launch_joy_robot) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc -- works\n'}
+[2.229343] (launch_joy_robot) StdoutLine: {'line': b'-- Detecting C compiler ABI info\n'}
+[2.312774] (-) TimerEvent: {}
+[2.413576] (-) TimerEvent: {}
+[2.514354] (-) TimerEvent: {}
+[2.518360] (launch_joy_robot) StdoutLine: {'line': b'-- Detecting C compiler ABI info - done\n'}
+[2.558423] (launch_joy_robot) StdoutLine: {'line': b'-- Detecting C compile features\n'}
+[2.560529] (launch_joy_robot) StdoutLine: {'line': b'-- Detecting C compile features - done\n'}
+[2.573645] (launch_joy_robot) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++\n'}
+[2.614529] (-) TimerEvent: {}
+[2.715236] (-) TimerEvent: {}
+[2.816024] (-) TimerEvent: {}
+[2.888956] (launch_joy_robot) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++ -- works\n'}
+[2.892677] (launch_joy_robot) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info\n'}
+[2.916176] (-) TimerEvent: {}
+[3.017037] (-) TimerEvent: {}
+[3.117868] (-) TimerEvent: {}
+[3.218635] (-) TimerEvent: {}
+[3.254308] (launch_joy_robot) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info - done\n'}
+[3.312626] (launch_joy_robot) StdoutLine: {'line': b'-- Detecting CXX compile features\n'}
+[3.314543] (launch_joy_robot) StdoutLine: {'line': b'-- Detecting CXX compile features - done\n'}
+[3.318777] (-) TimerEvent: {}
+[3.349119] (launch_joy_robot) StdoutLine: {'line': b'-- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)\n'}
+[3.418934] (-) TimerEvent: {}
+[3.519662] (-) TimerEvent: {}
+[3.520628] (launch_joy_robot) StdoutLine: {'line': b'-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") \n'}
+[3.521298] (launch_joy_robot) StdoutLine: {'line': b'-- Using PYTHON_EXECUTABLE: /usr/bin/python3\n'}
+[3.619793] (-) TimerEvent: {}
+[3.720462] (-) TimerEvent: {}
+[3.821073] (-) TimerEvent: {}
+[3.921671] (-) TimerEvent: {}
+[4.022255] (-) TimerEvent: {}
+[4.122832] (-) TimerEvent: {}
+[4.223462] (-) TimerEvent: {}
+[4.324091] (-) TimerEvent: {}
+[4.424756] (-) TimerEvent: {}
+[4.520021] (launch_joy_robot) StdoutLine: {'line': b'-- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)\n'}
+[4.524901] (-) TimerEvent: {}
+[4.625541] (-) TimerEvent: {}
+[4.726238] (-) TimerEvent: {}
+[4.826927] (-) TimerEvent: {}
+[4.927580] (-) TimerEvent: {}
+[4.998991] (launch_joy_robot) StdoutLine: {'line': b"-- Added test 'copyright' to check source files copyright and LICENSE\n"}
+[5.015080] (launch_joy_robot) StdoutLine: {'line': b"-- Added test 'flake8' to check Python code syntax and style conventions\n"}
+[5.019465] (launch_joy_robot) StdoutLine: {'line': b"-- Added test 'lint_cmake' to check CMake code style\n"}
+[5.023336] (launch_joy_robot) StdoutLine: {'line': b"-- Added test 'pep257' to check Python code against some of the style conventions in PEP 257\n"}
+[5.027715] (-) TimerEvent: {}
+[5.032887] (launch_joy_robot) StdoutLine: {'line': b"-- Added test 'xmllint' to check XML markup files\n"}
+[5.049481] (launch_joy_robot) StdoutLine: {'line': b'-- Configuring done\n'}
+[5.059478] (launch_joy_robot) StdoutLine: {'line': b'-- Generating done\n'}
+[5.063559] (launch_joy_robot) StdoutLine: {'line': b'-- Build files have been written to: /home/ubuntu/turtlebot3_ws/build/launch_joy_robot\n'}
+[5.074814] (launch_joy_robot) CommandEnded: {'returncode': 0}
+[5.076894] (launch_joy_robot) JobProgress: {'identifier': 'launch_joy_robot', 'progress': 'build'}
+[5.079475] (launch_joy_robot) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/ubuntu/turtlebot3_ws/build/launch_joy_robot', '--', '-j4', '-l4'], 'cwd': '/home/ubuntu/turtlebot3_ws/build/launch_joy_robot', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'ubuntu'), ('SSH_CLIENT', '192.168.0.207 41746 22'), ('LC_TIME', 'en_US.UTF-8'), ('XDG_SESSION_TYPE', 'tty'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/home/ubuntu/turtlebot3_ws/install/raspicam2/lib:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib'), ('HOME', '/home/ubuntu'), ('OLDPWD', '/home/ubuntu'), ('TURTLEBOT3_MAX_SPEED', '0.22'), ('SSH_TTY', '/dev/pts/0'), ('ROS_PYTHON_VERSION', '3'), ('LC_MONETARY', 'en_US.UTF-8'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLCON_PREFIX_PATH', '/home/ubuntu/turtlebot3_ws/install'), ('ROS_DISTRO', 'foxy'), ('LOGNAME', 'ubuntu'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('TERM', 'xterm-256color'), ('XDG_SESSION_ID', '1'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/opt/ros/foxy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'), ('LC_ADDRESS', 'en_US.UTF-8'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('TURTLEBOT3_MAX_ROTATE', '2.84'), ('LANG', 'en_US.UTF-8'), ('LC_TELEPHONE', 'en_US.UTF-8'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('ROS_DOMAIN_ID', '30'), ('AMENT_PREFIX_PATH', '/home/ubuntu/turtlebot3_ws/install/turtlebot3:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_bringup:/home/ubuntu/turtlebot3_ws/install/turtlebot3_node:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/home/ubuntu/turtlebot3_ws/install/turtlebot3_description:/home/ubuntu/turtlebot3_ws/install/robot:/home/ubuntu/turtlebot3_ws/install/raspicam2:/opt/ros/foxy'), ('SHELL', '/bin/bash'), ('LC_NAME', 'en_US.UTF-8'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('LC_MEASUREMENT', 'en_US.UTF-8'), ('LC_IDENTIFICATION', 'en_US.UTF-8'), ('PWD', '/home/ubuntu/turtlebot3_ws/build/launch_joy_robot'), ('OPENCR_PORT', '/dev/ttyACM0'), ('TURTLEBOT3_MODEL', 'burger'), ('LC_ALL', 'en_US.UTF-8'), ('SSH_CONNECTION', '192.168.0.207 41746 192.168.0.161 22'), ('XDG_DATA_DIRS', '/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/home/ubuntu/turtlebot3_ws/build/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.8/site-packages:/home/ubuntu/turtlebot3_ws/build/turtlebot3_example:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages'), ('LC_NUMERIC', 'en_US.UTF-8'), ('LC_PAPER', 'en_US.UTF-8'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/home/ubuntu/turtlebot3_ws/install/turtlebot3:/home/ubuntu/turtlebot3_ws/install/turtlebot3_bringup:/home/ubuntu/turtlebot3_ws/install/turtlebot3_node:/home/ubuntu/turtlebot3_ws/install/turtlebot3_description:/home/ubuntu/turtlebot3_ws/install/robot:/home/ubuntu/turtlebot3_ws/install/raspicam2:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy'), ('OPENCR_MODEL', 'burger')]), 'shell': False}
+[5.127976] (-) TimerEvent: {}
+[5.228837] (-) TimerEvent: {}
+[5.234333] (launch_joy_robot) CommandEnded: {'returncode': 0}
+[5.326816] (launch_joy_robot) JobProgress: {'identifier': 'launch_joy_robot', 'progress': 'install'}
+[5.329909] (-) TimerEvent: {}
+[5.364248] (launch_joy_robot) Command: {'cmd': ['/usr/bin/cmake', '--install', '/home/ubuntu/turtlebot3_ws/build/launch_joy_robot'], 'cwd': '/home/ubuntu/turtlebot3_ws/build/launch_joy_robot', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'ubuntu'), ('SSH_CLIENT', '192.168.0.207 41746 22'), ('LC_TIME', 'en_US.UTF-8'), ('XDG_SESSION_TYPE', 'tty'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/home/ubuntu/turtlebot3_ws/install/raspicam2/lib:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib'), ('HOME', '/home/ubuntu'), ('OLDPWD', '/home/ubuntu'), ('TURTLEBOT3_MAX_SPEED', '0.22'), ('SSH_TTY', '/dev/pts/0'), ('ROS_PYTHON_VERSION', '3'), ('LC_MONETARY', 'en_US.UTF-8'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLCON_PREFIX_PATH', '/home/ubuntu/turtlebot3_ws/install'), ('ROS_DISTRO', 'foxy'), ('LOGNAME', 'ubuntu'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('TERM', 'xterm-256color'), ('XDG_SESSION_ID', '1'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/opt/ros/foxy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'), ('LC_ADDRESS', 'en_US.UTF-8'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('TURTLEBOT3_MAX_ROTATE', '2.84'), ('LANG', 'en_US.UTF-8'), ('LC_TELEPHONE', 'en_US.UTF-8'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('ROS_DOMAIN_ID', '30'), ('AMENT_PREFIX_PATH', '/home/ubuntu/turtlebot3_ws/install/turtlebot3:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_bringup:/home/ubuntu/turtlebot3_ws/install/turtlebot3_node:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/home/ubuntu/turtlebot3_ws/install/turtlebot3_description:/home/ubuntu/turtlebot3_ws/install/robot:/home/ubuntu/turtlebot3_ws/install/raspicam2:/opt/ros/foxy'), ('SHELL', '/bin/bash'), ('LC_NAME', 'en_US.UTF-8'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('LC_MEASUREMENT', 'en_US.UTF-8'), ('LC_IDENTIFICATION', 'en_US.UTF-8'), ('PWD', '/home/ubuntu/turtlebot3_ws/build/launch_joy_robot'), ('OPENCR_PORT', '/dev/ttyACM0'), ('TURTLEBOT3_MODEL', 'burger'), ('LC_ALL', 'en_US.UTF-8'), ('SSH_CONNECTION', '192.168.0.207 41746 192.168.0.161 22'), ('XDG_DATA_DIRS', '/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/home/ubuntu/turtlebot3_ws/build/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.8/site-packages:/home/ubuntu/turtlebot3_ws/build/turtlebot3_example:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages'), ('LC_NUMERIC', 'en_US.UTF-8'), ('LC_PAPER', 'en_US.UTF-8'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/home/ubuntu/turtlebot3_ws/install/turtlebot3:/home/ubuntu/turtlebot3_ws/install/turtlebot3_bringup:/home/ubuntu/turtlebot3_ws/install/turtlebot3_node:/home/ubuntu/turtlebot3_ws/install/turtlebot3_description:/home/ubuntu/turtlebot3_ws/install/robot:/home/ubuntu/turtlebot3_ws/install/raspicam2:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy'), ('OPENCR_MODEL', 'burger')]), 'shell': False}
+[5.401699] (launch_joy_robot) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[5.402656] (launch_joy_robot) StdoutLine: {'line': b'-- Installing: /home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/ament_index/resource_index/package_run_dependencies/launch_joy_robot\n'}
+[5.404350] (launch_joy_robot) StdoutLine: {'line': b'-- Installing: /home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/ament_index/resource_index/parent_prefix_path/launch_joy_robot\n'}
+[5.405875] (launch_joy_robot) StdoutLine: {'line': b'-- Installing: /home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/launch_joy_robot/environment/ament_prefix_path.sh\n'}
+[5.407013] (launch_joy_robot) StdoutLine: {'line': b'-- Installing: /home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/launch_joy_robot/environment/ament_prefix_path.dsv\n'}
+[5.408124] (launch_joy_robot) StdoutLine: {'line': b'-- Installing: /home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/launch_joy_robot/environment/path.sh\n'}
+[5.409431] (launch_joy_robot) StdoutLine: {'line': b'-- Installing: /home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/launch_joy_robot/environment/path.dsv\n'}
+[5.410494] (launch_joy_robot) StdoutLine: {'line': b'-- Installing: /home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/launch_joy_robot/local_setup.bash\n'}
+[5.411577] (launch_joy_robot) StdoutLine: {'line': b'-- Installing: /home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/launch_joy_robot/local_setup.sh\n'}
+[5.412705] (launch_joy_robot) StdoutLine: {'line': b'-- Installing: /home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/launch_joy_robot/local_setup.zsh\n'}
+[5.413740] (launch_joy_robot) StdoutLine: {'line': b'-- Installing: /home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/launch_joy_robot/local_setup.dsv\n'}
+[5.414844] (launch_joy_robot) StdoutLine: {'line': b'-- Installing: /home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/launch_joy_robot/package.dsv\n'}
+[5.416163] (launch_joy_robot) StdoutLine: {'line': b'-- Installing: /home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/ament_index/resource_index/packages/launch_joy_robot\n'}
+[5.417548] (launch_joy_robot) StdoutLine: {'line': b'-- Installing: /home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/launch_joy_robot/cmake/launch_joy_robotConfig.cmake\n'}
+[5.418432] (launch_joy_robot) StdoutLine: {'line': b'-- Installing: /home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/launch_joy_robot/cmake/launch_joy_robotConfig-version.cmake\n'}
+[5.419548] (launch_joy_robot) StdoutLine: {'line': b'-- Installing: /home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/launch_joy_robot/package.xml\n'}
+[5.420455] (launch_joy_robot) StdoutLine: {'line': b'-- Installing: /home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/launch_joy_robot//launch\n'}
+[5.421051] (launch_joy_robot) StdoutLine: {'line': b'-- Installing: /home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/launch_joy_robot//launch/launch_node.launch.py\n'}
+[5.426889] (launch_joy_robot) CommandEnded: {'returncode': 0}
+[5.429833] (-) TimerEvent: {}
+[5.532090] (-) TimerEvent: {}
+[5.624174] (launch_joy_robot) JobEnded: {'identifier': 'launch_joy_robot', 'rc': 0}
+[5.626760] (-) EventReactorShutdown: {}

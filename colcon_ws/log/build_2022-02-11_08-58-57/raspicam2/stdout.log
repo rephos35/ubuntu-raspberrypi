@@ -1,0 +1,26 @@
+[ 57%] Built target raspicam_common
+[ 71%] Built target raspicam
+[ 85%] Built target RasPiCamPublisherNode
+[100%] Built target raspicam2_node
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/lib/libRasPiCamPublisherNode.so
+-- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/lib/libraspicam.so
+-- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/lib/raspicam2/raspicam2_node
+-- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/cfg/params.yaml
+-- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/ament_index/resource_index/package_run_dependencies/raspicam2
+-- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/ament_index/resource_index/parent_prefix_path/raspicam2
+-- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/environment/path.sh
+-- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/environment/path.dsv
+-- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/local_setup.bash
+-- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/local_setup.sh
+-- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/local_setup.zsh
+-- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/local_setup.dsv
+-- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/package.dsv
+-- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/ament_index/resource_index/packages/raspicam2
+-- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/ament_index/resource_index/rclcpp_components/raspicam2
+-- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/cmake/raspicam2Config.cmake
+-- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/cmake/raspicam2Config-version.cmake
+-- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/package.xml

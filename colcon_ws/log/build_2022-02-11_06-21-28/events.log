@@ -1,0 +1,162 @@
+[0.000000] (-) TimerEvent: {}
+[0.001049] (raspicam2) JobQueued: {'identifier': 'raspicam2', 'dependencies': OrderedDict()}
+[0.003452] (raspicam2) JobStarted: {'identifier': 'raspicam2'}
+[0.079308] (raspicam2) JobProgress: {'identifier': 'raspicam2', 'progress': 'cmake'}
+[0.080430] (raspicam2) Command: {'cmd': ['/usr/bin/cmake', '/home/ubuntu/colcon_ws/src/raspicam2_node', '-DAMENT_CMAKE_SYMLINK_INSTALL=1', '-DCMAKE_INSTALL_PREFIX=/home/ubuntu/colcon_ws/install/raspicam2'], 'cwd': '/home/ubuntu/colcon_ws/build/raspicam2', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('TMUX', '/tmp//tmux-1000/default,2095,0'), ('USER', 'ubuntu'), ('SSH_CLIENT', '192.168.0.140 41748 22'), ('LC_TIME', 'lzh_TW'), ('XDG_SESSION_TYPE', 'tty'), ('SHLVL', '2'), ('LD_LIBRARY_PATH', '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib'), ('MOTD_SHOWN', 'pam'), ('HOME', '/home/ubuntu'), ('OLDPWD', '/home/ubuntu/colcon_ws/src'), ('SSH_TTY', '/dev/pts/0'), ('ROS_PYTHON_VERSION', '3'), ('LC_MONETARY', 'lzh_TW'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLCON_PREFIX_PATH', '/home/ubuntu/turtlebot3_ws/install'), ('ROS_DISTRO', 'foxy'), ('LOGNAME', 'ubuntu'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('TERM', 'screen'), ('XDG_SESSION_ID', '2'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/opt/ros/foxy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'), ('LC_ADDRESS', 'lzh_TW'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('LANG', 'en_US.UTF-8'), ('LC_TELEPHONE', 'lzh_TW'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('ROS_DOMAIN_ID', '30'), ('AMENT_PREFIX_PATH', '/home/ubuntu/turtlebot3_ws/install/turtlebot3:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_bringup:/home/ubuntu/turtlebot3_ws/install/turtlebot3_node:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/home/ubuntu/turtlebot3_ws/install/turtlebot3_description:/opt/ros/foxy'), ('SHELL', '/bin/bash'), ('LC_NAME', 'lzh_TW'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('LC_MEASUREMENT', 'lzh_TW'), ('LC_IDENTIFICATION', 'lzh_TW'), ('PWD', '/home/ubuntu/colcon_ws/build/raspicam2'), ('OPENCR_PORT', '/dev/ttyACM0'), ('TURTLEBOT3_MODEL', 'burger'), ('LC_ALL', 'en_US.UTF-8'), ('SSH_CONNECTION', '192.168.0.140 41748 192.168.0.161 22'), ('XDG_DATA_DIRS', '/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/home/ubuntu/turtlebot3_ws/build/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.8/site-packages:/home/ubuntu/turtlebot3_ws/build/turtlebot3_example:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages'), ('LC_NUMERIC', 'lzh_TW'), ('LC_PAPER', 'lzh_TW'), ('COLCON', '1'), ('TMUX_PANE', '%0'), ('CMAKE_PREFIX_PATH', '/home/ubuntu/turtlebot3_ws/install/turtlebot3:/home/ubuntu/turtlebot3_ws/install/turtlebot3_bringup:/home/ubuntu/turtlebot3_ws/install/turtlebot3_node:/home/ubuntu/turtlebot3_ws/install/turtlebot3_description:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy'), ('OPENCR_MODEL', 'burger')]), 'shell': False}
+[0.099236] (-) TimerEvent: {}
+[0.200336] (-) TimerEvent: {}
+[0.301185] (-) TimerEvent: {}
+[0.402072] (-) TimerEvent: {}
+[0.502888] (-) TimerEvent: {}
+[0.603912] (-) TimerEvent: {}
+[0.704875] (-) TimerEvent: {}
+[0.805808] (-) TimerEvent: {}
+[0.906752] (-) TimerEvent: {}
+[1.007854] (-) TimerEvent: {}
+[1.108681] (-) TimerEvent: {}
+[1.195924] (raspicam2) StdoutLine: {'line': b'-- The C compiler identification is GNU 9.3.0\n'}
+[1.208831] (-) TimerEvent: {}
+[1.309566] (-) TimerEvent: {}
+[1.410696] (-) TimerEvent: {}
+[1.511646] (-) TimerEvent: {}
+[1.612522] (-) TimerEvent: {}
+[1.713380] (-) TimerEvent: {}
+[1.814279] (-) TimerEvent: {}
+[1.915310] (-) TimerEvent: {}
+[2.004407] (raspicam2) StdoutLine: {'line': b'-- The CXX compiler identification is GNU 9.3.0\n'}
+[2.015589] (-) TimerEvent: {}
+[2.040836] (raspicam2) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc\n'}
+[2.115794] (-) TimerEvent: {}
+[2.216753] (-) TimerEvent: {}
+[2.317983] (-) TimerEvent: {}
+[2.375865] (raspicam2) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc -- works\n'}
+[2.382564] (raspicam2) StdoutLine: {'line': b'-- Detecting C compiler ABI info\n'}
+[2.418187] (-) TimerEvent: {}
+[2.519332] (-) TimerEvent: {}
+[2.620595] (-) TimerEvent: {}
+[2.687815] (raspicam2) StdoutLine: {'line': b'-- Detecting C compiler ABI info - done\n'}
+[2.720749] (-) TimerEvent: {}
+[2.730429] (raspicam2) StdoutLine: {'line': b'-- Detecting C compile features\n'}
+[2.732777] (raspicam2) StdoutLine: {'line': b'-- Detecting C compile features - done\n'}
+[2.746159] (raspicam2) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++\n'}
+[2.820938] (-) TimerEvent: {}
+[2.921752] (-) TimerEvent: {}
+[3.040755] (-) TimerEvent: {}
+[3.131908] (raspicam2) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++ -- works\n'}
+[3.135623] (raspicam2) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info\n'}
+[3.140884] (-) TimerEvent: {}
+[3.241690] (-) TimerEvent: {}
+[3.342526] (-) TimerEvent: {}
+[3.443412] (-) TimerEvent: {}
+[3.471988] (raspicam2) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info - done\n'}
+[3.515584] (raspicam2) StdoutLine: {'line': b'-- Detecting CXX compile features\n'}
+[3.517488] (raspicam2) StdoutLine: {'line': b'-- Detecting CXX compile features - done\n'}
+[3.543530] (-) TimerEvent: {}
+[3.551473] (raspicam2) StdoutLine: {'line': b'-- Found ament_cmake: 0.9.8 (/opt/ros/foxy/share/ament_cmake/cmake)\n'}
+[3.643694] (-) TimerEvent: {}
+[3.727517] (raspicam2) StdoutLine: {'line': b'-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") \n'}
+[3.728309] (raspicam2) StdoutLine: {'line': b'-- Using PYTHON_EXECUTABLE: /usr/bin/python3\n'}
+[3.743867] (-) TimerEvent: {}
+[3.844558] (-) TimerEvent: {}
+[3.945222] (-) TimerEvent: {}
+[4.045927] (-) TimerEvent: {}
+[4.146599] (-) TimerEvent: {}
+[4.247250] (-) TimerEvent: {}
+[4.347886] (-) TimerEvent: {}
+[4.438766] (raspicam2) StdoutLine: {'line': b'-- Override CMake install command with custom implementation using symlinks instead of copying resources\n'}
+[4.448060] (-) TimerEvent: {}
+[4.548777] (-) TimerEvent: {}
+[4.649456] (-) TimerEvent: {}
+[4.731525] (raspicam2) StdoutLine: {'line': b'-- Found rclcpp: 2.3.1 (/opt/ros/foxy/share/rclcpp/cmake)\n'}
+[4.749655] (-) TimerEvent: {}
+[4.850457] (-) TimerEvent: {}
+[4.951190] (-) TimerEvent: {}
+[5.051897] (-) TimerEvent: {}
+[5.118723] (raspicam2) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c\n'}
+[5.152058] (-) TimerEvent: {}
+[5.192816] (raspicam2) StdoutLine: {'line': b'-- Found rosidl_adapter: 1.2.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)\n'}
+[5.252217] (-) TimerEvent: {}
+[5.352886] (-) TimerEvent: {}
+[5.453653] (-) TimerEvent: {}
+[5.554442] (-) TimerEvent: {}
+[5.641085] (raspicam2) StdoutLine: {'line': b'-- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "1.1.1f")  \n'}
+[5.654609] (-) TimerEvent: {}
+[5.755305] (-) TimerEvent: {}
+[5.772622] (raspicam2) StdoutLine: {'line': b'-- Found FastRTPS: /opt/ros/foxy/include  \n'}
+[5.855513] (-) TimerEvent: {}
+[5.956193] (-) TimerEvent: {}
+[6.056849] (-) TimerEvent: {}
+[6.157520] (-) TimerEvent: {}
+[6.219618] (raspicam2) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp\n'}
+[6.257685] (-) TimerEvent: {}
+[6.358391] (-) TimerEvent: {}
+[6.459080] (-) TimerEvent: {}
+[6.559817] (-) TimerEvent: {}
+[6.597043] (raspicam2) StdoutLine: {'line': b'-- Found rmw_implementation_cmake: 1.0.3 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)\n'}
+[6.607437] (raspicam2) StdoutLine: {'line': b"-- Using RMW implementation 'rmw_fastrtps_cpp' as default\n"}
+[6.615450] (raspicam2) StdoutLine: {'line': b'-- Looking for pthread.h\n'}
+[6.660004] (-) TimerEvent: {}
+[6.760734] (-) TimerEvent: {}
+[6.861652] (-) TimerEvent: {}
+[6.962478] (-) TimerEvent: {}
+[6.967746] (raspicam2) StdoutLine: {'line': b'-- Looking for pthread.h - found\n'}
+[6.968712] (raspicam2) StdoutLine: {'line': b'-- Performing Test CMAKE_HAVE_LIBC_PTHREAD\n'}
+[7.062713] (-) TimerEvent: {}
+[7.163694] (-) TimerEvent: {}
+[7.264597] (-) TimerEvent: {}
+[7.282942] (raspicam2) StdoutLine: {'line': b'-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed\n'}
+[7.283766] (raspicam2) StdoutLine: {'line': b'-- Looking for pthread_create in pthreads\n'}
+[7.364782] (-) TimerEvent: {}
+[7.465495] (-) TimerEvent: {}
+[7.544469] (raspicam2) StdoutLine: {'line': b'-- Looking for pthread_create in pthreads - not found\n'}
+[7.545213] (raspicam2) StdoutLine: {'line': b'-- Looking for pthread_create in pthread\n'}
+[7.565685] (-) TimerEvent: {}
+[7.666388] (-) TimerEvent: {}
+[7.767147] (-) TimerEvent: {}
+[7.850780] (raspicam2) StdoutLine: {'line': b'-- Looking for pthread_create in pthread - found\n'}
+[7.855322] (raspicam2) StdoutLine: {'line': b'-- Found Threads: TRUE  \n'}
+[7.867317] (-) TimerEvent: {}
+[7.968157] (-) TimerEvent: {}
+[8.068849] (-) TimerEvent: {}
+[8.169571] (-) TimerEvent: {}
+[8.270308] (-) TimerEvent: {}
+[8.371003] (-) TimerEvent: {}
+[8.471717] (-) TimerEvent: {}
+[8.572402] (-) TimerEvent: {}
+[8.673103] (-) TimerEvent: {}
+[8.678068] (raspicam2) StdoutLine: {'line': b'-- Found rclcpp_components: 2.3.1 (/opt/ros/foxy/share/rclcpp_components/cmake)\n'}
+[8.773266] (-) TimerEvent: {}
+[8.873964] (-) TimerEvent: {}
+[8.974659] (-) TimerEvent: {}
+[9.015973] (raspicam2) StdoutLine: {'line': b'-- Found sensor_msgs: 2.0.4 (/opt/ros/foxy/share/sensor_msgs/cmake)\n'}
+[9.074840] (-) TimerEvent: {}
+[9.175524] (-) TimerEvent: {}
+[9.276231] (-) TimerEvent: {}
+[9.376918] (-) TimerEvent: {}
+[9.477613] (-) TimerEvent: {}
+[9.578352] (-) TimerEvent: {}
+[9.679032] (-) TimerEvent: {}
+[9.779797] (-) TimerEvent: {}
+[9.872467] (raspicam2) StderrLine: {'line': b'CMake Error: The following variables are used in this project, but they are set to NOTFOUND.\n'}
+[9.873242] (raspicam2) StderrLine: {'line': b'Please set them or make sure they are set and tested correctly in the CMake files:\n'}
+[9.873637] (raspicam2) StderrLine: {'line': b'bcmhost_LIBS\n'}
+[9.874004] (raspicam2) StderrLine: {'line': b'    linked by target "raspicam_common" in directory /home/ubuntu/colcon_ws/src/raspicam2_node\n'}
+[9.874379] (raspicam2) StderrLine: {'line': b'mmal_LIBS\n'}
+[9.874741] (raspicam2) StderrLine: {'line': b'    linked by target "raspicam_common" in directory /home/ubuntu/colcon_ws/src/raspicam2_node\n'}
+[9.875119] (raspicam2) StderrLine: {'line': b'mmalcore_LIBS\n'}
+[9.875619] (raspicam2) StderrLine: {'line': b'    linked by target "raspicam_common" in directory /home/ubuntu/colcon_ws/src/raspicam2_node\n'}
+[9.876022] (raspicam2) StderrLine: {'line': b'mmalutil_LIBS\n'}
+[9.876399] (raspicam2) StderrLine: {'line': b'    linked by target "raspicam_common" in directory /home/ubuntu/colcon_ws/src/raspicam2_node\n'}
+[9.876785] (raspicam2) StderrLine: {'line': b'mmalvcclient_LIBS\n'}
+[9.877191] (raspicam2) StdoutLine: {'line': b'-- Configuring incomplete, errors occurred!\n'}
+[9.877798] (raspicam2) StdoutLine: {'line': b'See also "/home/ubuntu/colcon_ws/build/raspicam2/CMakeFiles/CMakeOutput.log".\n'}
+[9.878541] (raspicam2) StderrLine: {'line': b'    linked by target "raspicam_common" in directory /home/ubuntu/colcon_ws/src/raspicam2_node\n'}
+[9.879440] (raspicam2) StderrLine: {'line': b'vcos_LIBS\n'}
+[9.879919] (-) TimerEvent: {}
+[9.880391] (raspicam2) StderrLine: {'line': b'    linked by target "raspicam_common" in directory /home/ubuntu/colcon_ws/src/raspicam2_node\n'}
+[9.881009] (raspicam2) StderrLine: {'line': b'\n'}
+[9.881462] (raspicam2) StdoutLine: {'line': b'See also "/home/ubuntu/colcon_ws/build/raspicam2/CMakeFiles/CMakeError.log".\n'}
+[9.899440] (raspicam2) CommandEnded: {'returncode': 1}
+[9.982193] (-) TimerEvent: {}
+[10.010565] (raspicam2) JobEnded: {'identifier': 'raspicam2', 'rc': 1}
+[10.022406] (-) EventReactorShutdown: {}

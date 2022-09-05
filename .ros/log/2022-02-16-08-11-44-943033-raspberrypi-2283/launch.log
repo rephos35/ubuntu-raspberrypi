@@ -1,0 +1,9 @@
+1644999104.9528904 [INFO] [launch]: All log files can be found below /home/ubuntu/.ros/log/2022-02-16-08-11-44-943033-raspberrypi-2283
+1644999104.9537029 [INFO] [launch]: Default logging verbosity is set to INFO
+1644999105.3405328 [INFO] [robot_state_publisher-1]: process started with pid [2285]
+1644999105.3415930 [INFO] [hlds_laser_publisher-2]: process started with pid [2287]
+1644999105.3425329 [INFO] [turtlebot3_ros-3]: process started with pid [2289]
+1644999434.3494544 [WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+1644999434.4390807 [INFO] [robot_state_publisher-1]: process has finished cleanly [pid 2285]
+1644999434.4582825 [INFO] [turtlebot3_ros-3]: process has finished cleanly [pid 2289]
+1644999434.5769470 [INFO] [hlds_laser_publisher-2]: process has finished cleanly [pid 2287]

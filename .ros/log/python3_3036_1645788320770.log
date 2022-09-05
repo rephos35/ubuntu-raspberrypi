@@ -1,0 +1,3389 @@
+[INFO] [1645788321.118760979] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788321.120877450] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788321.122825757] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788321.124695268] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788321.127864058] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788321.129785106] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788321.131662006] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788321.133485518] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788321.136624938] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788321.138728058] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788321.140668735] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788321.142584394] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788321.161931092] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788321.164162506] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788321.166376105] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788321.168299393] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788321.212276217] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788321.214511520] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788321.216537159] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788321.218467355] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788321.264040601] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788321.266023648] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788321.267996399] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788321.269883281] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788321.314553947] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788321.316600382] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788321.318726464] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788321.320661122] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788321.365370492] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788321.367393353] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788321.369464325] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788321.371698961] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788321.414937147] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788321.416951804] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788321.418881481] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788321.420762511] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788321.465485436] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788321.467504186] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788321.469400753] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788321.471285912] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788321.516542107] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788321.518658504] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788321.520633551] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788321.522546136] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788321.581715345] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788321.584100127] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788321.586430614] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788321.588600584] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788321.618867447] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788321.620844309] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788321.623018872] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788321.625142806] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788321.668342992] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788321.670571962] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788321.672732988] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788321.674687424] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788321.720442705] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788321.722445529] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788321.724376595] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788321.726568325] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788321.769838010] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788321.772309161] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788321.774434114] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788321.776664917] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788321.823069504] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788321.825115679] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788321.827265891] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788321.829348047] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788321.871848799] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788321.873807383] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788321.875960483] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788321.877874364] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788321.921384343] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788321.923601590] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788321.925586952] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788321.927820107] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788321.973147375] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788321.975504269] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788321.977709961] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788321.979970874] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788322.022712974] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788322.025093386] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788322.027349133] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788322.029287366] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788322.074120141] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788322.076336203] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788322.078516840] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788322.080419703] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788322.123990699] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788322.126281631] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788322.128298066] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788322.130456389] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788322.181866166] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788322.183863213] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788322.185761113] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788322.187671902] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788322.227852056] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788322.229812806] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788322.232018499] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788322.234116414] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788322.276006230] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788322.277971388] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788322.279901306] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788322.281781373] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788322.331112346] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788322.333137059] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788322.335145457] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788322.337078320] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788322.378654380] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788322.380623428] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788322.382572864] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788322.384465857] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788322.442037254] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788322.444191409] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788322.446248807] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788322.448160540] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788322.488488192] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788322.490475035] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788322.492367195] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788322.494245724] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788322.539235238] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788322.541158101] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788322.543067278] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788322.544965012] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788322.592947114] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788322.594922606] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788322.596817358] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788322.598741053] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788322.644291967] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788322.646280551] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788322.648176432] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788322.650044333] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788322.712687012] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788322.714701559] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788322.716619366] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788322.718502914] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788322.745311177] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788322.747286872] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788322.749157124] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788322.751073895] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788322.792531772] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788322.794527985] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788322.796451496] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788322.798365970] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788322.846619402] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788322.848564653] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788322.850497237] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788322.852365323] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788322.894877056] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788322.896956472] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788322.899028925] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788322.900996954] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788322.944274454] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788322.946293038] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788322.948250529] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788322.950118578] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788323.003948304] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788323.005892018] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788323.007789844] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788323.009641652] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788323.046210726] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788323.048222735] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788323.050226819] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788323.052163941] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788323.100311208] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788323.102392883] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788323.104396633] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788323.106545937] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788323.150985940] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788323.152931691] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788323.154955219] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788323.156908952] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788323.199914363] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788323.201878151] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788323.203834569] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788323.205698025] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788323.249566536] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788323.252491274] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788323.255349920] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788323.258104271] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788323.301556454] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788323.304545839] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788323.307460336] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788323.310324408] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788323.351936950] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788323.355198091] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788323.358328474] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788323.361359229] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788323.402009043] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788323.405182888] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788323.408267105] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788323.411326674] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788323.462796248] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788323.466059055] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788323.469281974] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788323.472493671] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788323.513066653] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788323.516249739] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788323.519752654] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788323.523186533] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788323.570869103] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788323.574483442] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788323.577940395] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788323.581332108] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788323.615369846] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788323.618682948] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788323.621523965] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788323.624387000] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788323.668383398] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788323.671301710] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788323.674334780] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788323.677297535] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788323.715717084] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788323.718716561] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788323.721429561] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788323.724160116] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788323.766307373] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788323.769229907] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788323.772178385] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788323.775074142] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788323.816813571] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788323.820151970] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788323.823555812] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788323.827050579] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788323.869308945] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788323.872854563] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788323.876302757] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788323.879699507] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788323.919290280] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788323.922225536] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788323.925054090] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788323.927906977] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788323.968856509] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788323.971719322] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788323.974509358] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788323.977217617] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788324.019532019] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788324.022386740] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788324.025105221] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788324.027820443] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788324.070206271] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788324.073205545] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788324.076149375] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788324.079023058] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788324.121190333] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788324.124702248] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788324.128146478] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788324.131491432] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788324.173282787] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788324.176865016] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788324.180576465] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788324.184035473] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788324.240569514] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788324.243469790] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788324.246303992] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788324.249038713] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788324.272915405] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788324.275777570] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788324.278611309] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788324.281363494] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788324.346105145] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788324.349050438] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788324.351907436] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788324.354630677] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788324.374353647] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788324.377267441] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788324.380244697] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788324.383140861] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788324.425580558] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788324.429050510] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788324.432462538] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788324.435983786] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788324.477379275] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788324.480940727] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788324.484448067] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788324.487875095] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788324.527623144] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788324.530560677] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788324.533476082] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788324.536280377] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788324.576982191] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788324.579809504] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788324.582607836] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788324.585356428] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788324.627725145] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788324.630580772] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788324.633297013] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788324.635999994] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788324.686457971] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788324.689725130] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788324.692838458] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788324.695623883] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788324.729863933] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788324.733679658] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788324.737524661] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788324.741560976] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788324.824318511] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788324.828425214] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788324.831664374] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788324.834898477] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788324.839777670] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788324.843019274] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788324.846933887] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788324.850264267] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788324.881241307] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788324.884437115] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788324.887984788] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788324.891612239] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788324.940149464] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788324.943064776] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788324.946296824] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788324.949240932] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788324.983718201] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788324.986672475] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788324.989486752] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788324.992315602] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788325.033626037] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788325.037105064] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788325.040510424] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788325.043914637] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788325.083875202] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788325.087364284] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788325.090782681] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788325.094105154] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788325.140370003] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788325.143595644] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788325.146774397] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788325.149862929] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788325.185016078] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788325.188127628] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788325.191171549] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788325.194113842] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788325.236190045] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788325.239057746] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788325.241877523] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788325.244560727] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788325.285658387] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788325.288646679] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788325.291543584] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788325.294404878] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788325.337931691] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788325.341067888] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788325.344128439] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788325.347098436] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788325.387112833] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788325.390214716] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788325.393236175] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788325.396269189] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788325.448612621] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788325.451842799] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788325.454955590] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788325.457926624] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788325.499001192] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788325.502072335] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788325.505534473] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788325.508716874] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788325.550419303] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788325.553230172] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788325.555968153] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788325.558683413] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788325.602070504] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788325.604952021] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788325.608100033] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788325.610926050] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788325.650965502] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788325.654665415] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788325.658308772] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788325.661774781] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788325.720646438] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788325.724167205] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788325.727611214] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788325.730960520] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788325.751927159] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788325.755175911] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788325.758346108] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788325.761456917] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788325.803057182] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788325.806212787] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788325.809256523] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788325.812488812] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788325.852713447] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788325.855875145] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788325.858941418] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788325.861938469] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788325.903748657] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788325.906996798] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788325.910083663] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788325.913303619] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788325.954098931] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788325.959243305] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788325.962320504] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788325.965464405] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788326.004727387] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788326.007886362] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788326.010946450] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788326.013933150] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788326.059662618] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788326.062909055] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788326.066109844] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788326.069224098] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788326.105881375] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788326.109056035] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788326.112103067] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788326.115125730] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788326.160308538] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788326.163143369] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788326.165887758] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788326.168638368] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788326.207436023] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788326.210373224] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788326.213198167] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788326.216117905] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788326.265837429] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788326.269565155] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788326.273160291] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788326.276666892] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788326.309323260] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788326.312826675] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788326.316265072] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788326.319646619] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788326.360185398] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788326.363459020] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788326.366757308] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788326.369875340] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788326.420622442] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788326.423765695] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788326.427442182] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788326.430700712] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788326.469982341] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788326.472033165] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788326.473925917] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788326.475781132] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788326.524385005] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788326.526322127] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788326.528284248] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788326.530234703] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788326.571190847] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788326.573224448] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788326.575258421] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788326.577220079] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788326.624782781] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788326.626765735] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788326.628649135] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788326.630578035] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788326.672687755] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788326.674782097] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788326.676675534] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788326.678530305] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788326.723099918] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788326.725029040] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788326.726947532] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788326.728812303] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788326.773576246] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788326.775656329] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788326.777647469] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788326.779631275] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788326.877322865] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788326.879456095] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788326.881398291] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788326.883302265] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788326.886405037] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788326.888321715] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788326.890154523] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788326.891990220] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788326.925822128] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788326.927791657] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788326.929696668] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788326.931562716] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788326.978947031] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788326.980894060] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788326.982809756] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788326.984663694] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788327.026940042] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788327.028870571] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788327.031095985] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788327.033138346] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788327.078306785] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788327.080233647] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788327.082074233] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788327.083971448] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788327.174711837] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788327.176813772] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788327.179157665] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788327.181173323] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788327.184321187] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788327.186246587] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788327.188081932] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788327.189874982] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788327.229630402] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788327.231788446] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788327.233801307] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788327.235768095] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788327.282697917] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788327.284665223] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788327.286593216] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788327.288452598] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788327.330631577] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788327.332581457] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788327.334491728] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788327.336344647] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788327.418857612] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788327.420828437] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788327.422797484] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788327.424661421] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788327.432047505] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788327.434086959] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788327.436123542] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788327.438097219] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788327.504823992] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788327.507066776] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788327.509094341] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788327.511172720] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788327.537988761] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788327.539983123] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788327.541835542] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788327.543707350] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788327.583962374] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788327.585882384] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788327.587828580] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788327.589737258] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788327.634562923] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788327.636609376] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788327.638634275] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788327.640592489] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788327.685120065] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788327.687177593] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788327.689131325] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788327.691054114] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788327.735790836] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788327.737746401] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788327.739863687] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788327.741924252] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788327.786482180] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788327.788475041] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788327.790495995] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788327.792376581] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788327.837141562] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788327.839228422] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788327.841233006] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788327.843222645] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788327.900025869] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788327.902496502] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788327.904510456] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788327.906507984] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788327.938245198] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788327.940172579] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788327.942041813] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788327.943933935] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788327.989454461] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788327.991408675] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788327.993279205] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788327.995273678] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788328.075887910] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788328.077871753] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788328.079833023] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788328.081718164] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788328.089911144] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788328.091868969] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788328.093738999] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788328.095647696] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788328.142063913] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788328.144016812] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788328.145868620] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788328.147725725] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788328.191441905] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788328.193366008] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788328.195272279] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788328.197107717] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788328.241842254] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788328.243893892] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788328.245901457] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788328.247879856] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788328.292441581] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788328.294393110] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788328.296266954] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788328.298279038] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788328.343548697] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788328.345493578] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788328.347409256] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788328.349260471] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788328.394107932] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788328.396115498] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788328.398002935] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788328.399862594] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788328.461076925] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788328.463022602] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788328.464946835] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788328.466856124] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788328.495186773] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788328.497126080] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788328.499454511] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788328.501450355] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788328.545703898] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788328.547694241] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788328.549573049] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788328.551441486] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788328.596417150] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788328.598377438] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788328.600247708] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788328.602076628] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788328.647410842] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788328.649416574] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788328.651338584] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788328.653172559] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788328.697600730] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788328.699858773] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788328.701969281] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788328.703990346] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788328.763465367] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788328.765448451] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788328.767531645] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788328.769631153] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788328.798908512] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788328.801079316] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788328.803485468] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788328.805631476] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788328.849567154] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788328.851647125] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788328.853769078] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788328.855878679] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788328.900235647] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788328.902411209] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788328.904476792] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788328.906478728] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788328.951086248] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788328.953040277] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788328.954929807] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788328.956800818] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788329.001391598] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788329.003383756] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788329.005264508] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788329.007158575] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788329.052144534] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788329.054113359] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788329.056066221] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788329.057901992] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788329.102822120] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788329.104866703] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788329.106914119] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788329.108888259] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788329.153852849] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788329.155880117] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788329.157811017] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788329.159686158] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788329.203618002] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788329.205546494] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788329.207457579] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788329.209311702] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788329.254404475] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788329.256336134] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788329.258229071] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788329.260124193] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788329.304999580] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788329.307100514] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788329.309122246] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788329.311128385] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788329.356030754] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788329.358046263] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788329.360052828] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788329.361925247] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788329.416658259] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788329.418615639] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788329.420493299] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788329.422376736] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788329.467182272] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788329.469127709] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788329.471045516] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788329.473003341] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788329.517547825] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788329.519548816] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788329.521447809] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788329.523333042] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788329.568065654] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788329.570090459] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788329.572126450] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788329.574091719] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788329.618538057] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788329.620470197] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788329.622383782] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788329.624241775] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788329.669110144] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788329.671080524] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788329.672955887] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788329.674836269] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788329.719882524] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788329.721801831] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788329.723701083] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788329.725593946] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788329.770736144] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788329.772735469] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788329.774772997] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788329.776733303] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788329.845515456] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788329.847657390] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788329.849686844] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788329.851606503] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788329.872888045] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788329.874881629] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788329.876987323] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788329.879074702] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788329.922945973] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788329.924900687] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788329.927020028] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788329.929089129] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788329.974315234] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788329.976424205] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788329.978840598] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788329.981031827] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788330.023705578] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788330.026055583] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788330.028217331] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788330.030301562] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788330.083825275] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788330.085773101] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788330.087868072] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788330.089925285] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788330.124767124] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788330.126950594] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788330.129095324] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788330.131170944] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788330.176264032] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788330.179097289] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788330.181221427] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788330.183692152] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788330.226573845] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788330.228741833] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788330.230875360] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788330.233260142] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788330.276705253] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788330.279005240] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788330.281164358] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788330.283294107] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788330.327433875] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788330.329591567] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788330.331753519] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788330.333811528] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788330.378100312] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788330.380226246] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788330.382148387] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788330.384053398] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788330.428583327] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788330.430668280] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788330.432844398] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788330.434892796] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788330.479606537] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788330.481616047] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788330.483570724] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788330.485427884] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788330.530631489] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788330.532563296] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788330.534487881] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788330.536344744] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788330.580758138] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788330.582732166] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788330.584685825] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788330.586556614] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788330.600593293] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788330.602553821] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788330.604439536] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788330.606310548] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788330.651563930] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788330.653548310] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788330.655533542] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788330.657399387] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788330.702393032] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788330.704468096] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788330.706518068] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788330.708475412] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788330.752570310] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788330.754527394] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788330.756416572] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788330.758625949] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788330.798311611] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788330.800258918] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788330.802120911] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788330.803991071] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788330.843742231] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788330.845675112] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788330.847691844] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788330.849557041] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788330.894912810] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788330.897147706] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788330.899281473] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788330.901236854] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788330.944590836] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788330.946582364] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788330.948462505] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788330.950337572] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788330.995344754] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788330.997322597] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788330.999265867] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.001122286] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.046317650] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788331.048236846] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788331.050079266] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.051963499] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.106964971] [move_robot]: Pub linear.x: "0.014054672867059708"
+[INFO] [1645788331.109014998] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788331.111007638] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.112868835] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.117372940] [move_robot]: Pub linear.x: "0.03235935479402542"
+[INFO] [1645788331.119432393] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788331.121328330] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.123234249] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.131267676] [move_robot]: Pub linear.x: "0.06164683997631073"
+[INFO] [1645788331.133255334] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788331.135255862] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.137609886] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.140771194] [move_robot]: Pub linear.x: "0.07629058420658112"
+[INFO] [1645788331.142975516] [move_robot]: Pub angular.z: "0.15780337154865265"
+
+[INFO] [1645788331.145089895] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.147258513] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.150773095] [move_robot]: Pub linear.x: "0.11473748564720154"
+[INFO] [1645788331.152746438] [move_robot]: Pub angular.z: "0.7012859910726547"
+
+[INFO] [1645788331.154646060] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.156921696] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.160682497] [move_robot]: Pub linear.x: "0.16965152978897094"
+[INFO] [1645788331.162905596] [move_robot]: Pub angular.z: "1.3630081784725188"
+
+[INFO] [1645788331.164974586] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.167200648] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.171223890] [move_robot]: Pub linear.x: "0.204430410861969"
+[INFO] [1645788331.173522858] [move_robot]: Pub angular.z: "1.6229347443580626"
+
+[INFO] [1645788331.175882178] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.178071444] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.209249056] [move_robot]: Pub linear.x: "0.204430410861969"
+[INFO] [1645788331.211452766] [move_robot]: Pub angular.z: "1.6938236308097838"
+
+[INFO] [1645788331.213602774] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.215578118] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.240260632] [move_robot]: Pub linear.x: "0.19710854530334473"
+[INFO] [1645788331.242578656] [move_robot]: Pub angular.z: "1.7883424282073974"
+
+[INFO] [1645788331.244569777] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.263012896] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.266298703] [move_robot]: Pub linear.x: "0.19344761252403259"
+[INFO] [1645788331.268286953] [move_robot]: Pub angular.z: "1.8119721698760984"
+
+[INFO] [1645788331.270262852] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.272138142] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.275252636] [move_robot]: Pub linear.x: "0.19344761252403259"
+[INFO] [1645788331.277184091] [move_robot]: Pub angular.z: "1.8592314839363098"
+
+[INFO] [1645788331.279033344] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.280828542] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.329946278] [move_robot]: Pub linear.x: "0.1916171395778656"
+[INFO] [1645788331.331945696] [move_robot]: Pub angular.z: "1.8592314839363098"
+
+[INFO] [1645788331.333823411] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.335680774] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.338764714] [move_robot]: Pub linear.x: "0.1916171395778656"
+[INFO] [1645788331.340683206] [move_robot]: Pub angular.z: "1.8828610563278196"
+
+[INFO] [1645788331.342515533] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.344311767] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.408126989] [move_robot]: Pub linear.x: "0.1916171395778656"
+[INFO] [1645788331.410064129] [move_robot]: Pub angular.z: "1.8828610563278196"
+
+[INFO] [1645788331.411939881] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.413783300] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.442857126] [move_robot]: Pub linear.x: "0.1916171395778656"
+[INFO] [1645788331.444785544] [move_robot]: Pub angular.z: "1.8828610563278196"
+
+[INFO] [1645788331.446653555] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.448504493] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.495367076] [move_robot]: Pub linear.x: "0.1916171395778656"
+[INFO] [1645788331.498988859] [move_robot]: Pub angular.z: "1.8828610563278196"
+
+[INFO] [1645788331.502510830] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.506065930] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.525652977] [move_robot]: Pub linear.x: "0.1788038682937622"
+[INFO] [1645788331.529148540] [move_robot]: Pub angular.z: "1.5520456886291503"
+
+[INFO] [1645788331.532603104] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.535982558] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.544504220] [move_robot]: Pub linear.x: "0.13487263560295104"
+[INFO] [1645788331.548112837] [move_robot]: Pub angular.z: "0.819434403181076"
+
+[INFO] [1645788331.551555790] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.554580675] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.559232982] [move_robot]: Pub linear.x: "0.0854429292678833"
+[INFO] [1645788331.562326476] [move_robot]: Pub angular.z: "0.0632846587896347"
+
+[INFO] [1645788331.565401897] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.568499651] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.573326900] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788331.576730891] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788331.580013531] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.583208099] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.617341225] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788331.620499423] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788331.623607880] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.626649172] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.695145700] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788331.697969773] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788331.700720865] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.703596585] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.717921871] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788331.720739147] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788331.723767217] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.726798416] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.800290876] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788331.803492795] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788331.806417533] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.809214050] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.819572261] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788331.822447499] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788331.825163295] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.827878092] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.897956691] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788331.901529660] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788331.905008372] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.908420733] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.921670959] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788331.925169782] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788331.928633698] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.932014115] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788331.971554464] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788331.974827123] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788331.978082152] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788331.981174332] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.031086207] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788332.034382773] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.037548341] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.040683890] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.054563405] [move_robot]: Pub linear.x: "-0.01587807297706604"
+[INFO] [1645788332.056957446] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.058913660] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.060737191] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.064098034] [move_robot]: Pub linear.x: "-0.03235228687524796"
+[INFO] [1645788332.066019082] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.067915704] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.069764993] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.074000288] [move_robot]: Pub linear.x: "-0.05065696716308594"
+[INFO] [1645788332.075951853] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.077802939] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.079701210] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.082815630] [move_robot]: Pub linear.x: "-0.06713117778301239"
+[INFO] [1645788332.084746474] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.086611541] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.088594236] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.093447874] [move_robot]: Pub linear.x: "-0.09824913263320922"
+[INFO] [1645788332.095400847] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.097266488] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.099141704] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.103193778] [move_robot]: Pub linear.x: "-0.12754368901252747"
+[INFO] [1645788332.105102382] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.106973449] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.109151363] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.114055741] [move_robot]: Pub linear.x: "-0.14218743324279784"
+[INFO] [1645788332.116214211] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.118389034] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.120408765] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.123697924] [move_robot]: Pub linear.x: "-0.17696632742881774"
+[INFO] [1645788332.125728989] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.127745387] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.129668472] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.134499425] [move_robot]: Pub linear.x: "-0.19710147738456726"
+[INFO] [1645788332.136454139] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.138385112] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.140240143] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.144254347] [move_robot]: Pub linear.x: "-0.22"
+[INFO] [1645788332.146147710] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.148035203] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.149870493] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.194472495] [move_robot]: Pub linear.x: "-0.22"
+[INFO] [1645788332.196404376] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.198293276] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.200149103] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.244846956] [move_robot]: Pub linear.x: "-0.22"
+[INFO] [1645788332.247346570] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.249395931] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.251612900] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.299083716] [move_robot]: Pub linear.x: "-0.22"
+[INFO] [1645788332.301027596] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.302936496] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.304765971] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.345787652] [move_robot]: Pub linear.x: "-0.22"
+[INFO] [1645788332.347758755] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.349664710] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.351523796] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.386648891] [move_robot]: Pub linear.x: "-0.187949138879776"
+[INFO] [1645788332.388689918] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.390732020] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.392785251] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.398299954] [move_robot]: Pub linear.x: "-0.1714749217033386"
+[INFO] [1645788332.400219669] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.402055662] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.403922599] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.408534925] [move_robot]: Pub linear.x: "-0.1312046217918396"
+[INFO] [1645788332.410465788] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.412301337] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.414144738] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.417810299] [move_robot]: Pub linear.x: "-0.11473041772842407"
+[INFO] [1645788332.419752272] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.421606451] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.423527795] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.429062367] [move_robot]: Pub linear.x: "-0.07811398923397064"
+[INFO] [1645788332.431041063] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.433120775] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.435264987] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.439931015] [move_robot]: Pub linear.x: "-0.04516556143760681"
+[INFO] [1645788332.441862711] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.443912739] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.446872106] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.450411243] [move_robot]: Pub linear.x: "-0.02869135081768036"
+[INFO] [1645788332.452682730] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.454724869] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.456686250] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.460671140] [move_robot]: Pub linear.x: "-0.01038666971027851"
+[INFO] [1645788332.462780444] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.464926508] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.466864852] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.470507635] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788332.472453238] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.474377305] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.476249890] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.532038962] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788332.533957528] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.535812262] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.537640941] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.580369451] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788332.582423737] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.584434395] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.586451701] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.633838128] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788332.635804879] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.637661113] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.639531236] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.700485182] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788332.702490950] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.704420443] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.706311435] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.735306817] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788332.737218069] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.739110488] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.740962185] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.783686398] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788332.785714796] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.787748509] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.789700371] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.832999429] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788332.835020605] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.836938708] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.838822682] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.885240049] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788332.887212855] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.889100829] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.890981341] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.953846538] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788332.955858104] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.957781985] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.959669477] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788332.985087705] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788332.987405654] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788332.989661494] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788332.992027721] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788333.035620108] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788333.037659339] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788333.039588072] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788333.041429565] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788333.086595190] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788333.088541200] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788333.090648338] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788333.092534239] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788333.137039687] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788333.139357859] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788333.141564884] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788333.143665356] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788333.187919715] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788333.189951669] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788333.191931530] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788333.193762450] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788333.238714429] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788333.240624755] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788333.242875539] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788333.244936029] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788333.300278126] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788333.302205804] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788333.304059612] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788333.305924642] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788333.339856197] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788333.341777282] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788333.343689182] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788333.345529101] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788333.390600598] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788333.392537941] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788333.394448971] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788333.396281650] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788333.431055138] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788333.432964075] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788333.434836105] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788333.436641080] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788333.482291624] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788333.484298986] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788333.486261033] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788333.488124841] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788333.532333756] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788333.534291155] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788333.536158241] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788333.537991809] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788333.583252265] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788333.585289719] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788333.587443375] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788333.589425051] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788333.633548338] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788333.635498108] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788333.637353434] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788333.639355796] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788333.684634271] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788333.686567985] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788333.688429256] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788333.690383266] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788333.742294391] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788333.744369271] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788333.746292318] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788333.748145312] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788333.751246103] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788333.753342148] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788333.755270196] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788333.757171133] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788333.799486167] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788333.801376678] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788333.803246819] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788333.805083127] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788333.846906186] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788333.848928696] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788333.850956112] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788333.852901586] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788333.897031780] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788333.898994346] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788333.900879468] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788333.902787813] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788333.947299446] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788333.949213901] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788333.951110524] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788333.952930777] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788334.000943566] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788334.002894095] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788334.004763755] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788334.006620248] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788334.048892634] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788334.050962124] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788334.052948134] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788334.054883108] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788334.099546314] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788334.101514916] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788334.103605517] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788334.105741766] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788334.152425500] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788334.154382158] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788334.156241429] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788334.158074182] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788334.232338984] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788334.234806746] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788334.237337897] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788334.239677309] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788334.251389724] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788334.253375086] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788334.255300948] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788334.257156590] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788334.301668316] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788334.303933192] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788334.306021849] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788334.308061358] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788334.352432105] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788334.354399578] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788334.356314996] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788334.358190823] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788334.416753116] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788334.418984290] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788334.420891338] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788334.422794849] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788334.453834814] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788334.455795676] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788334.457663040] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788334.459494515] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788334.504542530] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788334.506689723] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788334.508730325] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788334.510746686] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788334.555120896] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788334.557040166] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788334.558962547] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788334.560804966] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788334.612198543] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788334.614234330] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788334.616169100] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788334.618004630] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788334.656502809] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788334.658460319] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788334.660317368] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788334.662126325] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788334.707182877] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788334.709152387] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788334.711182211] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788334.713220128] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788334.782832697] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788334.784805799] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788334.786709125] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788334.788553248] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788334.808161462] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788334.810087251] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788334.812015206] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788334.813963402] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788334.858809827] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788334.860724579] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788334.862610349] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788334.864496916] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788334.933809582] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788334.935793277] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788334.937645122] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788334.939527300] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788334.960708344] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788334.962638559] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788334.964496089] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788334.966519932] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788335.011010955] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788335.012931743] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788335.014939808] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788335.016833653] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788335.061403045] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788335.063353000] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788335.065279548] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788335.067205596] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788335.112355147] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788335.114467970] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788335.116462146] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788335.118364009] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788335.162724460] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788335.164672711] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788335.166685535] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788335.168785155] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788335.213687580] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788335.215667997] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788335.217541379] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788335.219392280] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788335.264411203] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788335.266352195] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788335.268193651] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788335.270011126] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788335.315179640] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788335.317164298] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788335.319078328] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788335.320907321] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788335.366454126] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788335.368603171] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788335.370655050] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788335.372612709] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788335.416592424] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788335.418773431] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788335.420887143] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788335.423148816] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788335.467553099] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788335.469714218] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788335.471668265] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788335.473510370] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788335.517782062] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788335.519985736] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788335.522108096] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788335.524206975] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788335.569285397] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788335.571803289] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788335.573815928] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788335.576034249] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788335.609526756] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788335.611727966] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788335.613885289] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788335.616006371] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788335.664062771] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788335.666006393] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788335.668169197] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788335.670391648] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788335.690073268] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788335.692258850] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788335.694411968] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788335.696459107] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788335.740835187] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788335.742793846] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788335.744660302] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788335.746549295] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788335.806987563] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788335.808905592] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788335.810843696] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788335.812706337] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788335.842124824] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788335.844165315] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788335.846158362] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788335.848134891] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788335.892598395] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788335.894547165] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788335.896409695] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788335.898449871] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788335.943392740] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788335.945305343] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788335.947170559] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788335.949000830] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788335.993939106] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788335.995900413] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788335.997747924] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788335.999598529] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788336.046194875] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788336.048149237] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788336.049967731] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788336.051809613] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788336.095044524] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788336.097137977] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788336.099299744] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788336.101275420] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788336.149040010] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788336.151014465] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788336.152902476] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788336.154993410] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788336.196478271] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788336.198424059] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788336.200280904] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788336.202088472] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788336.226675378] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788336.228590388] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788336.230909524] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788336.232900941] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788336.277354816] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788336.279327419] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788336.281299966] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788336.283189663] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788336.328084421] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788336.330009876] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788336.331922572] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788336.333766769] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788336.379074504] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788336.380989700] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788336.382970913] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788336.384858517] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788336.439807657] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788336.441807889] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788336.443806991] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788336.451555330] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788336.512124745] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788336.514115107] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788336.516251393] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788336.518135237] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788336.540846261] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788336.542783475] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788336.544638635] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788336.546502906] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788336.606761659] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788336.608676929] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788336.610540644] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788336.612372527] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788336.666590991] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788336.668489799] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788336.670379477] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788336.672226729] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788336.696149588] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788336.698218356] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788336.700455604] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788336.702481372] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788336.743474202] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788336.745614821] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788336.747763199] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788336.749847226] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788336.797369393] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788336.799354089] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788336.801450856] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788336.803363515] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788336.844533139] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788336.846711258] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788336.848830525] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788336.850927163] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788336.898134983] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788336.900229084] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788336.902540460] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788336.904707097] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788336.946212864] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788336.948152190] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788336.950273364] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788336.952347225] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788336.996842174] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788336.998961293] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788337.000879489] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788337.003028886] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788337.047773258] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788337.049902117] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788337.052019218] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788337.054060727] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788337.101502155] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788337.105632191] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788337.110299646] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788337.114657420] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788337.151550343] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788337.155991709] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788337.159294423] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788337.162682321] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788337.200648878] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788337.203864075] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788337.206950273] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788337.209924510] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788337.279349972] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788337.282479299] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788337.285524962] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788337.288655993] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788337.301614020] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788337.304907160] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788337.308021248] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788337.311056095] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788337.352638788] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788337.355723597] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788337.357639423] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788337.359507453] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788337.401614120] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788337.403958477] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788337.405996412] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788337.408077828] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788337.463846939] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788337.465791449] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788337.467655035] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788337.469640230] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788337.475597908] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788337.477684287] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788337.479767462] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788337.481745028] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788337.524118524] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788337.526015036] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788337.527885732] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788337.529706837] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788337.573981919] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788337.575937059] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788337.577829867] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788337.579753896] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788337.625841675] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788337.627800074] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788337.629668734] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788337.631525227] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788337.694739588] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788337.696705450] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788337.698632590] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788337.700456195] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788337.719006016] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788337.720907453] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788337.722778428] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788337.724611366] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788337.766465110] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788337.768382880] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788337.770277781] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788337.772105441] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788337.817550710] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788337.819566998] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788337.821596803] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788337.823487666] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788337.874507360] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788337.876496963] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788337.878499324] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788337.880456094] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788337.918328152] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788337.920295273] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788337.922244802] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788337.924088240] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788337.969053368] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788337.971002063] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788337.972862353] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788337.974715828] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788338.042719493] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788338.044727262] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788338.046695513] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788338.048537210] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788338.070501615] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788338.072484958] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788338.074516282] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788338.076508755] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788338.121058982] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788338.123023603] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788338.124967021] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788338.126895661] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788338.172342912] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788338.174277516] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788338.176140990] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788338.177968262] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788338.184102808] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788338.186040800] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788338.188175974] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788338.190068671] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788338.236450391] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788338.238379827] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788338.240246135] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788338.242057870] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788338.283278975] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788338.285206097] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788338.287104571] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788338.288944861] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788338.333963877] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788338.335999034] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788338.337957508] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788338.339963684] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788338.412557936] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788338.414603000] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788338.416482401] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788338.418341338] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788338.439614993] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788338.441520911] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788338.443421293] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788338.445314452] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788338.485417739] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788338.487370583] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788338.489356593] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788338.491243734] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788338.544202290] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788338.546511018] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788338.548665359] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788338.550777460] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788338.586781488] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788338.588721498] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788338.590815766] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788338.592853183] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788338.627192955] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788338.629347408] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788338.631502730] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788338.633559258] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788338.677914598] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788338.680155660] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788338.682305186] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788338.684216623] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788338.728754923] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788338.731178557] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788338.733456008] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788338.735653626] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788338.779599434] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788338.781732591] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788338.783861302] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788338.785900367] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788338.831081270] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788338.833211926] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788338.835359397] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788338.837455646] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788338.911175956] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788338.913087930] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788338.914992127] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788338.916860546] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788338.931582456] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788338.933844796] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788338.936103654] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788338.938331123] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788338.981980714] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788338.983961168] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788338.986064362] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788338.988202851] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788339.032943908] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788339.034921826] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788339.036790726] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788339.038653368] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788339.082894302] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788339.084812220] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788339.086682454] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788339.088510559] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788339.133893570] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788339.135998190] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788339.137988570] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788339.139966895] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788339.187897131] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788339.189902159] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788339.191774967] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788339.193805976] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788339.235469705] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788339.237382309] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788339.239268209] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788339.241090055] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788339.287290444] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788339.289310101] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788339.291478757] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788339.293344213] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788339.337702887] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788339.339788432] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788339.341805534] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788339.343933172] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788339.390765293] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788339.392910764] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788339.395253640] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788339.397448739] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788339.441323660] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788339.443281560] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788339.445145256] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788339.447007694] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788339.489576503] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788339.491557291] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788339.493409229] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788339.495612328] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788339.539780338] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788339.541726515] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788339.543642359] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788339.545482260] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788339.589888877] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788339.592282067] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788339.594366353] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788339.596381400] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788339.640402282] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788339.642348126] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788339.644217563] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788339.646045260] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788339.691375013] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788339.693309617] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788339.695193665] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788339.697046769] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788339.741810623] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788339.743760522] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788339.745624423] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788339.747482082] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788339.792725040] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788339.794936862] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788339.796958927] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788339.798995270] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788339.843049577] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788339.844971940] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788339.846898450] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788339.848750444] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788339.893710479] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788339.895934153] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788339.897954977] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788339.899905562] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788339.944159663] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788339.946072155] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788339.947961759] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788339.949819493] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788339.995600406] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788339.997630027] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788339.999812201] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788340.001783118] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788340.037165599] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788340.039112906] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788340.040964307] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788340.042840133] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788340.087150900] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788340.089075059] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788340.090971663] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788340.092805823] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788340.136508784] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788340.138592644] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788340.140530933] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788340.142407759] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788340.187236556] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788340.189513525] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788340.191566534] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788340.193518970] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788340.238649948] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788340.240583885] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788340.242457248] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788340.244305927] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788340.288690582] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788340.290669555] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788340.292528733] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788340.294395615] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788340.339318929] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788340.341244847] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788340.343127211] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788340.344984315] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788340.390577101] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788340.392594018] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788340.394607102] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788340.396555390] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788340.450813577] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788340.452745292] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788340.455069482] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788340.457050344] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788340.501195280] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788340.503154124] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788340.504995673] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788340.506845833] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788340.552337380] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788340.554278631] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788340.556144124] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788340.557963489] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788340.602464827] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788340.604401430] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788340.606284479] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788340.608133787] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788340.655582881] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788340.657636853] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788340.659657585] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788340.661617781] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788340.703633912] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788340.705546960] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788340.707456656] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788340.709309853] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788340.754158169] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788340.756230937] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788340.758137837] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788340.760004182] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788340.805230917] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788340.807216242] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788340.809059439] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788340.810914581] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788340.856674458] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788340.858701412] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788340.860682070] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788340.862669654] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788340.905926417] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788340.907914482] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788340.909781531] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788340.911634080] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788340.957705174] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788340.959714166] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788340.961586547] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788340.963482207] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788341.007876491] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788341.009853409] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788341.011995509] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788341.013882965] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788341.061369467] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788341.063420383] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788341.065705852] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788341.067935951] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788341.108445881] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788341.110406892] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788341.112287977] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788341.114144341] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788341.159632092] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788341.161598528] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788341.163571871] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788341.165457216] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788341.209986943] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788341.211928639] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788341.213792373] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788341.215696773] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788341.260150853] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788341.262286509] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788341.264377240] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788341.266386768] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788341.311923629] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788341.313883232] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788341.315807873] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788341.317955214] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788341.361319624] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788341.363327541] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788341.365291662] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788341.367193544] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788341.401860979] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788341.403819656] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788341.405684038] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788341.407540383] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788341.452885766] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788341.454925849] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788341.456913081] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788341.458922387] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788341.503325487] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788341.505240127] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788341.507127842] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788341.508971002] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788341.553894872] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788341.555874827] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788341.557753820] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788341.559625664] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788341.625531397] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788341.627480500] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788341.629324216] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788341.631172783] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788341.713899731] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788341.716283791] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788341.718556593] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788341.720629695] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788341.724320274] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788341.726652020] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788341.728686548] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788341.730946036] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788341.756760351] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788341.758711065] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788341.760571021] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788341.762457736] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788341.817380489] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788341.819307296] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788341.821143993] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788341.822995523] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788341.860557290] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788341.862623687] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788341.864610605] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788341.866512412] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788341.912024570] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788341.914093802] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788341.916283883] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788341.918318577] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788341.988014054] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788341.990007361] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788341.992025074] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788341.995790023] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788342.058616019] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788342.060654825] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788342.062721075] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788342.064653863] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788342.067770561] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788342.069702165] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788342.071566787] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788342.073393152] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788342.093221808] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788342.095181725] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788342.097051737] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788342.098901934] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788342.144109856] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788342.146028589] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788342.148053635] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788342.149939573] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788342.194785851] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788342.196747528] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788342.198640576] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788342.200473033] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788342.245115314] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788342.247438709] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788342.249459255] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788342.251512042] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788342.297470565] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788342.299416797] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788342.301271254] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788342.303142691] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788342.346463898] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788342.348432760] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788342.350340234] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788342.352253449] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788342.399376900] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788342.402968184] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788342.406504840] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788342.409909960] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788342.450405779] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788342.453985008] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788342.457317389] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788342.460699398] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788342.621029031] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788342.624501428] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788342.627770310] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788342.630636845] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788342.635109247] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788342.637906005] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788342.640644338] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788342.643432633] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788342.647698001] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788342.650577684] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788342.653360869] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788342.656127127] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788342.660493679] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788342.663318474] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788342.666109806] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788342.669047303] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788342.706373258] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788342.709241201] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788342.712029718] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788342.714797958] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788342.767516167] [move_robot]: Pub linear.x: "0.04700309902429581"
+[INFO] [1645788342.770776789] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788342.773971653] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788342.777175146] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788342.782046099] [move_robot]: Pub linear.x: "0.07995152354240417"
+[INFO] [1645788342.785273184] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788342.788402049] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788342.791459637] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788342.796217906] [move_robot]: Pub linear.x: "0.11107655286788941"
+[INFO] [1645788342.799352771] [move_robot]: Pub angular.z: "0.48861886620521544"
+
+[INFO] [1645788342.802499154] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788342.805579815] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788342.810279807] [move_robot]: Pub linear.x: "0.14768590688705444"
+[INFO] [1645788342.813310358] [move_robot]: Pub angular.z: "0.8903233742713927"
+
+[INFO] [1645788342.816446260] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788342.819511848] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788342.824149489] [move_robot]: Pub linear.x: "0.19344761252403259"
+[INFO] [1645788342.827222058] [move_robot]: Pub angular.z: "1.3156576240062714"
+
+[INFO] [1645788342.830308016] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788342.833329271] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788342.838353351] [move_robot]: Pub linear.x: "0.208091356754303"
+[INFO] [1645788342.841510734] [move_robot]: Pub angular.z: "1.38663792014122"
+
+[INFO] [1645788342.844635858] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788342.847803667] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788342.867585953] [move_robot]: Pub linear.x: "0.208091356754303"
+[INFO] [1645788342.869490705] [move_robot]: Pub angular.z: "1.38663792014122"
+
+[INFO] [1645788342.871352828] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788342.873178562] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788342.927462545] [move_robot]: Pub linear.x: "0.208091356754303"
+[INFO] [1645788342.929479462] [move_robot]: Pub angular.z: "1.4338973188400268"
+
+[INFO] [1645788342.931573489] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788342.933484389] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788342.936589477] [move_robot]: Pub linear.x: "0.208091356754303"
+[INFO] [1645788342.938541283] [move_robot]: Pub angular.z: "1.457526891231537"
+
+[INFO] [1645788342.940380647] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788342.942262807] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788342.945294414] [move_robot]: Pub linear.x: "0.208091356754303"
+[INFO] [1645788342.947222221] [move_robot]: Pub angular.z: "1.504786205291748"
+
+[INFO] [1645788342.949068844] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788342.950892375] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788342.957032050] [move_robot]: Pub linear.x: "0.208091356754303"
+[INFO] [1645788342.959034634] [move_robot]: Pub angular.z: "1.5520456886291503"
+
+[INFO] [1645788342.960916701] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788342.962811509] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788343.054841904] [move_robot]: Pub linear.x: "0.208091356754303"
+[INFO] [1645788343.056879932] [move_robot]: Pub angular.z: "1.5520456886291503"
+
+[INFO] [1645788343.059001515] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788343.060940210] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788343.064311905] [move_robot]: Pub linear.x: "0.208091356754303"
+[INFO] [1645788343.066343248] [move_robot]: Pub angular.z: "1.5520456886291503"
+
+[INFO] [1645788343.068247148] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788343.070051235] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788343.108769930] [move_robot]: Pub linear.x: "0.208091356754303"
+[INFO] [1645788343.110757144] [move_robot]: Pub angular.z: "1.5520456886291503"
+
+[INFO] [1645788343.112629396] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788343.114524222] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788343.159404074] [move_robot]: Pub linear.x: "0.208091356754303"
+[INFO] [1645788343.161325030] [move_robot]: Pub angular.z: "1.5520456886291503"
+
+[INFO] [1645788343.163225207] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788343.165116108] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788343.233749600] [move_robot]: Pub linear.x: "0.1989390182495117"
+[INFO] [1645788343.235782868] [move_robot]: Pub angular.z: "1.5520456886291503"
+
+[INFO] [1645788343.237712379] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788343.239593539] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788343.242788106] [move_robot]: Pub linear.x: "0.18612573385238648"
+[INFO] [1645788343.244701969] [move_robot]: Pub angular.z: "1.457526891231537"
+
+[INFO] [1645788343.246585518] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788343.248436103] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788343.251932426] [move_robot]: Pub linear.x: "0.16965152978897094"
+[INFO] [1645788343.253925381] [move_robot]: Pub angular.z: "1.150249855518341"
+
+[INFO] [1645788343.255921335] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788343.257846975] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788343.261059987] [move_robot]: Pub linear.x: "0.12755075693130494"
+[INFO] [1645788343.263136589] [move_robot]: Pub angular.z: "0.5358782225847244"
+
+[INFO] [1645788343.265143802] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788343.267070646] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788343.270130679] [move_robot]: Pub linear.x: "0.08727339565753937"
+[INFO] [1645788343.272143003] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788343.274031533] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788343.275905026] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788343.279011687] [move_robot]: Pub linear.x: "0.004902332723140716"
+[INFO] [1645788343.280931013] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788343.282819562] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788343.284628778] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788343.287697106] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788343.289656080] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788343.291539424] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788343.293342992] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788343.324000464] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788343.326015974] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788343.328022928] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788343.329962568] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788343.373643344] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788343.375709501] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788343.377578420] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788343.379448154] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788343.424041492] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788343.426213296] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788343.428322785] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788343.430557848] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788343.477164084] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788343.479494534] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788343.481658911] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788343.483784327] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788343.525601277] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788343.527679211] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788343.529687554] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788343.531657046] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788343.576298698] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788343.578233079] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788343.580257255] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788343.582363652] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788343.626800511] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788343.628716299] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788343.630606311] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788343.632428767] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788343.683964529] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788343.685963909] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788343.688160194] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788343.690279276] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788343.728885844] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788343.730929186] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788343.733037806] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788343.735114629] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788343.779769559] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788343.782355857] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788343.784899619] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788343.787140829] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788343.829732397] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788343.831907590] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788343.833995784] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788343.836063108] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788343.882260683] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788343.884166934] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788343.885998261] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788343.887862292] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788343.931590641] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788343.933496819] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788343.935369978] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788343.937218176] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788344.002078163] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788344.004209912] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788344.006156312] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788344.008085933] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788344.056527349] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788344.058970852] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788344.061013084] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788344.062924150] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788344.083419279] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788344.085335031] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788344.087219061] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788344.089035980] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788344.134028961] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788344.136031971] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788344.137944852] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788344.139931307] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788344.184934528] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788344.187231330] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788344.189284043] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788344.191270108] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788344.237614848] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788344.239563007] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788344.241429722] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788344.243297771] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788344.285942857] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788344.287898405] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788344.289758935] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788344.291627113] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788344.336614001] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788344.338599252] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788344.340491949] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788344.342608438] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788344.387650103] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788344.389617391] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788344.391650327] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788344.393603152] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788344.448580478] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788344.450616080] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788344.452576813] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788344.454591045] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788344.500043741] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788344.501956974] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788344.503851189] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788344.505749552] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788344.551411746] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788344.553333961] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788344.555215194] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788344.557046910] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788344.607460539] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788344.609416735] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788344.611369245] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788344.613259960] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788344.651843750] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788344.653870000] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788344.655880714] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788344.657858909] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788344.701825922] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788344.703767155] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788344.705611593] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788344.707452531] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788344.752588324] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788344.754541668] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788344.756426420] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788344.758304561] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788344.805642269] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788344.807587224] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788344.809454143] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788344.811463745] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788344.854204516] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788344.856227100] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788344.858383218] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788344.860332933] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788344.905959904] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788344.907913563] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788344.909894795] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788344.912058766] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788344.955551693] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788344.957462630] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788344.959347493] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788344.961188320] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788345.005815435] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788345.007804167] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788345.009699141] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788345.011575671] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788345.056701632] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788345.058734808] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788345.060632227] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788345.062512997] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788345.107192667] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788345.109341083] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788345.111459369] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788345.113449564] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788345.157911015] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788345.159894728] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788345.161745463] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788345.163626030] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788345.208693472] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788345.210658205] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788345.212538401] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788345.214446227] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788345.265075391] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788345.267032790] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788345.268891098] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788345.270777535] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788345.309941873] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788345.312063733] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788345.314120483] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788345.316115937] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788345.362514047] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788345.364454409] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788345.366385957] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788345.368270765] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788345.411516992] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788345.413436854] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788345.415395494] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788345.417246210] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788345.464242571] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788345.466213692] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788345.468101592] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788345.469930771] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788345.512431193] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788345.514515202] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788345.516540434] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788345.518528258] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788345.566790769] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788345.568686799] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788345.570651031] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788345.572514172] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788345.613745019] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788345.615713307] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788345.617572634] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788345.619441664] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788345.664210814] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788345.666255768] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788345.668222223] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788345.670092234] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788345.715721614] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788345.717696013] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788345.719694986] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788345.721638033] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788345.765146645] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788345.767093711] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788345.769167961] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788345.771159415] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788345.815772197] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788345.817910946] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788345.820062769] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788345.822141296] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788345.866678616] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788345.868596886] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788345.870558564] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788345.872442112] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788345.917998678] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788345.920054427] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788345.922045826] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788345.924013540] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788345.967830963] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788345.969730974] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788345.971974832] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788345.974047952] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788346.018478348] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788346.020394378] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788346.022280759] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788346.024105031] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788346.069496247] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788346.071460646] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788346.073404009] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788346.075345612] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788346.132858608] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788346.134802359] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788346.136628538] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788346.138496494] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788346.170123842] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788346.172215128] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788346.174408969] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788346.176529662] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788346.220656710] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788346.222840255] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788346.224935282] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788346.226835589] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788346.286735256] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788346.288776840] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788346.290750443] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788346.292625121] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788346.322061165] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788346.324030323] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788346.325869854] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788346.327708885] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788346.378374418] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788346.380396520] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788346.382505417] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788346.384509742] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788346.433384522] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788346.435318755] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788346.437141304] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788346.439331997] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788346.486502726] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788346.488446199] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788346.490554300] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788346.492606828] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788346.534741255] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788346.536865689] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788346.538975586] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788346.541024836] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788346.586995507] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788346.588904056] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788346.590747456] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788346.592568228] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788346.637883297] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788346.639925751] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788346.641894502] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788346.643879623] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788346.699106724] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788346.701011365] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788346.703031134] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788346.705133883] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788346.737173410] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788346.739132106] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788346.741002117] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788346.742871073] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788346.787481689] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788346.789525846] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788346.791512931] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788346.793396035] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788346.838210703] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788346.840232916] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788346.842255185] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788346.844197603] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788346.888495112] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788346.890563991] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788346.892477095] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788346.894359551] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788346.939023425] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788346.940935343] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788346.942833614] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788346.944642849] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788346.992134851] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788346.994058473] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788346.995960040] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788346.997815237] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788347.040573785] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788347.042633868] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788347.044621304] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788347.046581129] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788347.090984507] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788347.092896000] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788347.094781511] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788347.096674152] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788347.141837205] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788347.143823530] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788347.145690208] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788347.147538202] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788347.193174285] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788347.195112981] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788347.196961326] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788347.198830727] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788347.243364862] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788347.245375742] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788347.247401770] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788347.249326577] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788347.294246189] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788347.296147589] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788347.297967731] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788347.299961185] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788347.343767960] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788347.345699712] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788347.347596871] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788347.349432754] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788347.394383606] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788347.396297246] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788347.398146480] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788347.400051880] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788347.444862734] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788347.446888688] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788347.448873272] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788347.450783672] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788347.495450287] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788347.497350725] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788347.499450085] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788347.501526760] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788347.546017989] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788347.547966222] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788347.549803197] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788347.551631339] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788347.596687022] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788347.598636496] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788347.600515359] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788347.602371093] [move_robot]: Pub joy_msg.axes[self.map.RT]: "1.0"
+
+[INFO] [1645788347.647568016] [move_robot]: Pub linear.x: "-0.0"
+[INFO] [1645788347.649514453] [move_robot]: Pub angular.z: "-0.0"
+
+[INFO] [1645788347.651385668] [move_robot]: Pub joy_msg.axes[self.map.LT]: "1.0"
+[INFO] [1645788347.653193384] [move_robot]: P

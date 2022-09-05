@@ -1,0 +1,16 @@
+/home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/ament_index/resource_index/package_run_dependencies/launch_joy_robot
+/home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/ament_index/resource_index/parent_prefix_path/launch_joy_robot
+/home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/launch_joy_robot/environment/ament_prefix_path.sh
+/home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/launch_joy_robot/environment/ament_prefix_path.dsv
+/home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/launch_joy_robot/environment/path.sh
+/home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/launch_joy_robot/environment/path.dsv
+/home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/launch_joy_robot/local_setup.bash
+/home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/launch_joy_robot/local_setup.sh
+/home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/launch_joy_robot/local_setup.zsh
+/home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/launch_joy_robot/local_setup.dsv
+/home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/launch_joy_robot/package.dsv
+/home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/ament_index/resource_index/packages/launch_joy_robot
+/home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/launch_joy_robot/cmake/launch_joy_robotConfig.cmake
+/home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/launch_joy_robot/cmake/launch_joy_robotConfig-version.cmake
+/home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/launch_joy_robot/package.xml
+/home/ubuntu/turtlebot3_ws/install/launch_joy_robot/share/launch_joy_robot//launch/launch_node.launch.py

@@ -1,0 +1,4 @@
+[WARN] [1644992796.004838946] [joy_node]: Couldn't open joystick force feedback: Bad file descriptor
+[INFO] [1644992796.005181106] [joy_node]: Opened joystick: /dev/input/js0. deadzone_: 0.050000.
+[INFO] [1644996149.414690676] [rclcpp]: signal_handler(signal_value=2)
+[ERROR] [1644996149.415002950] [rclcpp]: failed to create wait set: the given context is not valid, either rcl_init() was not called or rcl_shutdown() was called., at /tmp/binarydeb/ros-foxy-rcl-1.1.13/src/rcl/wait.c:130

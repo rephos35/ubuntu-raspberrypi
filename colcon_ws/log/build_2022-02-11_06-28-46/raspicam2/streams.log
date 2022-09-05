@@ -1,0 +1,446 @@
+[0.057s] Invoking command in '/home/ubuntu/colcon_ws/build/raspicam2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy /usr/bin/cmake /home/ubuntu/colcon_ws/src/raspicam2_node -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ubuntu/colcon_ws/install/raspicam2
+[0.120s] -- Found ament_cmake: 0.9.8 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.242s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.926s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.959s] -- Found rclcpp: 2.3.1 (/opt/ros/foxy/share/rclcpp/cmake)
+[1.109s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.123s] -- Found rosidl_adapter: 1.2.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[1.654s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.851s] -- Found rmw_implementation_cmake: 1.0.3 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[1.858s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.419s] -- Found rclcpp_components: 2.3.1 (/opt/ros/foxy/share/rclcpp_components/cmake)
+[2.633s] -- Found sensor_msgs: 2.0.4 (/opt/ros/foxy/share/sensor_msgs/cmake)
+[3.400s] -- Configuring done
+[3.497s] -- Generating done
+[3.504s] -- Build files have been written to: /home/ubuntu/colcon_ws/build/raspicam2
+[3.520s] Invoked command in '/home/ubuntu/colcon_ws/build/raspicam2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy /usr/bin/cmake /home/ubuntu/colcon_ws/src/raspicam2_node -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ubuntu/colcon_ws/install/raspicam2
+[3.532s] Invoking command in '/home/ubuntu/colcon_ws/build/raspicam2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy /usr/bin/cmake --build /home/ubuntu/colcon_ws/build/raspicam2 -- -j4 -l4
+[3.706s] [35m[1mScanning dependencies of target raspicam_common[0m
+[3.771s] [  7%] [32mBuilding C object CMakeFiles/raspicam_common.dir/src/RaspiCamControl.c.o[0m
+[3.773s] [ 14%] [32mBuilding C object CMakeFiles/raspicam_common.dir/src/RaspiCLI.c.o[0m
+[3.776s] [ 21%] [32mBuilding C object CMakeFiles/raspicam_common.dir/src/RaspiPreview.c.o[0m
+[3.779s] [ 28%] [32mBuilding C object CMakeFiles/raspicam_common.dir/src/RaspiCommonSettings.c.o[0m
+[4.010s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiPreview.c:210:2:[m[K [01;35m[Kwarning: [m[KISO C does not allow extra ‘[01m[K;[m[K’ outside of a function [[01;35m[K-Wpedantic[m[K]
+[4.012s]   210 | }[01;35m[K;[m[K
+[4.014s]       |  [01;35m[K^[m[K
+[4.015s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiPreview.c:[m[K In function ‘[01m[Kraspipreview_parse_cmdline[m[K’:
+[4.018s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiPreview.c:262:26:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%u[m[K’ expects argument of type ‘[01m[Kunsigned int *[m[K’, but argument 3 has type ‘[01m[Kint *[m[K’ [[01;35m[K-Wformat=[m[K]
+[4.018s]   262 |       if (sscanf(arg2, "[01;35m[K%u[m[K", [32m[K&params->opacity[m[K) != 1)
+[4.019s]       |                         [01;35m[K~^[m[K   [32m[K~~~~~~~~~~~~~~~~[m[K
+[4.020s]       |                          [01;35m[K|[m[K   [32m[K|[m[K
+[4.021s]       |                          [01;35m[K|[m[K   [32m[Kint *[m[K
+[4.021s]       |                          [01;35m[Kunsigned int *[m[K
+[4.022s]       |                         [32m[K%u[m[K
+[4.043s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:207:4:[m[K [01;35m[Kwarning: [m[Kmissing initializer for field ‘[01m[Knum_parameters[m[K’ of ‘[01m[KCOMMAND_LIST[m[K’ {aka ‘[01m[Kstruct <anonymous>[m[K’} [[01;35m[K-Wmissing-field-initializers[m[K]
+[4.044s]   207 |    [01;35m[K{[m[KCommandStatsPass,   "-stats",     "st", "Force recomputation of statistics on stills capture pass"},
+[4.045s]       |    [01;35m[K^[m[K
+[4.047s] In file included from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:44[m[K:
+[4.048s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/RaspiCLI.h:38:8:[m[K [01;36m[Knote: [m[K‘[01m[Knum_parameters[m[K’ declared here
+[4.049s]    38 |    int [01;36m[Knum_parameters[m[K;
+[4.050s]       |        [01;36m[K^~~~~~~~~~~~~~[m[K
+[4.060s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:210:4:[m[K [01;35m[Kwarning: [m[Kmissing initializer for field ‘[01m[Knum_parameters[m[K’ of ‘[01m[KCOMMAND_LIST[m[K’ {aka ‘[01m[Kstruct <anonymous>[m[K’} [[01;35m[K-Wmissing-field-initializers[m[K]
+[4.061s]   210 |    [01;35m[K{[m[KCommandStereoDecimate,"-decimate","dec", "Half width/height of stereo image"},
+[4.062s]       |    [01;35m[K^[m[K
+[4.063s] In file included from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:44[m[K:
+[4.064s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/RaspiCLI.h:38:8:[m[K [01;36m[Knote: [m[K‘[01m[Knum_parameters[m[K’ declared here
+[4.065s]    38 |    int [01;36m[Knum_parameters[m[K;
+[4.065s]       |        [01;36m[K^~~~~~~~~~~~~~[m[K
+[4.066s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:211:4:[m[K [01;35m[Kwarning: [m[Kmissing initializer for field ‘[01m[Knum_parameters[m[K’ of ‘[01m[KCOMMAND_LIST[m[K’ {aka ‘[01m[Kstruct <anonymous>[m[K’} [[01;35m[K-Wmissing-field-initializers[m[K]
+[4.066s]   211 |    [01;35m[K{[m[KCommandStereoSwap,  "-3dswap",    "3dswap", "Swap camera order for stereoscopic"},
+[4.067s]       |    [01;35m[K^[m[K
+[4.068s] In file included from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:44[m[K:
+[4.069s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/RaspiCLI.h:38:8:[m[K [01;36m[Knote: [m[K‘[01m[Knum_parameters[m[K’ declared here
+[4.070s]    38 |    int [01;36m[Knum_parameters[m[K;
+[4.070s]       |        [01;36m[K^~~~~~~~~~~~~~[m[K
+[4.071s] In file included from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/libgps_loader.h:31[m[K,
+[4.072s]                  from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/RaspiGPS.h:34[m[K,
+[4.073s]                  from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCommonSettings.c:58[m[K:
+[4.073s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:290:6:[m[K [01;35m[Kwarning: [m[KISO C99 doesn’t support unnamed structs/unions [[01;35m[K-Wpedantic[m[K]
+[4.075s]   290 |     }[01;35m[K;[m[K
+[4.076s]       |      [01;35m[K^[m[K
+[4.077s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:871:6:[m[K [01;35m[Kwarning: [m[KISO C99 doesn’t support unnamed structs/unions [[01;35m[K-Wpedantic[m[K]
+[4.091s]   871 |     }[01;35m[K;[m[K
+[4.093s]       |      [01;35m[K^[m[K
+[4.095s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1216:8:[m[K [01;35m[Kwarning: [m[KISO C99 doesn’t support unnamed structs/unions [[01;35m[K-Wpedantic[m[K]
+[4.096s]  1216 |       }[01;35m[K;[m[K
+[4.096s]       |        [01;35m[K^[m[K
+[4.097s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1255:7:[m[K [01;35m[Kwarning: [m[KISO C99 doesn’t support unnamed structs/unions [[01;35m[K-Wpedantic[m[K]
+[4.098s]  1255 |      }[01;35m[K;[m[K
+[4.099s]       |       [01;35m[K^[m[K
+[4.100s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:[m[K In function ‘[01m[Kraspicamcontrol_parse_cmdline[m[K’:
+[4.101s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:776:22:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%u[m[K’ expects argument of type ‘[01m[Kunsigned int *[m[K’, but argument 3 has type ‘[01m[Kint *[m[K’ [[01;35m[K-Wformat=[m[K]
+[4.101s]   776 |       sscanf(arg2, "[01;35m[K%u[m[K,%X,%X,%u,%u,%u", [32m[K&params->annotate_text_size[m[K,
+[4.102s]       |                     [01;35m[K~^[m[K                  [32m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[4.116s]       |                      [01;35m[K|[m[K                  [32m[K|[m[K
+[4.117s]       |                      [01;35m[Kunsigned int *[m[K     [32m[Kint *[m[K
+[4.118s]       |                     [32m[K%u[m[K
+[4.118s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1563:7:[m[K [01;35m[Kwarning: [m[KISO C99 doesn’t support unnamed structs/unions [[01;35m[K-Wpedantic[m[K]
+[4.119s]  1563 |      }[01;35m[K;[m[K
+[4.120s]       |       [01;35m[K^[m[K
+[4.120s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:776:25:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%X[m[K’ expects argument of type ‘[01m[Kunsigned int *[m[K’, but argument 4 has type ‘[01m[Kint *[m[K’ [[01;35m[K-Wformat=[m[K]
+[4.121s]   776 |       sscanf(arg2, "%u,[01;35m[K%X[m[K,%X,%u,%u,%u", &params->annotate_text_size,
+[4.122s]       |                        [01;35m[K~^[m[K
+[4.122s]       |                         [01;35m[K|[m[K
+[4.123s]       |                         [01;35m[Kunsigned int *[m[K
+[4.124s]       |                        [32m[K%X[m[K
+[4.124s]   777 |              [32m[K&params->annotate_text_colour[m[K,
+[4.125s]       |              [32m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[4.125s]       |              [32m[K|[m[K
+[4.126s]       |              [32m[Kint *[m[K
+[4.139s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:776:28:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%X[m[K’ expects argument of type ‘[01m[Kunsigned int *[m[K’, but argument 5 has type ‘[01m[Kint *[m[K’ [[01;35m[K-Wformat=[m[K]
+[4.141s]   776 |       sscanf(arg2, "%u,%X,[01;35m[K%X[m[K,%u,%u,%u", &params->annotate_text_size,
+[4.142s]       |                           [01;35m[K~^[m[K
+[4.143s]       |                            [01;35m[K|[m[K
+[4.145s]       |                            [01;35m[Kunsigned int *[m[K
+[4.145s]       |                           [32m[K%X[m[K
+[4.146s]   777 |              &params->annotate_text_colour,
+[4.147s]   778 |              [32m[K&params->annotate_bg_colour[m[K,
+[4.148s]       |              [32m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[4.149s]       |              [32m[K|[m[K
+[4.150s]       |              [32m[Kint *[m[K
+[4.151s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1746:7:[m[K [01;35m[Kwarning: [m[KISO C99 doesn’t support unnamed structs/unions [[01;35m[K-Wpedantic[m[K]
+[4.153s]  1746 |      }[01;35m[K;[m[K
+[4.154s]       |       [01;35m[K^[m[K
+[4.155s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1788:7:[m[K [01;35m[Kwarning: [m[KISO C99 doesn’t support unnamed structs/unions [[01;35m[K-Wpedantic[m[K]
+[4.156s]  1788 |      }[01;35m[K;[m[K
+[4.157s]       |       [01;35m[K^[m[K
+[4.158s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1827:6:[m[K [01;35m[Kwarning: [m[KISO C99 doesn’t support unnamed structs/unions [[01;35m[K-Wpedantic[m[K]
+[4.159s]  1827 |     }[01;35m[K;[m[K
+[4.159s]       |      [01;35m[K^[m[K
+[4.160s] In file included from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/libgps_loader.h:31[m[K,
+[4.160s]                  from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/RaspiGPS.h:34[m[K,
+[4.160s]                  from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCommonSettings.c:58[m[K:
+[4.161s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:2080:6:[m[K [01;35m[Kwarning: [m[KISO C99 doesn’t support unnamed structs/unions [[01;35m[K-Wpedantic[m[K]
+[4.161s]  2080 |     }[01;35m[K;[m[K
+[4.162s]       |      [01;35m[K^[m[K
+[4.163s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCommonSettings.c:99:2:[m[K [01;35m[Kwarning: [m[KISO C does not allow extra ‘[01m[K;[m[K’ outside of a function [[01;35m[K-Wpedantic[m[K]
+[4.163s]    99 | }[01;35m[K;[m[K
+[4.164s]       |  [01;35m[K^[m[K
+[4.165s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCommonSettings.c:114:2:[m[K [01;35m[Kwarning: [m[KISO C does not allow extra ‘[01m[K;[m[K’ outside of a function [[01;35m[K-Wpedantic[m[K]
+[4.166s]   114 | }[01;35m[K;[m[K
+[4.167s]       |  [01;35m[K^[m[K
+[4.168s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCommonSettings.c:[m[K In function ‘[01m[Kraspicommonsettings_parse_cmdline[m[K’:
+[4.169s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCommonSettings.c:149:32:[m[K [01;35m[Kwarning: [m[Kimplicit declaration of function ‘[01m[Kbasename[m[K’; did you mean ‘[01m[Krename[m[K’? [[01;35m[K-Wimplicit-function-declaration[m[K]
+[4.170s]   149 |       display_valid_parameters([01;35m[Kbasename[m[K(get_app_name()), app_help);
+[4.171s]       |                                [01;35m[K^~~~~~~~[m[K
+[4.172s]       |                                [32m[Krename[m[K
+[4.172s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCommonSettings.c:149:32:[m[K [01;35m[Kwarning: [m[Kpassing argument 1 of ‘[01m[Kdisplay_valid_parameters[m[K’ makes pointer from integer without a cast [[01;35m[K-Wint-conversion[m[K]
+[4.173s]   149 |       display_valid_parameters([01;35m[Kbasename(get_app_name())[m[K, app_help);
+[4.173s]       |                                [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[4.174s]       |                                [01;35m[K|[m[K
+[4.186s]       |                                [01;35m[Kint[m[K
+[4.187s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:[m[K In function ‘[01m[Kraspicamcontrol_set_ROI[m[K’:
+[4.188s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:1455:4:[m[K [01;35m[Kwarning: [m[Kmissing initializer for field ‘[01m[Krect[m[K’ of ‘[01m[KMMAL_PARAMETER_INPUT_CROP_T[m[K’ {aka ‘[01m[Kstruct MMAL_PARAMETER_INPUT_CROP_T[m[K’} [[01;35m[K-Wmissing-field-initializers[m[K]
+[4.189s]  1455 |    [01;35m[KMMAL_PARAMETER_INPUT_CROP_T[m[K crop = {{MMAL_PARAMETER_INPUT_CROP, sizeof(MMAL_PARAMETER_INPUT_CROP_T)}};
+[4.190s]       |    [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[4.190s] In file included from [01m[K/usr/include/interface/mmal/mmal_parameters.h:32[m[K,
+[4.191s]                  from [01m[K/usr/include/interface/mmal/mmal_port.h:42[m[K,
+[4.192s]                  from [01m[K/usr/include/interface/mmal/mmal.h:357[m[K,
+[4.192s]                  from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:36[m[K:
+[4.193s] [01m[K/usr/include/interface/mmal/mmal_parameters_camera.h:587:28:[m[K [01;36m[Knote: [m[K‘[01m[Krect[m[K’ declared here
+[4.194s]   587 |    MMAL_RECT_T             [01;36m[Krect[m[K;    /**< Crop rectangle as 16P16 fixed point values */
+[4.194s]       |                            [01;36m[K^~~~[m[K
+[4.195s] In file included from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCommonSettings.c:57[m[K:
+[4.196s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/RaspiHelpers.h:32:37:[m[K [01;36m[Knote: [m[Kexpected ‘[01m[Kchar *[m[K’ but argument is of type ‘[01m[Kint[m[K’
+[4.197s]    32 | void display_valid_parameters([01;36m[Kchar *name[m[K, void (*app_help)(char*));
+[4.197s]       |                               [01;36m[K~~~~~~^~~~[m[K
+[4.198s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCommonSettings.c:154:26:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%u[m[K’ expects argument of type ‘[01m[Kunsigned int *[m[K’, but argument 3 has type ‘[01m[Kint *[m[K’ [[01;35m[K-Wformat=[m[K]
+[4.199s]   154 |       if (sscanf(arg2, "[01;35m[K%u[m[K", [32m[K&state->width[m[K) == 1)
+[4.200s]       |                         [01;35m[K~^[m[K   [32m[K~~~~~~~~~~~~~[m[K
+[4.200s]       |                          [01;35m[K|[m[K   [32m[K|[m[K
+[4.201s]       |                          [01;35m[K|[m[K   [32m[Kint *[m[K
+[4.202s]       |                          [01;35m[Kunsigned int *[m[K
+[4.203s]       |                         [32m[K%u[m[K
+[4.203s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:[m[K In function ‘[01m[Kraspicamcontrol_zoom_in_zoom_out[m[K’:
+[4.204s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:1485:27:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint32_t[m[K’ {aka ‘[01m[Kint[m[K’} and ‘[01m[Klong unsigned int[m[K’ [[01;35m[K-Wsign-compare[m[K]
+[4.205s]  1485 |       if (crop.rect.width [01;35m[K<=[m[K (zoom_full_16P16 + zoom_increment_16P16))
+[4.205s]       |                           [01;35m[K^~[m[K
+[4.206s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCommonSettings.c:159:26:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%u[m[K’ expects argument of type ‘[01m[Kunsigned int *[m[K’, but argument 3 has type ‘[01m[Kint *[m[K’ [[01;35m[K-Wformat=[m[K]
+[4.207s]   159 |       if (sscanf(arg2, "[01;35m[K%u[m[K", [32m[K&state->height[m[K) == 1)
+[4.207s]       |                         [01;35m[K~^[m[K   [32m[K~~~~~~~~~~~~~~[m[K
+[4.208s]       |                          [01;35m[K|[m[K   [32m[K|[m[K
+[4.209s]       |                          [01;35m[K|[m[K   [32m[Kint *[m[K
+[4.209s]       |                          [01;35m[Kunsigned int *[m[K
+[4.210s]       |                         [32m[K%u[m[K
+[4.211s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:1499:26:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kunsigned int[m[K’ and ‘[01m[Kint32_t[m[K’ {aka ‘[01m[Kint[m[K’} [[01;35m[K-Wsign-compare[m[K]
+[4.212s]  1499 |       if (increased_size [01;35m[K<[m[K crop.rect.width) //overflow
+[4.212s]       |                          [01;35m[K^[m[K
+[4.213s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCommonSettings.c:207:26:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%u[m[K’ expects argument of type ‘[01m[Kunsigned int *[m[K’, but argument 3 has type ‘[01m[Kint *[m[K’ [[01;35m[K-Wformat=[m[K]
+[4.214s]   207 |       if (sscanf(arg2, "[01;35m[K%u[m[K", [32m[K&state->cameraNum[m[K) == 1)
+[4.215s]       |                         [01;35m[K~^[m[K   [32m[K~~~~~~~~~~~~~~~~~[m[K
+[4.216s]       |                          [01;35m[K|[m[K   [32m[K|[m[K
+[4.218s]       |                          [01;35m[K|[m[K   [32m[Kint *[m[K
+[4.219s]       |                          [01;35m[Kunsigned int *[m[K
+[4.219s]       |                         [32m[K%u[m[K
+[4.220s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:[m[K In function ‘[01m[Kraspicamcontrol_set_annotate[m[K’:
+[4.220s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:1598:4:[m[K [01;35m[Kwarning: [m[Kmissing initializer for field ‘[01m[Kenable[m[K’ of ‘[01m[KMMAL_PARAMETER_CAMERA_ANNOTATE_V4_T[m[K’ {aka ‘[01m[Kstruct MMAL_PARAMETER_CAMERA_ANNOTATE_V4_T[m[K’} [[01;35m[K-Wmissing-field-initializers[m[K]
+[4.221s]  1598 |    [01;35m[K{[m[K{MMAL_PARAMETER_ANNOTATE, sizeof(MMAL_PARAMETER_CAMERA_ANNOTATE_V4_T)}};
+[4.221s]       |    [01;35m[K^[m[K
+[4.223s] In file included from [01m[K/usr/include/interface/mmal/mmal_parameters.h:32[m[K,
+[4.223s]                  from [01m[K/usr/include/interface/mmal/mmal_port.h:42[m[K,
+[4.224s]                  from [01m[K/usr/include/interface/mmal/mmal.h:357[m[K,
+[4.225s]                  from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:36[m[K:
+[4.225s] [01m[K/usr/include/interface/mmal/mmal_parameters_camera.h:791:16:[m[K [01;36m[Knote: [m[K‘[01m[Kenable[m[K’ declared here
+[4.226s]   791 |    MMAL_BOOL_T [01;36m[Kenable[m[K;
+[4.227s]       |                [01;36m[K^~~~~~[m[K
+[4.228s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCommonSettings.c:214:26:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%u[m[K’ expects argument of type ‘[01m[Kunsigned int *[m[K’, but argument 3 has type ‘[01m[Kint *[m[K’ [[01;35m[K-Wformat=[m[K]
+[4.229s]   214 |       if (sscanf(arg2, "[01;35m[K%u[m[K", [32m[K&state->sensor_mode[m[K) == 1)
+[4.229s]       |                         [01;35m[K~^[m[K   [32m[K~~~~~~~~~~~~~~~~~~~[m[K
+[4.230s]       |                          [01;35m[K|[m[K   [32m[K|[m[K
+[4.230s]       |                          [01;35m[K|[m[K   [32m[Kint *[m[K
+[4.231s]       |                          [01;35m[Kunsigned int *[m[K
+[4.232s]       |                         [32m[K%u[m[K
+[4.233s] [ 35%] [32mBuilding C object CMakeFiles/raspicam_common.dir/src/RaspiHelpers.c.o[0m
+[4.234s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:[m[K In function ‘[01m[Kdefault_camera_control_callback[m[K’:
+[4.234s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:1793:51:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kport[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[4.235s]  1793 | void default_camera_control_callback([01;35m[KMMAL_PORT_T *port[m[K, MMAL_BUFFER_HEADER_T *buffer)
+[4.236s]       |                                      [01;35m[K~~~~~~~~~~~~~^~~~[m[K
+[4.237s] [ 42%] [32mBuilding C object CMakeFiles/raspicam_common.dir/src/RaspiGPS.c.o[0m
+[4.253s] [ 50%] [32mBuilding C object CMakeFiles/raspicam_common.dir/src/libgps_loader.c.o[0m
+[4.335s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiHelpers.c:[m[K In function ‘[01m[Kprint_app_details[m[K’:
+[4.336s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiHelpers.c:66:57:[m[K [01;35m[Kwarning: [m[Kimplicit declaration of function ‘[01m[Kbasename[m[K’; did you mean ‘[01m[Krename[m[K’? [[01;35m[K-Wimplicit-function-declaration[m[K]
+[4.337s]    66 |    fprintf(fd, "\n\"%s\" Camera App (commit %s%s)\n\n", [01;35m[Kbasename[m[K(app_name), GIT_COMMIT_ID, TAINTED);
+[4.337s]       |                                                         [01;35m[K^~~~~~~~[m[K
+[4.338s]       |                                                         [32m[Krename[m[K
+[4.339s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiHelpers.c:66:22:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%s[m[K’ expects argument of type ‘[01m[Kchar *[m[K’, but argument 3 has type ‘[01m[Kint[m[K’ [[01;35m[K-Wformat=[m[K]
+[4.339s]    66 |    fprintf(fd, "\n\"[01;35m[K%s[m[K\" Camera App (commit %s%s)\n\n", [32m[Kbasename(app_name)[m[K, GIT_COMMIT_ID, TAINTED);
+[4.340s]       |                     [01;35m[K~^[m[K                                  [32m[K~~~~~~~~~~~~~~~~~~[m[K
+[4.341s]       |                      [01;35m[K|[m[K                                  [32m[K|[m[K
+[4.341s]       |                      [01;35m[Kchar *[m[K                             [32m[Kint[m[K
+[4.342s]       |                     [32m[K%d[m[K
+[4.345s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiHelpers.c:[m[K In function ‘[01m[Kget_sensor_defaults[m[K’:
+[4.351s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiHelpers.c:112:58:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kuint32_t[m[K’ {aka ‘[01m[Kunsigned int[m[K’} and ‘[01m[Kint[m[K’ [[01;35m[K-Wsign-compare[m[K]
+[4.352s]   112 |          if (status == MMAL_SUCCESS && param.num_cameras [01;35m[K>[m[K camera_num)
+[4.352s]       |                                                          [01;35m[K^[m[K
+[4.402s] In file included from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/libgps_loader.h:31[m[K,
+[4.403s]                  from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/libgps_loader.c:34[m[K:
+[4.404s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:290:6:[m[K [01;35m[Kwarning: [m[KISO C99 doesn’t support unnamed structs/unions [[01;35m[K-Wpedantic[m[K]
+[4.404s]   290 |     }[01;35m[K;[m[K
+[4.405s]       |      [01;35m[K^[m[K
+[4.407s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:871:6:[m[K [01;35m[Kwarning: [m[KISO C99 doesn’t support unnamed structs/unions [[01;35m[K-Wpedantic[m[K]
+[4.409s]   871 |     }[01;35m[K;[m[K
+[4.411s]       |      [01;35m[K^[m[K
+[4.411s] In file included from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/libgps_loader.h:31[m[K,
+[4.412s]                  from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/RaspiGPS.h:34[m[K,
+[4.413s]                  from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiGPS.c:35[m[K:
+[4.413s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:290:6:[m[K [01;35m[Kwarning: [m[KISO C99 doesn’t support unnamed structs/unions [[01;35m[K-Wpedantic[m[K]
+[4.415s]   290 |     }[01;35m[K;[m[K
+[4.417s]       |      [01;35m[K^[m[K
+[4.422s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1216:8:[m[K [01;35m[Kwarning: [m[KISO C99 doesn’t support unnamed structs/unions [[01;35m[K-Wpedantic[m[K]
+[4.423s]  1216 |       }[01;35m[K;[m[K
+[4.424s]       |        [01;35m[K^[m[K
+[4.426s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1255:7:[m[K [01;35m[Kwarning: [m[KISO C99 doesn’t support unnamed structs/unions [[01;35m[K-Wpedantic[m[K]
+[4.428s]  1255 |      }[01;35m[K;[m[K
+[4.429s]       |       [01;35m[K^[m[K
+[4.433s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:871:6:[m[K [01;35m[Kwarning: [m[KISO C99 doesn’t support unnamed structs/unions [[01;35m[K-Wpedantic[m[K]
+[4.435s]   871 |     }[01;35m[K;[m[K
+[4.438s]       |      [01;35m[K^[m[K
+[4.439s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1563:7:[m[K [01;35m[Kwarning: [m[KISO C99 doesn’t support unnamed structs/unions [[01;35m[K-Wpedantic[m[K]
+[4.441s]  1563 |      }[01;35m[K;[m[K
+[4.441s]       |       [01;35m[K^[m[K
+[4.442s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1746:7:[m[K [01;35m[Kwarning: [m[KISO C99 doesn’t support unnamed structs/unions [[01;35m[K-Wpedantic[m[K]
+[4.443s]  1746 |      }[01;35m[K;[m[K
+[4.444s]       |       [01;35m[K^[m[K
+[4.444s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1788:7:[m[K [01;35m[Kwarning: [m[KISO C99 doesn’t support unnamed structs/unions [[01;35m[K-Wpedantic[m[K]
+[4.445s]  1788 |      }[01;35m[K;[m[K
+[4.445s]       |       [01;35m[K^[m[K
+[4.446s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1216:8:[m[K [01;35m[Kwarning: [m[KISO C99 doesn’t support unnamed structs/unions [[01;35m[K-Wpedantic[m[K]
+[4.446s]  1216 |       }[01;35m[K;[m[K
+[4.447s]       |        [01;35m[K^[m[K
+[4.447s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1827:6:[m[K [01;35m[Kwarning: [m[KISO C99 doesn’t support unnamed structs/unions [[01;35m[K-Wpedantic[m[K]
+[4.449s]  1827 |     }[01;35m[K;[m[K
+[4.451s]       |      [01;35m[K^[m[K
+[4.453s] In file included from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/libgps_loader.h:31[m[K,
+[4.455s]                  from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/libgps_loader.c:34[m[K:
+[4.456s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:2080:6:[m[K [01;35m[Kwarning: [m[KISO C99 doesn’t support unnamed structs/unions [[01;35m[K-Wpedantic[m[K]
+[4.456s]  2080 |     }[01;35m[K;[m[K
+[4.457s]       |      [01;35m[K^[m[K
+[4.458s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1255:7:[m[K [01;35m[Kwarning: [m[KISO C99 doesn’t support unnamed structs/unions [[01;35m[K-Wpedantic[m[K]
+[4.458s]  1255 |      }[01;35m[K;[m[K
+[4.459s]       |       [01;35m[K^[m[K
+[4.459s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1563:7:[m[K [01;35m[Kwarning: [m[KISO C99 doesn’t support unnamed structs/unions [[01;35m[K-Wpedantic[m[K]
+[4.460s]  1563 |      }[01;35m[K;[m[K
+[4.460s]       |       [01;35m[K^[m[K
+[4.461s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1746:7:[m[K [01;35m[Kwarning: [m[KISO C99 doesn’t support unnamed structs/unions [[01;35m[K-Wpedantic[m[K]
+[4.461s]  1746 |      }[01;35m[K;[m[K
+[4.462s]       |       [01;35m[K^[m[K
+[4.462s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1788:7:[m[K [01;35m[Kwarning: [m[KISO C99 doesn’t support unnamed structs/unions [[01;35m[K-Wpedantic[m[K]
+[4.463s]  1788 |      }[01;35m[K;[m[K
+[4.463s]       |       [01;35m[K^[m[K
+[4.464s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1827:6:[m[K [01;35m[Kwarning: [m[KISO C99 doesn’t support unnamed structs/unions [[01;35m[K-Wpedantic[m[K]
+[4.464s]  1827 |     }[01;35m[K;[m[K
+[4.464s]       |      [01;35m[K^[m[K
+[4.465s] In file included from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/libgps_loader.h:31[m[K,
+[4.465s]                  from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/RaspiGPS.h:34[m[K,
+[4.465s]                  from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiGPS.c:35[m[K:
+[4.466s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:2080:6:[m[K [01;35m[Kwarning: [m[KISO C99 doesn’t support unnamed structs/unions [[01;35m[K-Wpedantic[m[K]
+[4.466s]  2080 |     }[01;35m[K;[m[K
+[4.467s]       |      [01;35m[K^[m[K
+[4.467s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiGPS.c:[m[K In function ‘[01m[Kgps_reader_process[m[K’:
+[4.468s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiGPS.c:63:39:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kgps_reader_data_ptr[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[4.468s]    63 | static void *gps_reader_process([01;35m[Kvoid *gps_reader_data_ptr[m[K)
+[4.469s]       |                                 [01;35m[K~~~~~~^~~~~~~~~~~~~~~~~~~[m[K
+[4.469s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiGPS.c:[m[K In function ‘[01m[Kraspi_gps_location_string[m[K’:
+[4.470s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiGPS.c:238:4:[m[K [01;35m[Kwarning: [m[Kimplicit declaration of function ‘[01m[Kasprintf[m[K’; did you mean ‘[01m[Kvsprintf[m[K’? [[01;35m[K-Wimplicit-function-declaration[m[K]
+[4.471s]   238 |    [01;35m[Kasprintf[m[K(&text,  "%s Lat %s Long %s %s %s %s", datetime, lat, lon, alt, speed, track);
+[4.471s]       |    [01;35m[K^~~~~~~~[m[K
+[4.472s]       |    [32m[Kvsprintf[m[K
+[4.580s] [ 57%] [32m[1mLinking C static library libraspicam_common.a[0m
+[4.716s] [ 57%] Built target raspicam_common
+[4.760s] [35m[1mScanning dependencies of target raspicam[0m
+[4.803s] [ 64%] [32mBuilding CXX object CMakeFiles/raspicam.dir/src/raspicam.cpp.o[0m
+[6.071s] In file included from [01m[K/usr/include/interface/vcos/vcos.h:144[m[K,
+[6.071s]                  from [01m[K/usr/include/interface/vmcs_host/vc_dispmanx.h:33[m[K,
+[6.072s]                  from [01m[K/usr/include/bcm_host.h:50[m[K,
+[6.072s]                  from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:32[m[K:
+[6.072s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:[m[K In function ‘[01m[Kvoid image_encoder_buffer_callback(MMAL_PORT_T*, MMAL_BUFFER_HEADER_T*)[m[K’:
+[6.073s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:117:22:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%d[m[K’ expects argument of type ‘[01m[Kint[m[K’, but argument 4 has type ‘[01m[Ksize_t[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wformat=[m[K]
+[6.073s]   117 |       vcos_log_error([01;35m[K"Failed to write buffer data (%d from %d)- aborting"[m[K, [32m[Kbytes_written[m[K, buffer->length);
+[6.074s]       |                      [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K  [32m[K~~~~~~~~~~~~~[m[K
+[6.074s]       |                                                                            [32m[K|[m[K
+[6.074s]       |                                                                            [32m[Ksize_t {aka long unsigned int}[m[K
+[6.075s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:117:53:[m[K [01;36m[Knote: [m[Kformat string is defined here
+[6.075s]   117 |       vcos_log_error("Failed to write buffer data ([01;36m[K%d[m[K from %d)- aborting", bytes_written, buffer->length);
+[6.076s]       |                                                    [01;36m[K~^[m[K
+[6.076s]       |                                                     [01;36m[K|[m[K
+[6.076s]       |                                                     [01;36m[Kint[m[K
+[6.077s]       |                                                    [32m[K%ld[m[K
+[6.077s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:118:17:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%d[m[K’ expects argument of type ‘[01m[Kint[m[K’, but argument 3 has type ‘[01m[Ksize_t[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wformat=[m[K]
+[6.077s]   118 |       ROS_ERROR([01;35m[K"Failed to write buffer data (%d from %d)- aborting"[m[K, [32m[Kbytes_written[m[K, buffer->length);
+[6.079s]       |                 [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K  [32m[K~~~~~~~~~~~~~[m[K
+[6.079s]       |                                                                       [32m[K|[m[K
+[6.079s]       |                                                                       [32m[Ksize_t {aka long unsigned int}[m[K
+[6.080s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:45:40:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROS_ERROR[m[K’
+[6.080s]    45 | #define ROS_ERROR(...) fprintf(stderr, [01;36m[K__VA_ARGS__[m[K);
+[6.081s]       |                                        [01;36m[K^~~~~~~~~~~[m[K
+[6.081s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:118:48:[m[K [01;36m[Knote: [m[Kformat string is defined here
+[6.081s]   118 |       ROS_ERROR("Failed to write buffer data ([01;36m[K%d[m[K from %d)- aborting", bytes_written, buffer->length);
+[6.082s]       |                                               [01;36m[K~^[m[K
+[6.082s]       |                                                [01;36m[K|[m[K
+[6.082s]       |                                                [01;36m[Kint[m[K
+[6.083s]       |                                               [32m[K%ld[m[K
+[6.083s] In file included from [01m[K/usr/include/interface/vcos/vcos.h:144[m[K,
+[6.083s]                  from [01m[K/usr/include/interface/vmcs_host/vc_dispmanx.h:33[m[K,
+[6.084s]                  from [01m[K/usr/include/bcm_host.h:50[m[K,
+[6.084s]                  from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:32[m[K:
+[6.084s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:[m[K In function ‘[01m[Kvoid splitter_buffer_callback(MMAL_PORT_T*, MMAL_BUFFER_HEADER_T*)[m[K’:
+[6.085s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:268:22:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%d[m[K’ expects argument of type ‘[01m[Kint[m[K’, but argument 4 has type ‘[01m[Ksize_t[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wformat=[m[K]
+[6.085s]   268 |       vcos_log_error([01;35m[K"Failed to write buffer data (%d from %d)- aborting"[m[K, [32m[Kbytes_written[m[K, buffer->length);
+[6.085s]       |                      [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K  [32m[K~~~~~~~~~~~~~[m[K
+[6.086s]       |                                                                            [32m[K|[m[K
+[6.086s]       |                                                                            [32m[Ksize_t {aka long unsigned int}[m[K
+[6.087s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:268:53:[m[K [01;36m[Knote: [m[Kformat string is defined here
+[6.087s]   268 |       vcos_log_error("Failed to write buffer data ([01;36m[K%d[m[K from %d)- aborting", bytes_written, buffer->length);
+[6.088s]       |                                                    [01;36m[K~^[m[K
+[6.088s]       |                                                     [01;36m[K|[m[K
+[6.088s]       |                                                     [01;36m[Kint[m[K
+[6.089s]       |                                                    [32m[K%ld[m[K
+[6.089s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:269:17:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%d[m[K’ expects argument of type ‘[01m[Kint[m[K’, but argument 3 has type ‘[01m[Ksize_t[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wformat=[m[K]
+[6.089s]   269 |       ROS_ERROR([01;35m[K"Failed to write buffer data (%d from %d)- aborting"[m[K, [32m[Kbytes_written[m[K, buffer->length);
+[6.090s]       |                 [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K  [32m[K~~~~~~~~~~~~~[m[K
+[6.090s]       |                                                                       [32m[K|[m[K
+[6.091s]       |                                                                       [32m[Ksize_t {aka long unsigned int}[m[K
+[6.091s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:45:40:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROS_ERROR[m[K’
+[6.091s]    45 | #define ROS_ERROR(...) fprintf(stderr, [01;36m[K__VA_ARGS__[m[K);
+[6.092s]       |                                        [01;36m[K^~~~~~~~~~~[m[K
+[6.092s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:269:48:[m[K [01;36m[Knote: [m[Kformat string is defined here
+[6.092s]   269 |       ROS_ERROR("Failed to write buffer data ([01;36m[K%d[m[K from %d)- aborting", bytes_written, buffer->length);
+[6.093s]       |                                               [01;36m[K~^[m[K
+[6.093s]       |                                                [01;36m[K|[m[K
+[6.093s]       |                                                [01;36m[Kint[m[K
+[6.094s]       |                                               [32m[K%ld[m[K
+[6.958s] [ 71%] [32m[1mLinking CXX shared library libraspicam.so[0m
+[7.222s] [ 71%] Built target raspicam
+[7.265s] [35m[1mScanning dependencies of target RasPiCamPublisherNode[0m
+[7.727s] [ 78%] [32mBuilding CXX object CMakeFiles/RasPiCamPublisherNode.dir/src/RasPiCamPublisherNode.cpp.o[0m
+[13.696s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RasPiCamPublisherNode.cpp:[m[K In member function ‘[01m[Kvoid RasPiCamPublisher::onMotion(const uint8_t*, const uint8_t*)[m[K’:
+[13.696s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RasPiCamPublisherNode.cpp:177:49:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kstart[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[13.697s]   177 | void RasPiCamPublisher::onMotion([01;35m[Kconst uint8_t* start[m[K, const uint8_t* end) { }
+[13.697s]       |                                  [01;35m[K~~~~~~~~~~~~~~~^~~~~[m[K
+[13.698s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RasPiCamPublisherNode.cpp:177:71:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kend[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+[13.698s]   177 | void RasPiCamPublisher::onMotion(const uint8_t* start, [01;35m[Kconst uint8_t* end[m[K) { }
+[13.698s]       |                                                        [01;35m[K~~~~~~~~~~~~~~~^~~[m[K
+[17.499s] In file included from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/RasPiCamPublisherNode.hpp:9[m[K,
+[17.499s]                  from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RasPiCamPublisherNode.cpp:1[m[K:
+[17.500s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:[m[K At global scope:
+[17.500s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:96:13:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid image_encoder_buffer_callback(MMAL_PORT_T*, MMAL_BUFFER_HEADER_T*)[m[K’ declared ‘[01m[Kstatic[m[K’ but never defined [[01;35m[K-Wunused-function[m[K]
+[17.500s]    96 | static void [01;35m[Kimage_encoder_buffer_callback[m[K(MMAL_PORT_T* port, MMAL_BUFFER_HEADER_T* buffer);
+[17.501s]       |             [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[17.501s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:106:13:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid video_encoder_buffer_callback(MMAL_PORT_T*, MMAL_BUFFER_HEADER_T*)[m[K’ declared ‘[01m[Kstatic[m[K’ but never defined [[01;35m[K-Wunused-function[m[K]
+[17.502s]   106 | static void [01;35m[Kvideo_encoder_buffer_callback[m[K(MMAL_PORT_T* port, MMAL_BUFFER_HEADER_T* buffer);
+[17.502s]       |             [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[17.502s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:108:13:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid splitter_buffer_callback(MMAL_PORT_T*, MMAL_BUFFER_HEADER_T*)[m[K’ declared ‘[01m[Kstatic[m[K’ but never defined [[01;35m[K-Wunused-function[m[K]
+[17.503s]   108 | static void [01;35m[Ksplitter_buffer_callback[m[K(MMAL_PORT_T* port, MMAL_BUFFER_HEADER_T* buffer);
+[17.503s]       |             [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[17.504s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:118:26:[m[K [01;35m[Kwarning: [m[K‘[01m[KMMAL_COMPONENT_T* create_camera_component(RASPIVID_STATE&)[m[K’ declared ‘[01m[Kstatic[m[K’ but never defined [[01;35m[K-Wunused-function[m[K]
+[17.504s]   118 | static MMAL_COMPONENT_T* [01;35m[Kcreate_camera_component[m[K(RASPIVID_STATE& state);
+[17.504s]       |                          [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~[m[K
+[17.505s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:128:22:[m[K [01;35m[Kwarning: [m[K‘[01m[KMMAL_STATUS_T create_image_encoder_component(RASPIVID_STATE&)[m[K’ declared ‘[01m[Kstatic[m[K’ but never defined [[01;35m[K-Wunused-function[m[K]
+[17.505s]   128 | static MMAL_STATUS_T [01;35m[Kcreate_image_encoder_component[m[K(RASPIVID_STATE& state);
+[17.505s]       |                      [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[17.506s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:138:22:[m[K [01;35m[Kwarning: [m[K‘[01m[KMMAL_STATUS_T create_video_encoder_component(RASPIVID_STATE&)[m[K’ declared ‘[01m[Kstatic[m[K’ but never defined [[01;35m[K-Wunused-function[m[K]
+[17.506s]   138 | static MMAL_STATUS_T [01;35m[Kcreate_video_encoder_component[m[K(RASPIVID_STATE& state);
+[17.507s]       |                      [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[17.507s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:148:22:[m[K [01;35m[Kwarning: [m[K‘[01m[KMMAL_STATUS_T create_splitter_component(RASPIVID_STATE&)[m[K’ declared ‘[01m[Kstatic[m[K’ but never defined [[01;35m[K-Wunused-function[m[K]
+[17.508s]   148 | static MMAL_STATUS_T [01;35m[Kcreate_splitter_component[m[K(RASPIVID_STATE& state);
+[17.508s]       |                      [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[17.508s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:160:22:[m[K [01;35m[Kwarning: [m[K‘[01m[KMMAL_STATUS_T connect_ports(MMAL_PORT_T*, MMAL_PORT_T*, mmal::connection_ptr&)[m[K’ declared ‘[01m[Kstatic[m[K’ but never defined [[01;35m[K-Wunused-function[m[K]
+[17.509s]   160 | static MMAL_STATUS_T [01;35m[Kconnect_ports[m[K(MMAL_PORT_T* output_port, MMAL_PORT_T* input_port,
+[17.509s]       |                      [01;35m[K^~~~~~~~~~~~~[m[K
+[25.912s] [ 85%] [32m[1mLinking CXX shared library libRasPiCamPublisherNode.so[0m
+[26.810s] [ 85%] Built target RasPiCamPublisherNode
+[26.855s] [35m[1mScanning dependencies of target raspicam2_node[0m
+[27.043s] [ 92%] [32mBuilding CXX object CMakeFiles/raspicam2_node.dir/src/raspicam2_node.cpp.o[0m
+[34.572s] In file included from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/RasPiCamPublisherNode.hpp:9[m[K,
+[34.572s]                  from [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam2_node.cpp:1[m[K:
+[34.573s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:96:13:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid image_encoder_buffer_callback(MMAL_PORT_T*, MMAL_BUFFER_HEADER_T*)[m[K’ declared ‘[01m[Kstatic[m[K’ but never defined [[01;35m[K-Wunused-function[m[K]
+[34.573s]    96 | static void [01;35m[Kimage_encoder_buffer_callback[m[K(MMAL_PORT_T* port, MMAL_BUFFER_HEADER_T* buffer);
+[34.573s]       |             [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[34.574s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:106:13:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid video_encoder_buffer_callback(MMAL_PORT_T*, MMAL_BUFFER_HEADER_T*)[m[K’ declared ‘[01m[Kstatic[m[K’ but never defined [[01;35m[K-Wunused-function[m[K]
+[34.574s]   106 | static void [01;35m[Kvideo_encoder_buffer_callback[m[K(MMAL_PORT_T* port, MMAL_BUFFER_HEADER_T* buffer);
+[34.575s]       |             [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[34.575s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:108:13:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid splitter_buffer_callback(MMAL_PORT_T*, MMAL_BUFFER_HEADER_T*)[m[K’ declared ‘[01m[Kstatic[m[K’ but never defined [[01;35m[K-Wunused-function[m[K]
+[34.576s]   108 | static void [01;35m[Ksplitter_buffer_callback[m[K(MMAL_PORT_T* port, MMAL_BUFFER_HEADER_T* buffer);
+[34.576s]       |             [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[34.576s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:118:26:[m[K [01;35m[Kwarning: [m[K‘[01m[KMMAL_COMPONENT_T* create_camera_component(RASPIVID_STATE&)[m[K’ declared ‘[01m[Kstatic[m[K’ but never defined [[01;35m[K-Wunused-function[m[K]
+[34.577s]   118 | static MMAL_COMPONENT_T* [01;35m[Kcreate_camera_component[m[K(RASPIVID_STATE& state);
+[34.577s]       |                          [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~[m[K
+[34.578s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:128:22:[m[K [01;35m[Kwarning: [m[K‘[01m[KMMAL_STATUS_T create_image_encoder_component(RASPIVID_STATE&)[m[K’ declared ‘[01m[Kstatic[m[K’ but never defined [[01;35m[K-Wunused-function[m[K]
+[34.578s]   128 | static MMAL_STATUS_T [01;35m[Kcreate_image_encoder_component[m[K(RASPIVID_STATE& state);
+[34.578s]       |                      [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[34.579s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:138:22:[m[K [01;35m[Kwarning: [m[K‘[01m[KMMAL_STATUS_T create_video_encoder_component(RASPIVID_STATE&)[m[K’ declared ‘[01m[Kstatic[m[K’ but never defined [[01;35m[K-Wunused-function[m[K]
+[34.579s]   138 | static MMAL_STATUS_T [01;35m[Kcreate_video_encoder_component[m[K(RASPIVID_STATE& state);
+[34.580s]       |                      [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[34.580s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:148:22:[m[K [01;35m[Kwarning: [m[K‘[01m[KMMAL_STATUS_T create_splitter_component(RASPIVID_STATE&)[m[K’ declared ‘[01m[Kstatic[m[K’ but never defined [[01;35m[K-Wunused-function[m[K]
+[34.581s]   148 | static MMAL_STATUS_T [01;35m[Kcreate_splitter_component[m[K(RASPIVID_STATE& state);
+[34.581s]       |                      [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[34.581s] [01m[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:160:22:[m[K [01;35m[Kwarning: [m[K‘[01m[KMMAL_STATUS_T connect_ports(MMAL_PORT_T*, MMAL_PORT_T*, mmal::connection_ptr&)[m[K’ declared ‘[01m[Kstatic[m[K’ but never defined [[01;35m[K-Wunused-function[m[K]
+[34.582s]   160 | static MMAL_STATUS_T [01;35m[Kconnect_ports[m[K(MMAL_PORT_T* output_port, MMAL_PORT_T* input_port,
+[34.582s]       |                      [01;35m[K^~~~~~~~~~~~~[m[K
+[35.134s] [100%] [32m[1mLinking CXX executable raspicam2_node[0m
+[35.988s] [100%] Built target raspicam2_node
+[36.028s] Invoked command in '/home/ubuntu/colcon_ws/build/raspicam2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy /usr/bin/cmake --build /home/ubuntu/colcon_ws/build/raspicam2 -- -j4 -l4
+[36.324s] Invoking command in '/home/ubuntu/colcon_ws/build/raspicam2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy /usr/bin/cmake --install /home/ubuntu/colcon_ws/build/raspicam2
+[36.358s] -- Install configuration: ""
+[36.360s] -- Execute custom install script
+[36.362s] -- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/lib/libRasPiCamPublisherNode.so
+[36.395s] -- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/lib/libraspicam.so
+[36.430s] -- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/lib/raspicam2/raspicam2_node
+[36.468s] -- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/cfg/params.yaml
+[36.504s] -- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/ament_index/resource_index/package_run_dependencies/raspicam2
+[36.539s] -- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/ament_index/resource_index/parent_prefix_path/raspicam2
+[36.574s] -- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/environment/ament_prefix_path.sh
+[36.609s] -- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/environment/ament_prefix_path.dsv
+[36.643s] -- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/environment/path.sh
+[36.678s] -- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/environment/path.dsv
+[36.712s] -- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/local_setup.bash
+[36.747s] -- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/local_setup.sh
+[36.781s] -- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/local_setup.zsh
+[36.815s] -- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/local_setup.dsv
+[36.851s] -- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/package.dsv
+[36.887s] -- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/ament_index/resource_index/packages/raspicam2
+[36.922s] -- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/ament_index/resource_index/rclcpp_components/raspicam2
+[36.957s] -- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/cmake/raspicam2Config.cmake
+[36.991s] -- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/cmake/raspicam2Config-version.cmake
+[37.025s] -- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/package.xml
+[37.066s] Invoked command in '/home/ubuntu/colcon_ws/build/raspicam2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy /usr/bin/cmake --install /home/ubuntu/colcon_ws/build/raspicam2

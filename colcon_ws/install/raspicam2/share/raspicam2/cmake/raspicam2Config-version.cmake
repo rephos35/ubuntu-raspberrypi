@@ -1,0 +1,1 @@
+/home/ubuntu/colcon_ws/build/raspicam2/ament_cmake_core/raspicam2Config-version.cmake

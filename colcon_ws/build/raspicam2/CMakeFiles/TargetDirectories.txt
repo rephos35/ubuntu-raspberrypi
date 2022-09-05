@@ -1,0 +1,13 @@
+/home/ubuntu/colcon_ws/build/raspicam2/CMakeFiles/install/local.dir
+/home/ubuntu/colcon_ws/build/raspicam2/CMakeFiles/install.dir
+/home/ubuntu/colcon_ws/build/raspicam2/CMakeFiles/list_install_components.dir
+/home/ubuntu/colcon_ws/build/raspicam2/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/colcon_ws/build/raspicam2/CMakeFiles/edit_cache.dir
+/home/ubuntu/colcon_ws/build/raspicam2/CMakeFiles/test.dir
+/home/ubuntu/colcon_ws/build/raspicam2/CMakeFiles/install/strip.dir
+/home/ubuntu/colcon_ws/build/raspicam2/CMakeFiles/raspicam2_node.dir
+/home/ubuntu/colcon_ws/build/raspicam2/CMakeFiles/RasPiCamPublisherNode.dir
+/home/ubuntu/colcon_ws/build/raspicam2/CMakeFiles/raspicam_common.dir
+/home/ubuntu/colcon_ws/build/raspicam2/CMakeFiles/raspicam2_uninstall.dir
+/home/ubuntu/colcon_ws/build/raspicam2/CMakeFiles/raspicam.dir
+/home/ubuntu/colcon_ws/build/raspicam2/CMakeFiles/uninstall.dir

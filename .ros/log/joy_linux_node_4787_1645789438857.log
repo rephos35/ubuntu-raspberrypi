@@ -1,0 +1,2 @@
+[ERROR] [1645789439.323164888] [joy_node]: Couldn't open joystick /dev/input/js0. Will retry every second.
+[INFO] [1645789461.182431278] [rclcpp]: signal_handler(signal_value=2)

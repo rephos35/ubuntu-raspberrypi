@@ -1,0 +1,822 @@
+[0.000000] (-) TimerEvent: {}
+[0.001074] (raspicam2) JobQueued: {'identifier': 'raspicam2', 'dependencies': OrderedDict()}
+[0.002403] (raspicam2) JobStarted: {'identifier': 'raspicam2'}
+[0.052197] (raspicam2) JobProgress: {'identifier': 'raspicam2', 'progress': 'cmake'}
+[0.055742] (raspicam2) Command: {'cmd': ['/usr/bin/cmake', '/home/ubuntu/colcon_ws/src/raspicam2_node', '-DAMENT_CMAKE_SYMLINK_INSTALL=1', '-DCMAKE_INSTALL_PREFIX=/home/ubuntu/colcon_ws/install/raspicam2'], 'cwd': '/home/ubuntu/colcon_ws/build/raspicam2', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('TMUX', '/tmp//tmux-1000/default,2095,0'), ('USER', 'ubuntu'), ('SSH_CLIENT', '192.168.0.140 41748 22'), ('LC_TIME', 'lzh_TW'), ('XDG_SESSION_TYPE', 'tty'), ('SHLVL', '2'), ('LD_LIBRARY_PATH', '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib'), ('MOTD_SHOWN', 'pam'), ('HOME', '/home/ubuntu'), ('OLDPWD', '/home/ubuntu/colcon_ws/src'), ('SSH_TTY', '/dev/pts/0'), ('ROS_PYTHON_VERSION', '3'), ('LC_MONETARY', 'lzh_TW'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLCON_PREFIX_PATH', '/home/ubuntu/turtlebot3_ws/install'), ('ROS_DISTRO', 'foxy'), ('LOGNAME', 'ubuntu'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('TERM', 'screen'), ('XDG_SESSION_ID', '2'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/opt/ros/foxy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'), ('LC_ADDRESS', 'lzh_TW'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('LANG', 'en_US.UTF-8'), ('LC_TELEPHONE', 'lzh_TW'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('ROS_DOMAIN_ID', '30'), ('AMENT_PREFIX_PATH', '/home/ubuntu/turtlebot3_ws/install/turtlebot3:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_bringup:/home/ubuntu/turtlebot3_ws/install/turtlebot3_node:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/home/ubuntu/turtlebot3_ws/install/turtlebot3_description:/opt/ros/foxy'), ('SHELL', '/bin/bash'), ('LC_NAME', 'lzh_TW'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('LC_MEASUREMENT', 'lzh_TW'), ('LC_IDENTIFICATION', 'lzh_TW'), ('PWD', '/home/ubuntu/colcon_ws/build/raspicam2'), ('OPENCR_PORT', '/dev/ttyACM0'), ('TURTLEBOT3_MODEL', 'burger'), ('LC_ALL', 'en_US.UTF-8'), ('SSH_CONNECTION', '192.168.0.140 41748 192.168.0.161 22'), ('XDG_DATA_DIRS', '/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/home/ubuntu/turtlebot3_ws/build/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.8/site-packages:/home/ubuntu/turtlebot3_ws/build/turtlebot3_example:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages'), ('LC_NUMERIC', 'lzh_TW'), ('LC_PAPER', 'lzh_TW'), ('COLCON', '1'), ('TMUX_PANE', '%0'), ('CMAKE_PREFIX_PATH', '/home/ubuntu/turtlebot3_ws/install/turtlebot3:/home/ubuntu/turtlebot3_ws/install/turtlebot3_bringup:/home/ubuntu/turtlebot3_ws/install/turtlebot3_node:/home/ubuntu/turtlebot3_ws/install/turtlebot3_description:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy'), ('OPENCR_MODEL', 'burger')]), 'shell': False}
+[0.099177] (-) TimerEvent: {}
+[0.122308] (raspicam2) StdoutLine: {'line': b'-- Found ament_cmake: 0.9.8 (/opt/ros/foxy/share/ament_cmake/cmake)\n'}
+[0.199353] (-) TimerEvent: {}
+[0.244529] (raspicam2) StdoutLine: {'line': b'-- Using PYTHON_EXECUTABLE: /usr/bin/python3\n'}
+[0.299445] (-) TimerEvent: {}
+[0.400093] (-) TimerEvent: {}
+[0.500744] (-) TimerEvent: {}
+[0.601411] (-) TimerEvent: {}
+[0.702008] (-) TimerEvent: {}
+[0.802631] (-) TimerEvent: {}
+[0.903468] (-) TimerEvent: {}
+[0.929017] (raspicam2) StdoutLine: {'line': b'-- Override CMake install command with custom implementation using symlinks instead of copying resources\n'}
+[0.961582] (raspicam2) StdoutLine: {'line': b'-- Found rclcpp: 2.3.1 (/opt/ros/foxy/share/rclcpp/cmake)\n'}
+[1.003600] (-) TimerEvent: {}
+[1.104310] (-) TimerEvent: {}
+[1.111219] (raspicam2) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c\n'}
+[1.125520] (raspicam2) StdoutLine: {'line': b'-- Found rosidl_adapter: 1.2.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)\n'}
+[1.204507] (-) TimerEvent: {}
+[1.305188] (-) TimerEvent: {}
+[1.405914] (-) TimerEvent: {}
+[1.506565] (-) TimerEvent: {}
+[1.607228] (-) TimerEvent: {}
+[1.656145] (raspicam2) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp\n'}
+[1.707386] (-) TimerEvent: {}
+[1.808085] (-) TimerEvent: {}
+[1.853391] (raspicam2) StdoutLine: {'line': b'-- Found rmw_implementation_cmake: 1.0.3 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)\n'}
+[1.860138] (raspicam2) StdoutLine: {'line': b"-- Using RMW implementation 'rmw_fastrtps_cpp' as default\n"}
+[1.908246] (-) TimerEvent: {}
+[2.008937] (-) TimerEvent: {}
+[2.109641] (-) TimerEvent: {}
+[2.210312] (-) TimerEvent: {}
+[2.310983] (-) TimerEvent: {}
+[2.411643] (-) TimerEvent: {}
+[2.422029] (raspicam2) StdoutLine: {'line': b'-- Found rclcpp_components: 2.3.1 (/opt/ros/foxy/share/rclcpp_components/cmake)\n'}
+[2.511828] (-) TimerEvent: {}
+[2.612506] (-) TimerEvent: {}
+[2.635875] (raspicam2) StdoutLine: {'line': b'-- Found sensor_msgs: 2.0.4 (/opt/ros/foxy/share/sensor_msgs/cmake)\n'}
+[2.712681] (-) TimerEvent: {}
+[2.813370] (-) TimerEvent: {}
+[2.914047] (-) TimerEvent: {}
+[3.014742] (-) TimerEvent: {}
+[3.115519] (-) TimerEvent: {}
+[3.216174] (-) TimerEvent: {}
+[3.316839] (-) TimerEvent: {}
+[3.402731] (raspicam2) StdoutLine: {'line': b'-- Configuring done\n'}
+[3.417010] (-) TimerEvent: {}
+[3.499200] (raspicam2) StdoutLine: {'line': b'-- Generating done\n'}
+[3.506254] (raspicam2) StdoutLine: {'line': b'-- Build files have been written to: /home/ubuntu/colcon_ws/build/raspicam2\n'}
+[3.517189] (-) TimerEvent: {}
+[3.522549] (raspicam2) CommandEnded: {'returncode': 0}
+[3.524700] (raspicam2) JobProgress: {'identifier': 'raspicam2', 'progress': 'build'}
+[3.527530] (raspicam2) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/ubuntu/colcon_ws/build/raspicam2', '--', '-j4', '-l4'], 'cwd': '/home/ubuntu/colcon_ws/build/raspicam2', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('TMUX', '/tmp//tmux-1000/default,2095,0'), ('USER', 'ubuntu'), ('SSH_CLIENT', '192.168.0.140 41748 22'), ('LC_TIME', 'lzh_TW'), ('XDG_SESSION_TYPE', 'tty'), ('SHLVL', '2'), ('LD_LIBRARY_PATH', '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib'), ('MOTD_SHOWN', 'pam'), ('HOME', '/home/ubuntu'), ('OLDPWD', '/home/ubuntu/colcon_ws/src'), ('SSH_TTY', '/dev/pts/0'), ('ROS_PYTHON_VERSION', '3'), ('LC_MONETARY', 'lzh_TW'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLCON_PREFIX_PATH', '/home/ubuntu/turtlebot3_ws/install'), ('ROS_DISTRO', 'foxy'), ('LOGNAME', 'ubuntu'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('TERM', 'screen'), ('XDG_SESSION_ID', '2'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/opt/ros/foxy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'), ('LC_ADDRESS', 'lzh_TW'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('LANG', 'en_US.UTF-8'), ('LC_TELEPHONE', 'lzh_TW'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('ROS_DOMAIN_ID', '30'), ('AMENT_PREFIX_PATH', '/home/ubuntu/turtlebot3_ws/install/turtlebot3:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_bringup:/home/ubuntu/turtlebot3_ws/install/turtlebot3_node:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/home/ubuntu/turtlebot3_ws/install/turtlebot3_description:/opt/ros/foxy'), ('SHELL', '/bin/bash'), ('LC_NAME', 'lzh_TW'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('LC_MEASUREMENT', 'lzh_TW'), ('LC_IDENTIFICATION', 'lzh_TW'), ('PWD', '/home/ubuntu/colcon_ws/build/raspicam2'), ('OPENCR_PORT', '/dev/ttyACM0'), ('TURTLEBOT3_MODEL', 'burger'), ('LC_ALL', 'en_US.UTF-8'), ('SSH_CONNECTION', '192.168.0.140 41748 192.168.0.161 22'), ('XDG_DATA_DIRS', '/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/home/ubuntu/turtlebot3_ws/build/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.8/site-packages:/home/ubuntu/turtlebot3_ws/build/turtlebot3_example:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages'), ('LC_NUMERIC', 'lzh_TW'), ('LC_PAPER', 'lzh_TW'), ('COLCON', '1'), ('TMUX_PANE', '%0'), ('CMAKE_PREFIX_PATH', '/home/ubuntu/turtlebot3_ws/install/turtlebot3:/home/ubuntu/turtlebot3_ws/install/turtlebot3_bringup:/home/ubuntu/turtlebot3_ws/install/turtlebot3_node:/home/ubuntu/turtlebot3_ws/install/turtlebot3_description:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy'), ('OPENCR_MODEL', 'burger')]), 'shell': False}
+[3.617448] (-) TimerEvent: {}
+[3.708553] (raspicam2) StdoutLine: {'line': b'\x1b[35m\x1b[1mScanning dependencies of target raspicam_common\x1b[0m\n'}
+[3.717564] (-) TimerEvent: {}
+[3.773192] (raspicam2) StdoutLine: {'line': b'[  7%] \x1b[32mBuilding C object CMakeFiles/raspicam_common.dir/src/RaspiCamControl.c.o\x1b[0m\n'}
+[3.775166] (raspicam2) StdoutLine: {'line': b'[ 14%] \x1b[32mBuilding C object CMakeFiles/raspicam_common.dir/src/RaspiCLI.c.o\x1b[0m\n'}
+[3.778146] (raspicam2) StdoutLine: {'line': b'[ 21%] \x1b[32mBuilding C object CMakeFiles/raspicam_common.dir/src/RaspiPreview.c.o\x1b[0m\n'}
+[3.780550] (raspicam2) StdoutLine: {'line': b'[ 28%] \x1b[32mBuilding C object CMakeFiles/raspicam_common.dir/src/RaspiCommonSettings.c.o\x1b[0m\n'}
+[3.817827] (-) TimerEvent: {}
+[3.918667] (-) TimerEvent: {}
+[4.012609] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiPreview.c:210:2:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C does not allow extra \xe2\x80\x98\x1b[01m\x1b[K;\x1b[m\x1b[K\xe2\x80\x99 outside of a function [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.013688] (raspicam2) StderrLine: {'line': b'  210 | }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.015118] (raspicam2) StderrLine: {'line': b'      |  \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.017398] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiPreview.c:\x1b[m\x1b[K In function \xe2\x80\x98\x1b[01m\x1b[Kraspipreview_parse_cmdline\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[4.018744] (-) TimerEvent: {}
+[4.019893] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiPreview.c:262:26:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kformat \xe2\x80\x98\x1b[01m\x1b[K%u\x1b[m\x1b[K\xe2\x80\x99 expects argument of type \xe2\x80\x98\x1b[01m\x1b[Kunsigned int *\x1b[m\x1b[K\xe2\x80\x99, but argument 3 has type \xe2\x80\x98\x1b[01m\x1b[Kint *\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wformat=\x1b[m\x1b[K]\n'}
+[4.020810] (raspicam2) StderrLine: {'line': b'  262 |       if (sscanf(arg2, "\x1b[01;35m\x1b[K%u\x1b[m\x1b[K", \x1b[32m\x1b[K&params->opacity\x1b[m\x1b[K) != 1)\n'}
+[4.021691] (raspicam2) StderrLine: {'line': b'      |                         \x1b[01;35m\x1b[K~^\x1b[m\x1b[K   \x1b[32m\x1b[K~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[4.022427] (raspicam2) StderrLine: {'line': b'      |                          \x1b[01;35m\x1b[K|\x1b[m\x1b[K   \x1b[32m\x1b[K|\x1b[m\x1b[K\n'}
+[4.023182] (raspicam2) StderrLine: {'line': b'      |                          \x1b[01;35m\x1b[K|\x1b[m\x1b[K   \x1b[32m\x1b[Kint *\x1b[m\x1b[K\n'}
+[4.023963] (raspicam2) StderrLine: {'line': b'      |                          \x1b[01;35m\x1b[Kunsigned int *\x1b[m\x1b[K\n'}
+[4.024659] (raspicam2) StderrLine: {'line': b'      |                         \x1b[32m\x1b[K%u\x1b[m\x1b[K\n'}
+[4.037918] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:207:4:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kmissing initializer for field \xe2\x80\x98\x1b[01m\x1b[Knum_parameters\x1b[m\x1b[K\xe2\x80\x99 of \xe2\x80\x98\x1b[01m\x1b[KCOMMAND_LIST\x1b[m\x1b[K\xe2\x80\x99 {aka \xe2\x80\x98\x1b[01m\x1b[Kstruct <anonymous>\x1b[m\x1b[K\xe2\x80\x99} [\x1b[01;35m\x1b[K-Wmissing-field-initializers\x1b[m\x1b[K]\n'}
+[4.046487] (raspicam2) StderrLine: {'line': b'  207 |    \x1b[01;35m\x1b[K{\x1b[m\x1b[KCommandStatsPass,   "-stats",     "st", "Force recomputation of statistics on stills capture pass"},\n'}
+[4.047690] (raspicam2) StderrLine: {'line': b'      |    \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.048792] (raspicam2) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:44\x1b[m\x1b[K:\n'}
+[4.050018] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/RaspiCLI.h:38:8:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[Knum_parameters\x1b[m\x1b[K\xe2\x80\x99 declared here\n'}
+[4.051169] (raspicam2) StderrLine: {'line': b'   38 |    int \x1b[01;36m\x1b[Knum_parameters\x1b[m\x1b[K;\n'}
+[4.052276] (raspicam2) StderrLine: {'line': b'      |        \x1b[01;36m\x1b[K^~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[4.061729] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:210:4:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kmissing initializer for field \xe2\x80\x98\x1b[01m\x1b[Knum_parameters\x1b[m\x1b[K\xe2\x80\x99 of \xe2\x80\x98\x1b[01m\x1b[KCOMMAND_LIST\x1b[m\x1b[K\xe2\x80\x99 {aka \xe2\x80\x98\x1b[01m\x1b[Kstruct <anonymous>\x1b[m\x1b[K\xe2\x80\x99} [\x1b[01;35m\x1b[K-Wmissing-field-initializers\x1b[m\x1b[K]\n'}
+[4.063555] (raspicam2) StderrLine: {'line': b'  210 |    \x1b[01;35m\x1b[K{\x1b[m\x1b[KCommandStereoDecimate,"-decimate","dec", "Half width/height of stereo image"},\n'}
+[4.064274] (raspicam2) StderrLine: {'line': b'      |    \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.065075] (raspicam2) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:44\x1b[m\x1b[K:\n'}
+[4.066050] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/RaspiCLI.h:38:8:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[Knum_parameters\x1b[m\x1b[K\xe2\x80\x99 declared here\n'}
+[4.067032] (raspicam2) StderrLine: {'line': b'   38 |    int \x1b[01;36m\x1b[Knum_parameters\x1b[m\x1b[K;\n'}
+[4.067772] (raspicam2) StderrLine: {'line': b'      |        \x1b[01;36m\x1b[K^~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[4.068299] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:211:4:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kmissing initializer for field \xe2\x80\x98\x1b[01m\x1b[Knum_parameters\x1b[m\x1b[K\xe2\x80\x99 of \xe2\x80\x98\x1b[01m\x1b[KCOMMAND_LIST\x1b[m\x1b[K\xe2\x80\x99 {aka \xe2\x80\x98\x1b[01m\x1b[Kstruct <anonymous>\x1b[m\x1b[K\xe2\x80\x99} [\x1b[01;35m\x1b[K-Wmissing-field-initializers\x1b[m\x1b[K]\n'}
+[4.068839] (raspicam2) StderrLine: {'line': b'  211 |    \x1b[01;35m\x1b[K{\x1b[m\x1b[KCommandStereoSwap,  "-3dswap",    "3dswap", "Swap camera order for stereoscopic"},\n'}
+[4.069463] (raspicam2) StderrLine: {'line': b'      |    \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.070140] (raspicam2) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:44\x1b[m\x1b[K:\n'}
+[4.071011] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/RaspiCLI.h:38:8:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[Knum_parameters\x1b[m\x1b[K\xe2\x80\x99 declared here\n'}
+[4.072181] (raspicam2) StderrLine: {'line': b'   38 |    int \x1b[01;36m\x1b[Knum_parameters\x1b[m\x1b[K;\n'}
+[4.072726] (raspicam2) StderrLine: {'line': b'      |        \x1b[01;36m\x1b[K^~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[4.073437] (raspicam2) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/libgps_loader.h:31\x1b[m\x1b[K,\n'}
+[4.074474] (raspicam2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/RaspiGPS.h:34\x1b[m\x1b[K,\n'}
+[4.075121] (raspicam2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCommonSettings.c:58\x1b[m\x1b[K:\n'}
+[4.075749] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:290:6:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C99 doesn\xe2\x80\x99t support unnamed structs/unions [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.076755] (raspicam2) StderrLine: {'line': b'  290 |     }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.078133] (raspicam2) StderrLine: {'line': b'      |      \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.079318] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:871:6:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C99 doesn\xe2\x80\x99t support unnamed structs/unions [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.080228] (raspicam2) StderrLine: {'line': b'  871 |     }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.094304] (raspicam2) StderrLine: {'line': b'      |      \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.096911] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1216:8:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C99 doesn\xe2\x80\x99t support unnamed structs/unions [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.098413] (raspicam2) StderrLine: {'line': b' 1216 |       }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.099082] (raspicam2) StderrLine: {'line': b'      |        \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.099710] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1255:7:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C99 doesn\xe2\x80\x99t support unnamed structs/unions [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.100282] (raspicam2) StderrLine: {'line': b' 1255 |      }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.101161] (raspicam2) StderrLine: {'line': b'      |       \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.101990] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:\x1b[m\x1b[K In function \xe2\x80\x98\x1b[01m\x1b[Kraspicamcontrol_parse_cmdline\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[4.103015] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:776:22:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kformat \xe2\x80\x98\x1b[01m\x1b[K%u\x1b[m\x1b[K\xe2\x80\x99 expects argument of type \xe2\x80\x98\x1b[01m\x1b[Kunsigned int *\x1b[m\x1b[K\xe2\x80\x99, but argument 3 has type \xe2\x80\x98\x1b[01m\x1b[Kint *\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wformat=\x1b[m\x1b[K]\n'}
+[4.103880] (raspicam2) StderrLine: {'line': b'  776 |       sscanf(arg2, "\x1b[01;35m\x1b[K%u\x1b[m\x1b[K,%X,%X,%u,%u,%u", \x1b[32m\x1b[K&params->annotate_text_size\x1b[m\x1b[K,\n'}
+[4.104524] (raspicam2) StderrLine: {'line': b'      |                     \x1b[01;35m\x1b[K~^\x1b[m\x1b[K                  \x1b[32m\x1b[K~~~~~~~~~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[4.105159] (raspicam2) StderrLine: {'line': b'      |                      \x1b[01;35m\x1b[K|\x1b[m\x1b[K                  \x1b[32m\x1b[K|\x1b[m\x1b[K\n'}
+[4.119003] (-) TimerEvent: {}
+[4.119618] (raspicam2) StderrLine: {'line': b'      |                      \x1b[01;35m\x1b[Kunsigned int *\x1b[m\x1b[K     \x1b[32m\x1b[Kint *\x1b[m\x1b[K\n'}
+[4.120292] (raspicam2) StderrLine: {'line': b'      |                     \x1b[32m\x1b[K%u\x1b[m\x1b[K\n'}
+[4.120916] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1563:7:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C99 doesn\xe2\x80\x99t support unnamed structs/unions [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.121584] (raspicam2) StderrLine: {'line': b' 1563 |      }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.122186] (raspicam2) StderrLine: {'line': b'      |       \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.122820] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:776:25:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kformat \xe2\x80\x98\x1b[01m\x1b[K%X\x1b[m\x1b[K\xe2\x80\x99 expects argument of type \xe2\x80\x98\x1b[01m\x1b[Kunsigned int *\x1b[m\x1b[K\xe2\x80\x99, but argument 4 has type \xe2\x80\x98\x1b[01m\x1b[Kint *\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wformat=\x1b[m\x1b[K]\n'}
+[4.123640] (raspicam2) StderrLine: {'line': b'  776 |       sscanf(arg2, "%u,\x1b[01;35m\x1b[K%X\x1b[m\x1b[K,%X,%u,%u,%u", &params->annotate_text_size,\n'}
+[4.124283] (raspicam2) StderrLine: {'line': b'      |                        \x1b[01;35m\x1b[K~^\x1b[m\x1b[K\n'}
+[4.124903] (raspicam2) StderrLine: {'line': b'      |                         \x1b[01;35m\x1b[K|\x1b[m\x1b[K\n'}
+[4.125579] (raspicam2) StderrLine: {'line': b'      |                         \x1b[01;35m\x1b[Kunsigned int *\x1b[m\x1b[K\n'}
+[4.126247] (raspicam2) StderrLine: {'line': b'      |                        \x1b[32m\x1b[K%X\x1b[m\x1b[K\n'}
+[4.126784] (raspicam2) StderrLine: {'line': b'  777 |              \x1b[32m\x1b[K&params->annotate_text_colour\x1b[m\x1b[K,\n'}
+[4.127431] (raspicam2) StderrLine: {'line': b'      |              \x1b[32m\x1b[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[4.128036] (raspicam2) StderrLine: {'line': b'      |              \x1b[32m\x1b[K|\x1b[m\x1b[K\n'}
+[4.128639] (raspicam2) StderrLine: {'line': b'      |              \x1b[32m\x1b[Kint *\x1b[m\x1b[K\n'}
+[4.141415] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:776:28:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kformat \xe2\x80\x98\x1b[01m\x1b[K%X\x1b[m\x1b[K\xe2\x80\x99 expects argument of type \xe2\x80\x98\x1b[01m\x1b[Kunsigned int *\x1b[m\x1b[K\xe2\x80\x99, but argument 5 has type \xe2\x80\x98\x1b[01m\x1b[Kint *\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wformat=\x1b[m\x1b[K]\n'}
+[4.142901] (raspicam2) StderrLine: {'line': b'  776 |       sscanf(arg2, "%u,%X,\x1b[01;35m\x1b[K%X\x1b[m\x1b[K,%u,%u,%u", &params->annotate_text_size,\n'}
+[4.144051] (raspicam2) StderrLine: {'line': b'      |                           \x1b[01;35m\x1b[K~^\x1b[m\x1b[K\n'}
+[4.145085] (raspicam2) StderrLine: {'line': b'      |                            \x1b[01;35m\x1b[K|\x1b[m\x1b[K\n'}
+[4.147267] (raspicam2) StderrLine: {'line': b'      |                            \x1b[01;35m\x1b[Kunsigned int *\x1b[m\x1b[K\n'}
+[4.147981] (raspicam2) StderrLine: {'line': b'      |                           \x1b[32m\x1b[K%X\x1b[m\x1b[K\n'}
+[4.148596] (raspicam2) StderrLine: {'line': b'  777 |              &params->annotate_text_colour,\n'}
+[4.149244] (raspicam2) StderrLine: {'line': b'  778 |              \x1b[32m\x1b[K&params->annotate_bg_colour\x1b[m\x1b[K,\n'}
+[4.150095] (raspicam2) StderrLine: {'line': b'      |              \x1b[32m\x1b[K~~~~~~~~~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[4.151367] (raspicam2) StderrLine: {'line': b'      |              \x1b[32m\x1b[K|\x1b[m\x1b[K\n'}
+[4.152500] (raspicam2) StderrLine: {'line': b'      |              \x1b[32m\x1b[Kint *\x1b[m\x1b[K\n'}
+[4.153462] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1746:7:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C99 doesn\xe2\x80\x99t support unnamed structs/unions [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.154771] (raspicam2) StderrLine: {'line': b' 1746 |      }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.155979] (raspicam2) StderrLine: {'line': b'      |       \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.156828] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1788:7:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C99 doesn\xe2\x80\x99t support unnamed structs/unions [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.158315] (raspicam2) StderrLine: {'line': b' 1788 |      }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.159412] (raspicam2) StderrLine: {'line': b'      |       \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.160325] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1827:6:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C99 doesn\xe2\x80\x99t support unnamed structs/unions [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.161341] (raspicam2) StderrLine: {'line': b' 1827 |     }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.161972] (raspicam2) StderrLine: {'line': b'      |      \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.162334] (raspicam2) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/libgps_loader.h:31\x1b[m\x1b[K,\n'}
+[4.162766] (raspicam2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/RaspiGPS.h:34\x1b[m\x1b[K,\n'}
+[4.163146] (raspicam2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCommonSettings.c:58\x1b[m\x1b[K:\n'}
+[4.163510] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:2080:6:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C99 doesn\xe2\x80\x99t support unnamed structs/unions [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.164081] (raspicam2) StderrLine: {'line': b' 2080 |     }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.164638] (raspicam2) StderrLine: {'line': b'      |      \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.165162] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCommonSettings.c:99:2:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C does not allow extra \xe2\x80\x98\x1b[01m\x1b[K;\x1b[m\x1b[K\xe2\x80\x99 outside of a function [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.165965] (raspicam2) StderrLine: {'line': b'   99 | }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.166703] (raspicam2) StderrLine: {'line': b'      |  \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.167602] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCommonSettings.c:114:2:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C does not allow extra \xe2\x80\x98\x1b[01m\x1b[K;\x1b[m\x1b[K\xe2\x80\x99 outside of a function [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.168558] (raspicam2) StderrLine: {'line': b'  114 | }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.169540] (raspicam2) StderrLine: {'line': b'      |  \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.170369] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCommonSettings.c:\x1b[m\x1b[K In function \xe2\x80\x98\x1b[01m\x1b[Kraspicommonsettings_parse_cmdline\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[4.171244] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCommonSettings.c:149:32:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kimplicit declaration of function \xe2\x80\x98\x1b[01m\x1b[Kbasename\x1b[m\x1b[K\xe2\x80\x99; did you mean \xe2\x80\x98\x1b[01m\x1b[Krename\x1b[m\x1b[K\xe2\x80\x99? [\x1b[01;35m\x1b[K-Wimplicit-function-declaration\x1b[m\x1b[K]\n'}
+[4.172319] (raspicam2) StderrLine: {'line': b'  149 |       display_valid_parameters(\x1b[01;35m\x1b[Kbasename\x1b[m\x1b[K(get_app_name()), app_help);\n'}
+[4.173412] (raspicam2) StderrLine: {'line': b'      |                                \x1b[01;35m\x1b[K^~~~~~~~\x1b[m\x1b[K\n'}
+[4.174346] (raspicam2) StderrLine: {'line': b'      |                                \x1b[32m\x1b[Krename\x1b[m\x1b[K\n'}
+[4.174989] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCommonSettings.c:149:32:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kpassing argument 1 of \xe2\x80\x98\x1b[01m\x1b[Kdisplay_valid_parameters\x1b[m\x1b[K\xe2\x80\x99 makes pointer from integer without a cast [\x1b[01;35m\x1b[K-Wint-conversion\x1b[m\x1b[K]\n'}
+[4.175574] (raspicam2) StderrLine: {'line': b'  149 |       display_valid_parameters(\x1b[01;35m\x1b[Kbasename(get_app_name())\x1b[m\x1b[K, app_help);\n'}
+[4.176128] (raspicam2) StderrLine: {'line': b'      |                                \x1b[01;35m\x1b[K^~~~~~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[4.176642] (raspicam2) StderrLine: {'line': b'      |                                \x1b[01;35m\x1b[K|\x1b[m\x1b[K\n'}
+[4.177161] (raspicam2) StderrLine: {'line': b'      |                                \x1b[01;35m\x1b[Kint\x1b[m\x1b[K\n'}
+[4.189321] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:\x1b[m\x1b[K In function \xe2\x80\x98\x1b[01m\x1b[Kraspicamcontrol_set_ROI\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[4.190104] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:1455:4:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kmissing initializer for field \xe2\x80\x98\x1b[01m\x1b[Krect\x1b[m\x1b[K\xe2\x80\x99 of \xe2\x80\x98\x1b[01m\x1b[KMMAL_PARAMETER_INPUT_CROP_T\x1b[m\x1b[K\xe2\x80\x99 {aka \xe2\x80\x98\x1b[01m\x1b[Kstruct MMAL_PARAMETER_INPUT_CROP_T\x1b[m\x1b[K\xe2\x80\x99} [\x1b[01;35m\x1b[K-Wmissing-field-initializers\x1b[m\x1b[K]\n'}
+[4.191020] (raspicam2) StderrLine: {'line': b' 1455 |    \x1b[01;35m\x1b[KMMAL_PARAMETER_INPUT_CROP_T\x1b[m\x1b[K crop = {{MMAL_PARAMETER_INPUT_CROP, sizeof(MMAL_PARAMETER_INPUT_CROP_T)}};\n'}
+[4.192068] (raspicam2) StderrLine: {'line': b'      |    \x1b[01;35m\x1b[K^~~~~~~~~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[4.192957] (raspicam2) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/interface/mmal/mmal_parameters.h:32\x1b[m\x1b[K,\n'}
+[4.193725] (raspicam2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/usr/include/interface/mmal/mmal_port.h:42\x1b[m\x1b[K,\n'}
+[4.194413] (raspicam2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/usr/include/interface/mmal/mmal.h:357\x1b[m\x1b[K,\n'}
+[4.194951] (raspicam2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:36\x1b[m\x1b[K:\n'}
+[4.195463] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/interface/mmal/mmal_parameters_camera.h:587:28:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[Krect\x1b[m\x1b[K\xe2\x80\x99 declared here\n'}
+[4.196136] (raspicam2) StderrLine: {'line': b'  587 |    MMAL_RECT_T             \x1b[01;36m\x1b[Krect\x1b[m\x1b[K;    /**< Crop rectangle as 16P16 fixed point values */\n'}
+[4.196950] (raspicam2) StderrLine: {'line': b'      |                            \x1b[01;36m\x1b[K^~~~\x1b[m\x1b[K\n'}
+[4.197684] (raspicam2) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCommonSettings.c:57\x1b[m\x1b[K:\n'}
+[4.198494] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/RaspiHelpers.h:32:37:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kexpected \xe2\x80\x98\x1b[01m\x1b[Kchar *\x1b[m\x1b[K\xe2\x80\x99 but argument is of type \xe2\x80\x98\x1b[01m\x1b[Kint\x1b[m\x1b[K\xe2\x80\x99\n'}
+[4.199250] (raspicam2) StderrLine: {'line': b'   32 | void display_valid_parameters(\x1b[01;36m\x1b[Kchar *name\x1b[m\x1b[K, void (*app_help)(char*));\n'}
+[4.199985] (raspicam2) StderrLine: {'line': b'      |                               \x1b[01;36m\x1b[K~~~~~~^~~~\x1b[m\x1b[K\n'}
+[4.200670] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCommonSettings.c:154:26:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kformat \xe2\x80\x98\x1b[01m\x1b[K%u\x1b[m\x1b[K\xe2\x80\x99 expects argument of type \xe2\x80\x98\x1b[01m\x1b[Kunsigned int *\x1b[m\x1b[K\xe2\x80\x99, but argument 3 has type \xe2\x80\x98\x1b[01m\x1b[Kint *\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wformat=\x1b[m\x1b[K]\n'}
+[4.201426] (raspicam2) StderrLine: {'line': b'  154 |       if (sscanf(arg2, "\x1b[01;35m\x1b[K%u\x1b[m\x1b[K", \x1b[32m\x1b[K&state->width\x1b[m\x1b[K) == 1)\n'}
+[4.202182] (raspicam2) StderrLine: {'line': b'      |                         \x1b[01;35m\x1b[K~^\x1b[m\x1b[K   \x1b[32m\x1b[K~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[4.203007] (raspicam2) StderrLine: {'line': b'      |                          \x1b[01;35m\x1b[K|\x1b[m\x1b[K   \x1b[32m\x1b[K|\x1b[m\x1b[K\n'}
+[4.203875] (raspicam2) StderrLine: {'line': b'      |                          \x1b[01;35m\x1b[K|\x1b[m\x1b[K   \x1b[32m\x1b[Kint *\x1b[m\x1b[K\n'}
+[4.204652] (raspicam2) StderrLine: {'line': b'      |                          \x1b[01;35m\x1b[Kunsigned int *\x1b[m\x1b[K\n'}
+[4.205523] (raspicam2) StderrLine: {'line': b'      |                         \x1b[32m\x1b[K%u\x1b[m\x1b[K\n'}
+[4.206114] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:\x1b[m\x1b[K In function \xe2\x80\x98\x1b[01m\x1b[Kraspicamcontrol_zoom_in_zoom_out\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[4.206667] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:1485:27:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kcomparison of integer expressions of different signedness: \xe2\x80\x98\x1b[01m\x1b[Kint32_t\x1b[m\x1b[K\xe2\x80\x99 {aka \xe2\x80\x98\x1b[01m\x1b[Kint\x1b[m\x1b[K\xe2\x80\x99} and \xe2\x80\x98\x1b[01m\x1b[Klong unsigned int\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wsign-compare\x1b[m\x1b[K]\n'}
+[4.207297] (raspicam2) StderrLine: {'line': b' 1485 |       if (crop.rect.width \x1b[01;35m\x1b[K<=\x1b[m\x1b[K (zoom_full_16P16 + zoom_increment_16P16))\n'}
+[4.207812] (raspicam2) StderrLine: {'line': b'      |                           \x1b[01;35m\x1b[K^~\x1b[m\x1b[K\n'}
+[4.208419] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCommonSettings.c:159:26:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kformat \xe2\x80\x98\x1b[01m\x1b[K%u\x1b[m\x1b[K\xe2\x80\x99 expects argument of type \xe2\x80\x98\x1b[01m\x1b[Kunsigned int *\x1b[m\x1b[K\xe2\x80\x99, but argument 3 has type \xe2\x80\x98\x1b[01m\x1b[Kint *\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wformat=\x1b[m\x1b[K]\n'}
+[4.209149] (raspicam2) StderrLine: {'line': b'  159 |       if (sscanf(arg2, "\x1b[01;35m\x1b[K%u\x1b[m\x1b[K", \x1b[32m\x1b[K&state->height\x1b[m\x1b[K) == 1)\n'}
+[4.209880] (raspicam2) StderrLine: {'line': b'      |                         \x1b[01;35m\x1b[K~^\x1b[m\x1b[K   \x1b[32m\x1b[K~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[4.210539] (raspicam2) StderrLine: {'line': b'      |                          \x1b[01;35m\x1b[K|\x1b[m\x1b[K   \x1b[32m\x1b[K|\x1b[m\x1b[K\n'}
+[4.211249] (raspicam2) StderrLine: {'line': b'      |                          \x1b[01;35m\x1b[K|\x1b[m\x1b[K   \x1b[32m\x1b[Kint *\x1b[m\x1b[K\n'}
+[4.211888] (raspicam2) StderrLine: {'line': b'      |                          \x1b[01;35m\x1b[Kunsigned int *\x1b[m\x1b[K\n'}
+[4.212586] (raspicam2) StderrLine: {'line': b'      |                         \x1b[32m\x1b[K%u\x1b[m\x1b[K\n'}
+[4.213477] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:1499:26:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kcomparison of integer expressions of different signedness: \xe2\x80\x98\x1b[01m\x1b[Kunsigned int\x1b[m\x1b[K\xe2\x80\x99 and \xe2\x80\x98\x1b[01m\x1b[Kint32_t\x1b[m\x1b[K\xe2\x80\x99 {aka \xe2\x80\x98\x1b[01m\x1b[Kint\x1b[m\x1b[K\xe2\x80\x99} [\x1b[01;35m\x1b[K-Wsign-compare\x1b[m\x1b[K]\n'}
+[4.214223] (raspicam2) StderrLine: {'line': b' 1499 |       if (increased_size \x1b[01;35m\x1b[K<\x1b[m\x1b[K crop.rect.width) //overflow\n'}
+[4.214896] (raspicam2) StderrLine: {'line': b'      |                          \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.215540] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCommonSettings.c:207:26:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kformat \xe2\x80\x98\x1b[01m\x1b[K%u\x1b[m\x1b[K\xe2\x80\x99 expects argument of type \xe2\x80\x98\x1b[01m\x1b[Kunsigned int *\x1b[m\x1b[K\xe2\x80\x99, but argument 3 has type \xe2\x80\x98\x1b[01m\x1b[Kint *\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wformat=\x1b[m\x1b[K]\n'}
+[4.216307] (raspicam2) StderrLine: {'line': b'  207 |       if (sscanf(arg2, "\x1b[01;35m\x1b[K%u\x1b[m\x1b[K", \x1b[32m\x1b[K&state->cameraNum\x1b[m\x1b[K) == 1)\n'}
+[4.216973] (raspicam2) StderrLine: {'line': b'      |                         \x1b[01;35m\x1b[K~^\x1b[m\x1b[K   \x1b[32m\x1b[K~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[4.218335] (raspicam2) StderrLine: {'line': b'      |                          \x1b[01;35m\x1b[K|\x1b[m\x1b[K   \x1b[32m\x1b[K|\x1b[m\x1b[K\n'}
+[4.219110] (-) TimerEvent: {}
+[4.220026] (raspicam2) StderrLine: {'line': b'      |                          \x1b[01;35m\x1b[K|\x1b[m\x1b[K   \x1b[32m\x1b[Kint *\x1b[m\x1b[K\n'}
+[4.221205] (raspicam2) StderrLine: {'line': b'      |                          \x1b[01;35m\x1b[Kunsigned int *\x1b[m\x1b[K\n'}
+[4.221868] (raspicam2) StderrLine: {'line': b'      |                         \x1b[32m\x1b[K%u\x1b[m\x1b[K\n'}
+[4.222372] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:\x1b[m\x1b[K In function \xe2\x80\x98\x1b[01m\x1b[Kraspicamcontrol_set_annotate\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[4.222846] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:1598:4:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kmissing initializer for field \xe2\x80\x98\x1b[01m\x1b[Kenable\x1b[m\x1b[K\xe2\x80\x99 of \xe2\x80\x98\x1b[01m\x1b[KMMAL_PARAMETER_CAMERA_ANNOTATE_V4_T\x1b[m\x1b[K\xe2\x80\x99 {aka \xe2\x80\x98\x1b[01m\x1b[Kstruct MMAL_PARAMETER_CAMERA_ANNOTATE_V4_T\x1b[m\x1b[K\xe2\x80\x99} [\x1b[01;35m\x1b[K-Wmissing-field-initializers\x1b[m\x1b[K]\n'}
+[4.223445] (raspicam2) StderrLine: {'line': b' 1598 |    \x1b[01;35m\x1b[K{\x1b[m\x1b[K{MMAL_PARAMETER_ANNOTATE, sizeof(MMAL_PARAMETER_CAMERA_ANNOTATE_V4_T)}};\n'}
+[4.224020] (raspicam2) StderrLine: {'line': b'      |    \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.225185] (raspicam2) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/interface/mmal/mmal_parameters.h:32\x1b[m\x1b[K,\n'}
+[4.225963] (raspicam2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/usr/include/interface/mmal/mmal_port.h:42\x1b[m\x1b[K,\n'}
+[4.226662] (raspicam2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/usr/include/interface/mmal/mmal.h:357\x1b[m\x1b[K,\n'}
+[4.227512] (raspicam2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:36\x1b[m\x1b[K:\n'}
+[4.228070] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/usr/include/interface/mmal/mmal_parameters_camera.h:791:16:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[Kenable\x1b[m\x1b[K\xe2\x80\x99 declared here\n'}
+[4.228583] (raspicam2) StderrLine: {'line': b'  791 |    MMAL_BOOL_T \x1b[01;36m\x1b[Kenable\x1b[m\x1b[K;\n'}
+[4.229067] (raspicam2) StderrLine: {'line': b'      |                \x1b[01;36m\x1b[K^~~~~~\x1b[m\x1b[K\n'}
+[4.230483] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCommonSettings.c:214:26:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kformat \xe2\x80\x98\x1b[01m\x1b[K%u\x1b[m\x1b[K\xe2\x80\x99 expects argument of type \xe2\x80\x98\x1b[01m\x1b[Kunsigned int *\x1b[m\x1b[K\xe2\x80\x99, but argument 3 has type \xe2\x80\x98\x1b[01m\x1b[Kint *\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wformat=\x1b[m\x1b[K]\n'}
+[4.231294] (raspicam2) StderrLine: {'line': b'  214 |       if (sscanf(arg2, "\x1b[01;35m\x1b[K%u\x1b[m\x1b[K", \x1b[32m\x1b[K&state->sensor_mode\x1b[m\x1b[K) == 1)\n'}
+[4.231977] (raspicam2) StderrLine: {'line': b'      |                         \x1b[01;35m\x1b[K~^\x1b[m\x1b[K   \x1b[32m\x1b[K~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[4.232535] (raspicam2) StderrLine: {'line': b'      |                          \x1b[01;35m\x1b[K|\x1b[m\x1b[K   \x1b[32m\x1b[K|\x1b[m\x1b[K\n'}
+[4.233099] (raspicam2) StderrLine: {'line': b'      |                          \x1b[01;35m\x1b[K|\x1b[m\x1b[K   \x1b[32m\x1b[Kint *\x1b[m\x1b[K\n'}
+[4.233731] (raspicam2) StderrLine: {'line': b'      |                          \x1b[01;35m\x1b[Kunsigned int *\x1b[m\x1b[K\n'}
+[4.234483] (raspicam2) StderrLine: {'line': b'      |                         \x1b[32m\x1b[K%u\x1b[m\x1b[K\n'}
+[4.235199] (raspicam2) StdoutLine: {'line': b'[ 35%] \x1b[32mBuilding C object CMakeFiles/raspicam_common.dir/src/RaspiHelpers.c.o\x1b[0m\n'}
+[4.236054] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:\x1b[m\x1b[K In function \xe2\x80\x98\x1b[01m\x1b[Kdefault_camera_control_callback\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[4.236825] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiCamControl.c:1793:51:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused parameter \xe2\x80\x98\x1b[01m\x1b[Kport\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-parameter\x1b[m\x1b[K]\n'}
+[4.237734] (raspicam2) StderrLine: {'line': b' 1793 | void default_camera_control_callback(\x1b[01;35m\x1b[KMMAL_PORT_T *port\x1b[m\x1b[K, MMAL_BUFFER_HEADER_T *buffer)\n'}
+[4.238403] (raspicam2) StderrLine: {'line': b'      |                                      \x1b[01;35m\x1b[K~~~~~~~~~~~~~^~~~\x1b[m\x1b[K\n'}
+[4.239336] (raspicam2) StdoutLine: {'line': b'[ 42%] \x1b[32mBuilding C object CMakeFiles/raspicam_common.dir/src/RaspiGPS.c.o\x1b[0m\n'}
+[4.255170] (raspicam2) StdoutLine: {'line': b'[ 50%] \x1b[32mBuilding C object CMakeFiles/raspicam_common.dir/src/libgps_loader.c.o\x1b[0m\n'}
+[4.319352] (-) TimerEvent: {}
+[4.336777] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiHelpers.c:\x1b[m\x1b[K In function \xe2\x80\x98\x1b[01m\x1b[Kprint_app_details\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[4.338138] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiHelpers.c:66:57:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kimplicit declaration of function \xe2\x80\x98\x1b[01m\x1b[Kbasename\x1b[m\x1b[K\xe2\x80\x99; did you mean \xe2\x80\x98\x1b[01m\x1b[Krename\x1b[m\x1b[K\xe2\x80\x99? [\x1b[01;35m\x1b[K-Wimplicit-function-declaration\x1b[m\x1b[K]\n'}
+[4.338891] (raspicam2) StderrLine: {'line': b'   66 |    fprintf(fd, "\\n\\"%s\\" Camera App (commit %s%s)\\n\\n", \x1b[01;35m\x1b[Kbasename\x1b[m\x1b[K(app_name), GIT_COMMIT_ID, TAINTED);\n'}
+[4.339975] (raspicam2) StderrLine: {'line': b'      |                                                         \x1b[01;35m\x1b[K^~~~~~~~\x1b[m\x1b[K\n'}
+[4.340623] (raspicam2) StderrLine: {'line': b'      |                                                         \x1b[32m\x1b[Krename\x1b[m\x1b[K\n'}
+[4.341238] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiHelpers.c:66:22:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kformat \xe2\x80\x98\x1b[01m\x1b[K%s\x1b[m\x1b[K\xe2\x80\x99 expects argument of type \xe2\x80\x98\x1b[01m\x1b[Kchar *\x1b[m\x1b[K\xe2\x80\x99, but argument 3 has type \xe2\x80\x98\x1b[01m\x1b[Kint\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wformat=\x1b[m\x1b[K]\n'}
+[4.342037] (raspicam2) StderrLine: {'line': b'   66 |    fprintf(fd, "\\n\\"\x1b[01;35m\x1b[K%s\x1b[m\x1b[K\\" Camera App (commit %s%s)\\n\\n", \x1b[32m\x1b[Kbasename(app_name)\x1b[m\x1b[K, GIT_COMMIT_ID, TAINTED);\n'}
+[4.342685] (raspicam2) StderrLine: {'line': b'      |                     \x1b[01;35m\x1b[K~^\x1b[m\x1b[K                                  \x1b[32m\x1b[K~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[4.343352] (raspicam2) StderrLine: {'line': b'      |                      \x1b[01;35m\x1b[K|\x1b[m\x1b[K                                  \x1b[32m\x1b[K|\x1b[m\x1b[K\n'}
+[4.343923] (raspicam2) StderrLine: {'line': b'      |                      \x1b[01;35m\x1b[Kchar *\x1b[m\x1b[K                             \x1b[32m\x1b[Kint\x1b[m\x1b[K\n'}
+[4.344628] (raspicam2) StderrLine: {'line': b'      |                     \x1b[32m\x1b[K%d\x1b[m\x1b[K\n'}
+[4.345883] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiHelpers.c:\x1b[m\x1b[K In function \xe2\x80\x98\x1b[01m\x1b[Kget_sensor_defaults\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[4.348445] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiHelpers.c:112:58:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kcomparison of integer expressions of different signedness: \xe2\x80\x98\x1b[01m\x1b[Kuint32_t\x1b[m\x1b[K\xe2\x80\x99 {aka \xe2\x80\x98\x1b[01m\x1b[Kunsigned int\x1b[m\x1b[K\xe2\x80\x99} and \xe2\x80\x98\x1b[01m\x1b[Kint\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wsign-compare\x1b[m\x1b[K]\n'}
+[4.354065] (raspicam2) StderrLine: {'line': b'  112 |          if (status == MMAL_SUCCESS && param.num_cameras \x1b[01;35m\x1b[K>\x1b[m\x1b[K camera_num)\n'}
+[4.354867] (raspicam2) StderrLine: {'line': b'      |                                                          \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.403429] (raspicam2) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/libgps_loader.h:31\x1b[m\x1b[K,\n'}
+[4.405143] (raspicam2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/libgps_loader.c:34\x1b[m\x1b[K:\n'}
+[4.406009] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:290:6:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C99 doesn\xe2\x80\x99t support unnamed structs/unions [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.406819] (raspicam2) StderrLine: {'line': b'  290 |     }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.407576] (raspicam2) StderrLine: {'line': b'      |      \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.408799] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:871:6:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C99 doesn\xe2\x80\x99t support unnamed structs/unions [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.410081] (raspicam2) StderrLine: {'line': b'  871 |     }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.412547] (raspicam2) StderrLine: {'line': b'      |      \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.413942] (raspicam2) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/libgps_loader.h:31\x1b[m\x1b[K,\n'}
+[4.414446] (raspicam2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/RaspiGPS.h:34\x1b[m\x1b[K,\n'}
+[4.415309] (raspicam2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiGPS.c:35\x1b[m\x1b[K:\n'}
+[4.415795] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:290:6:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C99 doesn\xe2\x80\x99t support unnamed structs/unions [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.416714] (raspicam2) StderrLine: {'line': b'  290 |     }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.419083] (raspicam2) StderrLine: {'line': b'      |      \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.420549] (-) TimerEvent: {}
+[4.422478] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1216:8:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C99 doesn\xe2\x80\x99t support unnamed structs/unions [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.425090] (raspicam2) StderrLine: {'line': b' 1216 |       }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.426603] (raspicam2) StderrLine: {'line': b'      |        \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.427890] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1255:7:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C99 doesn\xe2\x80\x99t support unnamed structs/unions [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.429739] (raspicam2) StderrLine: {'line': b' 1255 |      }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.431452] (raspicam2) StderrLine: {'line': b'      |       \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.432898] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:871:6:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C99 doesn\xe2\x80\x99t support unnamed structs/unions [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.436783] (raspicam2) StderrLine: {'line': b'  871 |     }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.438885] (raspicam2) StderrLine: {'line': b'      |      \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.441163] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1563:7:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C99 doesn\xe2\x80\x99t support unnamed structs/unions [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.442918] (raspicam2) StderrLine: {'line': b' 1563 |      }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.444003] (raspicam2) StderrLine: {'line': b'      |       \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.444535] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1746:7:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C99 doesn\xe2\x80\x99t support unnamed structs/unions [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.445107] (raspicam2) StderrLine: {'line': b' 1746 |      }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.445822] (raspicam2) StderrLine: {'line': b'      |       \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.446735] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1788:7:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C99 doesn\xe2\x80\x99t support unnamed structs/unions [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.447267] (raspicam2) StderrLine: {'line': b' 1788 |      }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.447754] (raspicam2) StderrLine: {'line': b'      |       \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.448213] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1216:8:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C99 doesn\xe2\x80\x99t support unnamed structs/unions [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.448723] (raspicam2) StderrLine: {'line': b' 1216 |       }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.449179] (raspicam2) StderrLine: {'line': b'      |        \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.449795] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1827:6:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C99 doesn\xe2\x80\x99t support unnamed structs/unions [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.450608] (raspicam2) StderrLine: {'line': b' 1827 |     }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.451830] (raspicam2) StderrLine: {'line': b'      |      \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.454541] (raspicam2) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/libgps_loader.h:31\x1b[m\x1b[K,\n'}
+[4.456832] (raspicam2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/libgps_loader.c:34\x1b[m\x1b[K:\n'}
+[4.458044] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:2080:6:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C99 doesn\xe2\x80\x99t support unnamed structs/unions [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.458837] (raspicam2) StderrLine: {'line': b' 2080 |     }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.459569] (raspicam2) StderrLine: {'line': b'      |      \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.460272] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1255:7:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C99 doesn\xe2\x80\x99t support unnamed structs/unions [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.460812] (raspicam2) StderrLine: {'line': b' 1255 |      }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.461363] (raspicam2) StderrLine: {'line': b'      |       \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.461876] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1563:7:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C99 doesn\xe2\x80\x99t support unnamed structs/unions [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.462310] (raspicam2) StderrLine: {'line': b' 1563 |      }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.463037] (raspicam2) StderrLine: {'line': b'      |       \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.463523] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1746:7:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C99 doesn\xe2\x80\x99t support unnamed structs/unions [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.463949] (raspicam2) StderrLine: {'line': b' 1746 |      }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.464408] (raspicam2) StderrLine: {'line': b'      |       \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.464805] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1788:7:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C99 doesn\xe2\x80\x99t support unnamed structs/unions [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.465254] (raspicam2) StderrLine: {'line': b' 1788 |      }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.466043] (raspicam2) StderrLine: {'line': b'      |       \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.466471] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:1827:6:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C99 doesn\xe2\x80\x99t support unnamed structs/unions [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.466836] (raspicam2) StderrLine: {'line': b' 1827 |     }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.467246] (raspicam2) StderrLine: {'line': b'      |      \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.467576] (raspicam2) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/libgps_loader.h:31\x1b[m\x1b[K,\n'}
+[4.467875] (raspicam2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/RaspiGPS.h:34\x1b[m\x1b[K,\n'}
+[4.468220] (raspicam2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiGPS.c:35\x1b[m\x1b[K:\n'}
+[4.468642] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/gps.h:2080:6:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[KISO C99 doesn\xe2\x80\x99t support unnamed structs/unions [\x1b[01;35m\x1b[K-Wpedantic\x1b[m\x1b[K]\n'}
+[4.469071] (raspicam2) StderrLine: {'line': b' 2080 |     }\x1b[01;35m\x1b[K;\x1b[m\x1b[K\n'}
+[4.469628] (raspicam2) StderrLine: {'line': b'      |      \x1b[01;35m\x1b[K^\x1b[m\x1b[K\n'}
+[4.470189] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiGPS.c:\x1b[m\x1b[K In function \xe2\x80\x98\x1b[01m\x1b[Kgps_reader_process\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[4.470653] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiGPS.c:63:39:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused parameter \xe2\x80\x98\x1b[01m\x1b[Kgps_reader_data_ptr\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-parameter\x1b[m\x1b[K]\n'}
+[4.471077] (raspicam2) StderrLine: {'line': b'   63 | static void *gps_reader_process(\x1b[01;35m\x1b[Kvoid *gps_reader_data_ptr\x1b[m\x1b[K)\n'}
+[4.471477] (raspicam2) StderrLine: {'line': b'      |                                 \x1b[01;35m\x1b[K~~~~~~^~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[4.471909] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiGPS.c:\x1b[m\x1b[K In function \xe2\x80\x98\x1b[01m\x1b[Kraspi_gps_location_string\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[4.472455] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RaspiGPS.c:238:4:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kimplicit declaration of function \xe2\x80\x98\x1b[01m\x1b[Kasprintf\x1b[m\x1b[K\xe2\x80\x99; did you mean \xe2\x80\x98\x1b[01m\x1b[Kvsprintf\x1b[m\x1b[K\xe2\x80\x99? [\x1b[01;35m\x1b[K-Wimplicit-function-declaration\x1b[m\x1b[K]\n'}
+[4.473076] (raspicam2) StderrLine: {'line': b'  238 |    \x1b[01;35m\x1b[Kasprintf\x1b[m\x1b[K(&text,  "%s Lat %s Long %s %s %s %s", datetime, lat, lon, alt, speed, track);\n'}
+[4.473829] (raspicam2) StderrLine: {'line': b'      |    \x1b[01;35m\x1b[K^~~~~~~~\x1b[m\x1b[K\n'}
+[4.474449] (raspicam2) StderrLine: {'line': b'      |    \x1b[32m\x1b[Kvsprintf\x1b[m\x1b[K\n'}
+[4.520958] (-) TimerEvent: {}
+[4.582283] (raspicam2) StdoutLine: {'line': b'[ 57%] \x1b[32m\x1b[1mLinking C static library libraspicam_common.a\x1b[0m\n'}
+[4.621069] (-) TimerEvent: {}
+[4.718809] (raspicam2) StdoutLine: {'line': b'[ 57%] Built target raspicam_common\n'}
+[4.721228] (-) TimerEvent: {}
+[4.762118] (raspicam2) StdoutLine: {'line': b'\x1b[35m\x1b[1mScanning dependencies of target raspicam\x1b[0m\n'}
+[4.805548] (raspicam2) StdoutLine: {'line': b'[ 64%] \x1b[32mBuilding CXX object CMakeFiles/raspicam.dir/src/raspicam.cpp.o\x1b[0m\n'}
+[4.821494] (-) TimerEvent: {}
+[4.922437] (-) TimerEvent: {}
+[5.023167] (-) TimerEvent: {}
+[5.123886] (-) TimerEvent: {}
+[5.224619] (-) TimerEvent: {}
+[5.325375] (-) TimerEvent: {}
+[5.426096] (-) TimerEvent: {}
+[5.526870] (-) TimerEvent: {}
+[5.627598] (-) TimerEvent: {}
+[5.728359] (-) TimerEvent: {}
+[5.829109] (-) TimerEvent: {}
+[5.929863] (-) TimerEvent: {}
+[6.030568] (-) TimerEvent: {}
+[6.072781] (raspicam2) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/interface/vcos/vcos.h:144\x1b[m\x1b[K,\n'}
+[6.073862] (raspicam2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/usr/include/interface/vmcs_host/vc_dispmanx.h:33\x1b[m\x1b[K,\n'}
+[6.074375] (raspicam2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/usr/include/bcm_host.h:50\x1b[m\x1b[K,\n'}
+[6.074778] (raspicam2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:32\x1b[m\x1b[K:\n'}
+[6.075169] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:\x1b[m\x1b[K In function \xe2\x80\x98\x1b[01m\x1b[Kvoid image_encoder_buffer_callback(MMAL_PORT_T*, MMAL_BUFFER_HEADER_T*)\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[6.075594] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:117:22:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kformat \xe2\x80\x98\x1b[01m\x1b[K%d\x1b[m\x1b[K\xe2\x80\x99 expects argument of type \xe2\x80\x98\x1b[01m\x1b[Kint\x1b[m\x1b[K\xe2\x80\x99, but argument 4 has type \xe2\x80\x98\x1b[01m\x1b[Ksize_t\x1b[m\x1b[K\xe2\x80\x99 {aka \xe2\x80\x98\x1b[01m\x1b[Klong unsigned int\x1b[m\x1b[K\xe2\x80\x99} [\x1b[01;35m\x1b[K-Wformat=\x1b[m\x1b[K]\n'}
+[6.075980] (raspicam2) StderrLine: {'line': b'  117 |       vcos_log_error(\x1b[01;35m\x1b[K"Failed to write buffer data (%d from %d)- aborting"\x1b[m\x1b[K, \x1b[32m\x1b[Kbytes_written\x1b[m\x1b[K, buffer->length);\n'}
+[6.076351] (raspicam2) StderrLine: {'line': b'      |                      \x1b[01;35m\x1b[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K  \x1b[32m\x1b[K~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[6.076733] (raspicam2) StderrLine: {'line': b'      |                                                                            \x1b[32m\x1b[K|\x1b[m\x1b[K\n'}
+[6.077109] (raspicam2) StderrLine: {'line': b'      |                                                                            \x1b[32m\x1b[Ksize_t {aka long unsigned int}\x1b[m\x1b[K\n'}
+[6.077540] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:117:53:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kformat string is defined here\n'}
+[6.077921] (raspicam2) StderrLine: {'line': b'  117 |       vcos_log_error("Failed to write buffer data (\x1b[01;36m\x1b[K%d\x1b[m\x1b[K from %d)- aborting", bytes_written, buffer->length);\n'}
+[6.078304] (raspicam2) StderrLine: {'line': b'      |                                                    \x1b[01;36m\x1b[K~^\x1b[m\x1b[K\n'}
+[6.078661] (raspicam2) StderrLine: {'line': b'      |                                                     \x1b[01;36m\x1b[K|\x1b[m\x1b[K\n'}
+[6.079011] (raspicam2) StderrLine: {'line': b'      |                                                     \x1b[01;36m\x1b[Kint\x1b[m\x1b[K\n'}
+[6.079363] (raspicam2) StderrLine: {'line': b'      |                                                    \x1b[32m\x1b[K%ld\x1b[m\x1b[K\n'}
+[6.079696] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:118:17:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kformat \xe2\x80\x98\x1b[01m\x1b[K%d\x1b[m\x1b[K\xe2\x80\x99 expects argument of type \xe2\x80\x98\x1b[01m\x1b[Kint\x1b[m\x1b[K\xe2\x80\x99, but argument 3 has type \xe2\x80\x98\x1b[01m\x1b[Ksize_t\x1b[m\x1b[K\xe2\x80\x99 {aka \xe2\x80\x98\x1b[01m\x1b[Klong unsigned int\x1b[m\x1b[K\xe2\x80\x99} [\x1b[01;35m\x1b[K-Wformat=\x1b[m\x1b[K]\n'}
+[6.080121] (raspicam2) StderrLine: {'line': b'  118 |       ROS_ERROR(\x1b[01;35m\x1b[K"Failed to write buffer data (%d from %d)- aborting"\x1b[m\x1b[K, \x1b[32m\x1b[Kbytes_written\x1b[m\x1b[K, buffer->length);\n'}
+[6.080938] (raspicam2) StderrLine: {'line': b'      |                 \x1b[01;35m\x1b[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K  \x1b[32m\x1b[K~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[6.081773] (raspicam2) StderrLine: {'line': b'      |                                                                       \x1b[32m\x1b[K|\x1b[m\x1b[K\n'}
+[6.082196] (raspicam2) StderrLine: {'line': b'      |                                                                       \x1b[32m\x1b[Ksize_t {aka long unsigned int}\x1b[m\x1b[K\n'}
+[6.082563] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:45:40:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kin definition of macro \xe2\x80\x98\x1b[01m\x1b[KROS_ERROR\x1b[m\x1b[K\xe2\x80\x99\n'}
+[6.082926] (raspicam2) StderrLine: {'line': b'   45 | #define ROS_ERROR(...) fprintf(stderr, \x1b[01;36m\x1b[K__VA_ARGS__\x1b[m\x1b[K);\n'}
+[6.083287] (raspicam2) StderrLine: {'line': b'      |                                        \x1b[01;36m\x1b[K^~~~~~~~~~~\x1b[m\x1b[K\n'}
+[6.083618] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:118:48:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kformat string is defined here\n'}
+[6.083971] (raspicam2) StderrLine: {'line': b'  118 |       ROS_ERROR("Failed to write buffer data (\x1b[01;36m\x1b[K%d\x1b[m\x1b[K from %d)- aborting", bytes_written, buffer->length);\n'}
+[6.084325] (raspicam2) StderrLine: {'line': b'      |                                               \x1b[01;36m\x1b[K~^\x1b[m\x1b[K\n'}
+[6.084677] (raspicam2) StderrLine: {'line': b'      |                                                \x1b[01;36m\x1b[K|\x1b[m\x1b[K\n'}
+[6.085030] (raspicam2) StderrLine: {'line': b'      |                                                \x1b[01;36m\x1b[Kint\x1b[m\x1b[K\n'}
+[6.085442] (raspicam2) StderrLine: {'line': b'      |                                               \x1b[32m\x1b[K%ld\x1b[m\x1b[K\n'}
+[6.085788] (raspicam2) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/usr/include/interface/vcos/vcos.h:144\x1b[m\x1b[K,\n'}
+[6.086133] (raspicam2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/usr/include/interface/vmcs_host/vc_dispmanx.h:33\x1b[m\x1b[K,\n'}
+[6.086483] (raspicam2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/usr/include/bcm_host.h:50\x1b[m\x1b[K,\n'}
+[6.086820] (raspicam2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:32\x1b[m\x1b[K:\n'}
+[6.087136] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:\x1b[m\x1b[K In function \xe2\x80\x98\x1b[01m\x1b[Kvoid splitter_buffer_callback(MMAL_PORT_T*, MMAL_BUFFER_HEADER_T*)\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[6.087486] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:268:22:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kformat \xe2\x80\x98\x1b[01m\x1b[K%d\x1b[m\x1b[K\xe2\x80\x99 expects argument of type \xe2\x80\x98\x1b[01m\x1b[Kint\x1b[m\x1b[K\xe2\x80\x99, but argument 4 has type \xe2\x80\x98\x1b[01m\x1b[Ksize_t\x1b[m\x1b[K\xe2\x80\x99 {aka \xe2\x80\x98\x1b[01m\x1b[Klong unsigned int\x1b[m\x1b[K\xe2\x80\x99} [\x1b[01;35m\x1b[K-Wformat=\x1b[m\x1b[K]\n'}
+[6.087918] (raspicam2) StderrLine: {'line': b'  268 |       vcos_log_error(\x1b[01;35m\x1b[K"Failed to write buffer data (%d from %d)- aborting"\x1b[m\x1b[K, \x1b[32m\x1b[Kbytes_written\x1b[m\x1b[K, buffer->length);\n'}
+[6.088257] (raspicam2) StderrLine: {'line': b'      |                      \x1b[01;35m\x1b[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K  \x1b[32m\x1b[K~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[6.088594] (raspicam2) StderrLine: {'line': b'      |                                                                            \x1b[32m\x1b[K|\x1b[m\x1b[K\n'}
+[6.088951] (raspicam2) StderrLine: {'line': b'      |                                                                            \x1b[32m\x1b[Ksize_t {aka long unsigned int}\x1b[m\x1b[K\n'}
+[6.089309] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:268:53:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kformat string is defined here\n'}
+[6.089729] (raspicam2) StderrLine: {'line': b'  268 |       vcos_log_error("Failed to write buffer data (\x1b[01;36m\x1b[K%d\x1b[m\x1b[K from %d)- aborting", bytes_written, buffer->length);\n'}
+[6.090309] (raspicam2) StderrLine: {'line': b'      |                                                    \x1b[01;36m\x1b[K~^\x1b[m\x1b[K\n'}
+[6.090717] (raspicam2) StderrLine: {'line': b'      |                                                     \x1b[01;36m\x1b[K|\x1b[m\x1b[K\n'}
+[6.091073] (raspicam2) StderrLine: {'line': b'      |                                                     \x1b[01;36m\x1b[Kint\x1b[m\x1b[K\n'}
+[6.091436] (raspicam2) StderrLine: {'line': b'      |                                                    \x1b[32m\x1b[K%ld\x1b[m\x1b[K\n'}
+[6.091801] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:269:17:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kformat \xe2\x80\x98\x1b[01m\x1b[K%d\x1b[m\x1b[K\xe2\x80\x99 expects argument of type \xe2\x80\x98\x1b[01m\x1b[Kint\x1b[m\x1b[K\xe2\x80\x99, but argument 3 has type \xe2\x80\x98\x1b[01m\x1b[Ksize_t\x1b[m\x1b[K\xe2\x80\x99 {aka \xe2\x80\x98\x1b[01m\x1b[Klong unsigned int\x1b[m\x1b[K\xe2\x80\x99} [\x1b[01;35m\x1b[K-Wformat=\x1b[m\x1b[K]\n'}
+[6.092189] (raspicam2) StderrLine: {'line': b'  269 |       ROS_ERROR(\x1b[01;35m\x1b[K"Failed to write buffer data (%d from %d)- aborting"\x1b[m\x1b[K, \x1b[32m\x1b[Kbytes_written\x1b[m\x1b[K, buffer->length);\n'}
+[6.092527] (raspicam2) StderrLine: {'line': b'      |                 \x1b[01;35m\x1b[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K  \x1b[32m\x1b[K~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[6.092850] (raspicam2) StderrLine: {'line': b'      |                                                                       \x1b[32m\x1b[K|\x1b[m\x1b[K\n'}
+[6.093236] (raspicam2) StderrLine: {'line': b'      |                                                                       \x1b[32m\x1b[Ksize_t {aka long unsigned int}\x1b[m\x1b[K\n'}
+[6.093741] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:45:40:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kin definition of macro \xe2\x80\x98\x1b[01m\x1b[KROS_ERROR\x1b[m\x1b[K\xe2\x80\x99\n'}
+[6.094119] (raspicam2) StderrLine: {'line': b'   45 | #define ROS_ERROR(...) fprintf(stderr, \x1b[01;36m\x1b[K__VA_ARGS__\x1b[m\x1b[K);\n'}
+[6.094471] (raspicam2) StderrLine: {'line': b'      |                                        \x1b[01;36m\x1b[K^~~~~~~~~~~\x1b[m\x1b[K\n'}
+[6.094808] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam.cpp:269:48:\x1b[m\x1b[K \x1b[01;36m\x1b[Knote: \x1b[m\x1b[Kformat string is defined here\n'}
+[6.095143] (raspicam2) StderrLine: {'line': b'  269 |       ROS_ERROR("Failed to write buffer data (\x1b[01;36m\x1b[K%d\x1b[m\x1b[K from %d)- aborting", bytes_written, buffer->length);\n'}
+[6.095489] (raspicam2) StderrLine: {'line': b'      |                                               \x1b[01;36m\x1b[K~^\x1b[m\x1b[K\n'}
+[6.095834] (raspicam2) StderrLine: {'line': b'      |                                                \x1b[01;36m\x1b[K|\x1b[m\x1b[K\n'}
+[6.096177] (raspicam2) StderrLine: {'line': b'      |                                                \x1b[01;36m\x1b[Kint\x1b[m\x1b[K\n'}
+[6.096517] (raspicam2) StderrLine: {'line': b'      |                                               \x1b[32m\x1b[K%ld\x1b[m\x1b[K\n'}
+[6.130728] (-) TimerEvent: {}
+[6.231454] (-) TimerEvent: {}
+[6.332258] (-) TimerEvent: {}
+[6.433013] (-) TimerEvent: {}
+[6.533831] (-) TimerEvent: {}
+[6.634632] (-) TimerEvent: {}
+[6.735355] (-) TimerEvent: {}
+[6.836408] (-) TimerEvent: {}
+[6.937572] (-) TimerEvent: {}
+[6.960219] (raspicam2) StdoutLine: {'line': b'[ 71%] \x1b[32m\x1b[1mLinking CXX shared library libraspicam.so\x1b[0m\n'}
+[7.037809] (-) TimerEvent: {}
+[7.138725] (-) TimerEvent: {}
+[7.224281] (raspicam2) StdoutLine: {'line': b'[ 71%] Built target raspicam\n'}
+[7.238990] (-) TimerEvent: {}
+[7.267655] (raspicam2) StdoutLine: {'line': b'\x1b[35m\x1b[1mScanning dependencies of target RasPiCamPublisherNode\x1b[0m\n'}
+[7.339188] (-) TimerEvent: {}
+[7.439992] (-) TimerEvent: {}
+[7.540760] (-) TimerEvent: {}
+[7.641572] (-) TimerEvent: {}
+[7.730061] (raspicam2) StdoutLine: {'line': b'[ 78%] \x1b[32mBuilding CXX object CMakeFiles/RasPiCamPublisherNode.dir/src/RasPiCamPublisherNode.cpp.o\x1b[0m\n'}
+[7.741752] (-) TimerEvent: {}
+[7.842525] (-) TimerEvent: {}
+[7.943241] (-) TimerEvent: {}
+[8.043991] (-) TimerEvent: {}
+[8.144704] (-) TimerEvent: {}
+[8.245427] (-) TimerEvent: {}
+[8.346093] (-) TimerEvent: {}
+[8.446802] (-) TimerEvent: {}
+[8.547610] (-) TimerEvent: {}
+[8.648355] (-) TimerEvent: {}
+[8.749104] (-) TimerEvent: {}
+[8.849920] (-) TimerEvent: {}
+[8.950687] (-) TimerEvent: {}
+[9.051441] (-) TimerEvent: {}
+[9.152247] (-) TimerEvent: {}
+[9.253021] (-) TimerEvent: {}
+[9.353779] (-) TimerEvent: {}
+[9.454496] (-) TimerEvent: {}
+[9.555195] (-) TimerEvent: {}
+[9.655949] (-) TimerEvent: {}
+[9.756760] (-) TimerEvent: {}
+[9.857488] (-) TimerEvent: {}
+[9.958311] (-) TimerEvent: {}
+[10.059012] (-) TimerEvent: {}
+[10.159712] (-) TimerEvent: {}
+[10.260445] (-) TimerEvent: {}
+[10.361164] (-) TimerEvent: {}
+[10.461930] (-) TimerEvent: {}
+[10.562656] (-) TimerEvent: {}
+[10.663370] (-) TimerEvent: {}
+[10.764139] (-) TimerEvent: {}
+[10.864922] (-) TimerEvent: {}
+[10.965681] (-) TimerEvent: {}
+[11.066387] (-) TimerEvent: {}
+[11.167127] (-) TimerEvent: {}
+[11.267875] (-) TimerEvent: {}
+[11.368634] (-) TimerEvent: {}
+[11.469402] (-) TimerEvent: {}
+[11.570109] (-) TimerEvent: {}
+[11.670835] (-) TimerEvent: {}
+[11.771569] (-) TimerEvent: {}
+[11.872320] (-) TimerEvent: {}
+[11.973045] (-) TimerEvent: {}
+[12.073799] (-) TimerEvent: {}
+[12.174523] (-) TimerEvent: {}
+[12.275267] (-) TimerEvent: {}
+[12.376043] (-) TimerEvent: {}
+[12.476790] (-) TimerEvent: {}
+[12.577544] (-) TimerEvent: {}
+[12.678254] (-) TimerEvent: {}
+[12.778980] (-) TimerEvent: {}
+[12.879710] (-) TimerEvent: {}
+[12.980491] (-) TimerEvent: {}
+[13.081192] (-) TimerEvent: {}
+[13.181938] (-) TimerEvent: {}
+[13.282639] (-) TimerEvent: {}
+[13.383334] (-) TimerEvent: {}
+[13.484107] (-) TimerEvent: {}
+[13.584852] (-) TimerEvent: {}
+[13.685595] (-) TimerEvent: {}
+[13.698576] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RasPiCamPublisherNode.cpp:\x1b[m\x1b[K In member function \xe2\x80\x98\x1b[01m\x1b[Kvoid RasPiCamPublisher::onMotion(const uint8_t*, const uint8_t*)\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[13.699195] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RasPiCamPublisherNode.cpp:177:49:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused parameter \xe2\x80\x98\x1b[01m\x1b[Kstart\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-parameter\x1b[m\x1b[K]\n'}
+[13.699603] (raspicam2) StderrLine: {'line': b'  177 | void RasPiCamPublisher::onMotion(\x1b[01;35m\x1b[Kconst uint8_t* start\x1b[m\x1b[K, const uint8_t* end) { }\n'}
+[13.699978] (raspicam2) StderrLine: {'line': b'      |                                  \x1b[01;35m\x1b[K~~~~~~~~~~~~~~~^~~~~\x1b[m\x1b[K\n'}
+[13.700328] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RasPiCamPublisherNode.cpp:177:71:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused parameter \xe2\x80\x98\x1b[01m\x1b[Kend\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-parameter\x1b[m\x1b[K]\n'}
+[13.700730] (raspicam2) StderrLine: {'line': b'  177 | void RasPiCamPublisher::onMotion(const uint8_t* start, \x1b[01;35m\x1b[Kconst uint8_t* end\x1b[m\x1b[K) { }\n'}
+[13.701134] (raspicam2) StderrLine: {'line': b'      |                                                        \x1b[01;35m\x1b[K~~~~~~~~~~~~~~~^~~\x1b[m\x1b[K\n'}
+[13.785768] (-) TimerEvent: {}
+[13.886511] (-) TimerEvent: {}
+[13.987246] (-) TimerEvent: {}
+[14.088021] (-) TimerEvent: {}
+[14.188725] (-) TimerEvent: {}
+[14.289480] (-) TimerEvent: {}
+[14.390203] (-) TimerEvent: {}
+[14.490931] (-) TimerEvent: {}
+[14.591707] (-) TimerEvent: {}
+[14.692452] (-) TimerEvent: {}
+[14.793184] (-) TimerEvent: {}
+[14.893922] (-) TimerEvent: {}
+[14.994687] (-) TimerEvent: {}
+[15.095401] (-) TimerEvent: {}
+[15.196107] (-) TimerEvent: {}
+[15.296950] (-) TimerEvent: {}
+[15.397885] (-) TimerEvent: {}
+[15.498628] (-) TimerEvent: {}
+[15.599363] (-) TimerEvent: {}
+[15.700113] (-) TimerEvent: {}
+[15.800859] (-) TimerEvent: {}
+[15.901656] (-) TimerEvent: {}
+[16.002372] (-) TimerEvent: {}
+[16.103099] (-) TimerEvent: {}
+[16.203818] (-) TimerEvent: {}
+[16.304559] (-) TimerEvent: {}
+[16.405268] (-) TimerEvent: {}
+[16.506010] (-) TimerEvent: {}
+[16.606724] (-) TimerEvent: {}
+[16.707439] (-) TimerEvent: {}
+[16.808209] (-) TimerEvent: {}
+[16.908958] (-) TimerEvent: {}
+[17.009771] (-) TimerEvent: {}
+[17.110499] (-) TimerEvent: {}
+[17.211218] (-) TimerEvent: {}
+[17.311935] (-) TimerEvent: {}
+[17.412688] (-) TimerEvent: {}
+[17.500467] (raspicam2) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/RasPiCamPublisherNode.hpp:9\x1b[m\x1b[K,\n'}
+[17.501816] (raspicam2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/RasPiCamPublisherNode.cpp:1\x1b[m\x1b[K:\n'}
+[17.502270] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:\x1b[m\x1b[K At global scope:\n'}
+[17.502668] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:96:13:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[Kvoid image_encoder_buffer_callback(MMAL_PORT_T*, MMAL_BUFFER_HEADER_T*)\x1b[m\x1b[K\xe2\x80\x99 declared \xe2\x80\x98\x1b[01m\x1b[Kstatic\x1b[m\x1b[K\xe2\x80\x99 but never defined [\x1b[01;35m\x1b[K-Wunused-function\x1b[m\x1b[K]\n'}
+[17.503079] (raspicam2) StderrLine: {'line': b'   96 | static void \x1b[01;35m\x1b[Kimage_encoder_buffer_callback\x1b[m\x1b[K(MMAL_PORT_T* port, MMAL_BUFFER_HEADER_T* buffer);\n'}
+[17.503473] (raspicam2) StderrLine: {'line': b'      |             \x1b[01;35m\x1b[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[17.503850] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:106:13:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[Kvoid video_encoder_buffer_callback(MMAL_PORT_T*, MMAL_BUFFER_HEADER_T*)\x1b[m\x1b[K\xe2\x80\x99 declared \xe2\x80\x98\x1b[01m\x1b[Kstatic\x1b[m\x1b[K\xe2\x80\x99 but never defined [\x1b[01;35m\x1b[K-Wunused-function\x1b[m\x1b[K]\n'}
+[17.504249] (raspicam2) StderrLine: {'line': b'  106 | static void \x1b[01;35m\x1b[Kvideo_encoder_buffer_callback\x1b[m\x1b[K(MMAL_PORT_T* port, MMAL_BUFFER_HEADER_T* buffer);\n'}
+[17.504631] (raspicam2) StderrLine: {'line': b'      |             \x1b[01;35m\x1b[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[17.505005] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:108:13:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[Kvoid splitter_buffer_callback(MMAL_PORT_T*, MMAL_BUFFER_HEADER_T*)\x1b[m\x1b[K\xe2\x80\x99 declared \xe2\x80\x98\x1b[01m\x1b[Kstatic\x1b[m\x1b[K\xe2\x80\x99 but never defined [\x1b[01;35m\x1b[K-Wunused-function\x1b[m\x1b[K]\n'}
+[17.505446] (raspicam2) StderrLine: {'line': b'  108 | static void \x1b[01;35m\x1b[Ksplitter_buffer_callback\x1b[m\x1b[K(MMAL_PORT_T* port, MMAL_BUFFER_HEADER_T* buffer);\n'}
+[17.505840] (raspicam2) StderrLine: {'line': b'      |             \x1b[01;35m\x1b[K^~~~~~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[17.506205] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:118:26:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KMMAL_COMPONENT_T* create_camera_component(RASPIVID_STATE&)\x1b[m\x1b[K\xe2\x80\x99 declared \xe2\x80\x98\x1b[01m\x1b[Kstatic\x1b[m\x1b[K\xe2\x80\x99 but never defined [\x1b[01;35m\x1b[K-Wunused-function\x1b[m\x1b[K]\n'}
+[17.506653] (raspicam2) StderrLine: {'line': b'  118 | static MMAL_COMPONENT_T* \x1b[01;35m\x1b[Kcreate_camera_component\x1b[m\x1b[K(RASPIVID_STATE& state);\n'}
+[17.507033] (raspicam2) StderrLine: {'line': b'      |                          \x1b[01;35m\x1b[K^~~~~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[17.507449] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:128:22:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KMMAL_STATUS_T create_image_encoder_component(RASPIVID_STATE&)\x1b[m\x1b[K\xe2\x80\x99 declared \xe2\x80\x98\x1b[01m\x1b[Kstatic\x1b[m\x1b[K\xe2\x80\x99 but never defined [\x1b[01;35m\x1b[K-Wunused-function\x1b[m\x1b[K]\n'}
+[17.507831] (raspicam2) StderrLine: {'line': b'  128 | static MMAL_STATUS_T \x1b[01;35m\x1b[Kcreate_image_encoder_component\x1b[m\x1b[K(RASPIVID_STATE& state);\n'}
+[17.508203] (raspicam2) StderrLine: {'line': b'      |                      \x1b[01;35m\x1b[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[17.508571] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:138:22:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KMMAL_STATUS_T create_video_encoder_component(RASPIVID_STATE&)\x1b[m\x1b[K\xe2\x80\x99 declared \xe2\x80\x98\x1b[01m\x1b[Kstatic\x1b[m\x1b[K\xe2\x80\x99 but never defined [\x1b[01;35m\x1b[K-Wunused-function\x1b[m\x1b[K]\n'}
+[17.508971] (raspicam2) StderrLine: {'line': b'  138 | static MMAL_STATUS_T \x1b[01;35m\x1b[Kcreate_video_encoder_component\x1b[m\x1b[K(RASPIVID_STATE& state);\n'}
+[17.509438] (raspicam2) StderrLine: {'line': b'      |                      \x1b[01;35m\x1b[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[17.509877] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:148:22:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KMMAL_STATUS_T create_splitter_component(RASPIVID_STATE&)\x1b[m\x1b[K\xe2\x80\x99 declared \xe2\x80\x98\x1b[01m\x1b[Kstatic\x1b[m\x1b[K\xe2\x80\x99 but never defined [\x1b[01;35m\x1b[K-Wunused-function\x1b[m\x1b[K]\n'}
+[17.510289] (raspicam2) StderrLine: {'line': b'  148 | static MMAL_STATUS_T \x1b[01;35m\x1b[Kcreate_splitter_component\x1b[m\x1b[K(RASPIVID_STATE& state);\n'}
+[17.510665] (raspicam2) StderrLine: {'line': b'      |                      \x1b[01;35m\x1b[K^~~~~~~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[17.511040] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:160:22:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KMMAL_STATUS_T connect_ports(MMAL_PORT_T*, MMAL_PORT_T*, mmal::connection_ptr&)\x1b[m\x1b[K\xe2\x80\x99 declared \xe2\x80\x98\x1b[01m\x1b[Kstatic\x1b[m\x1b[K\xe2\x80\x99 but never defined [\x1b[01;35m\x1b[K-Wunused-function\x1b[m\x1b[K]\n'}
+[17.511465] (raspicam2) StderrLine: {'line': b'  160 | static MMAL_STATUS_T \x1b[01;35m\x1b[Kconnect_ports\x1b[m\x1b[K(MMAL_PORT_T* output_port, MMAL_PORT_T* input_port,\n'}
+[17.511870] (raspicam2) StderrLine: {'line': b'      |                      \x1b[01;35m\x1b[K^~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[17.512812] (-) TimerEvent: {}
+[17.613498] (-) TimerEvent: {}
+[17.714236] (-) TimerEvent: {}
+[17.814997] (-) TimerEvent: {}
+[17.915984] (-) TimerEvent: {}
+[18.016795] (-) TimerEvent: {}
+[18.117860] (-) TimerEvent: {}
+[18.218605] (-) TimerEvent: {}
+[18.319337] (-) TimerEvent: {}
+[18.420189] (-) TimerEvent: {}
+[18.521167] (-) TimerEvent: {}
+[18.621947] (-) TimerEvent: {}
+[18.722687] (-) TimerEvent: {}
+[18.823498] (-) TimerEvent: {}
+[18.924363] (-) TimerEvent: {}
+[19.025124] (-) TimerEvent: {}
+[19.125920] (-) TimerEvent: {}
+[19.226609] (-) TimerEvent: {}
+[19.327320] (-) TimerEvent: {}
+[19.428077] (-) TimerEvent: {}
+[19.528851] (-) TimerEvent: {}
+[19.629600] (-) TimerEvent: {}
+[19.730328] (-) TimerEvent: {}
+[19.831052] (-) TimerEvent: {}
+[19.931816] (-) TimerEvent: {}
+[20.032604] (-) TimerEvent: {}
+[20.406394] (-) TimerEvent: {}
+[20.507143] (-) TimerEvent: {}
+[20.607901] (-) TimerEvent: {}
+[20.708640] (-) TimerEvent: {}
+[20.809411] (-) TimerEvent: {}
+[20.910122] (-) TimerEvent: {}
+[21.010877] (-) TimerEvent: {}
+[21.111564] (-) TimerEvent: {}
+[21.212348] (-) TimerEvent: {}
+[21.313067] (-) TimerEvent: {}
+[21.413810] (-) TimerEvent: {}
+[21.514530] (-) TimerEvent: {}
+[21.615236] (-) TimerEvent: {}
+[21.715990] (-) TimerEvent: {}
+[21.816710] (-) TimerEvent: {}
+[21.917430] (-) TimerEvent: {}
+[22.018132] (-) TimerEvent: {}
+[22.118856] (-) TimerEvent: {}
+[22.219570] (-) TimerEvent: {}
+[22.320313] (-) TimerEvent: {}
+[22.421036] (-) TimerEvent: {}
+[22.521773] (-) TimerEvent: {}
+[22.622509] (-) TimerEvent: {}
+[22.723238] (-) TimerEvent: {}
+[22.823975] (-) TimerEvent: {}
+[22.924715] (-) TimerEvent: {}
+[23.025428] (-) TimerEvent: {}
+[23.126129] (-) TimerEvent: {}
+[23.226826] (-) TimerEvent: {}
+[23.327554] (-) TimerEvent: {}
+[23.428304] (-) TimerEvent: {}
+[23.529030] (-) TimerEvent: {}
+[23.629785] (-) TimerEvent: {}
+[23.730504] (-) TimerEvent: {}
+[23.831228] (-) TimerEvent: {}
+[23.932007] (-) TimerEvent: {}
+[24.032758] (-) TimerEvent: {}
+[24.133512] (-) TimerEvent: {}
+[24.234224] (-) TimerEvent: {}
+[24.334938] (-) TimerEvent: {}
+[24.435649] (-) TimerEvent: {}
+[24.536367] (-) TimerEvent: {}
+[24.637210] (-) TimerEvent: {}
+[24.738600] (-) TimerEvent: {}
+[24.839356] (-) TimerEvent: {}
+[24.941672] (-) TimerEvent: {}
+[25.042404] (-) TimerEvent: {}
+[25.143221] (-) TimerEvent: {}
+[25.243976] (-) TimerEvent: {}
+[25.344720] (-) TimerEvent: {}
+[25.445517] (-) TimerEvent: {}
+[25.546267] (-) TimerEvent: {}
+[25.647033] (-) TimerEvent: {}
+[25.747881] (-) TimerEvent: {}
+[25.848995] (-) TimerEvent: {}
+[25.914753] (raspicam2) StdoutLine: {'line': b'[ 85%] \x1b[32m\x1b[1mLinking CXX shared library libRasPiCamPublisherNode.so\x1b[0m\n'}
+[25.949181] (-) TimerEvent: {}
+[26.049961] (-) TimerEvent: {}
+[26.151030] (-) TimerEvent: {}
+[26.251899] (-) TimerEvent: {}
+[26.352850] (-) TimerEvent: {}
+[26.453719] (-) TimerEvent: {}
+[26.554414] (-) TimerEvent: {}
+[26.655336] (-) TimerEvent: {}
+[26.756130] (-) TimerEvent: {}
+[26.812845] (raspicam2) StdoutLine: {'line': b'[ 85%] Built target RasPiCamPublisherNode\n'}
+[26.856341] (-) TimerEvent: {}
+[26.857095] (raspicam2) StdoutLine: {'line': b'\x1b[35m\x1b[1mScanning dependencies of target raspicam2_node\x1b[0m\n'}
+[26.956496] (-) TimerEvent: {}
+[27.045128] (raspicam2) StdoutLine: {'line': b'[ 92%] \x1b[32mBuilding CXX object CMakeFiles/raspicam2_node.dir/src/raspicam2_node.cpp.o\x1b[0m\n'}
+[27.056761] (-) TimerEvent: {}
+[27.157537] (-) TimerEvent: {}
+[27.258225] (-) TimerEvent: {}
+[27.358992] (-) TimerEvent: {}
+[27.459721] (-) TimerEvent: {}
+[27.560448] (-) TimerEvent: {}
+[27.661189] (-) TimerEvent: {}
+[27.762015] (-) TimerEvent: {}
+[27.862777] (-) TimerEvent: {}
+[27.963530] (-) TimerEvent: {}
+[28.064309] (-) TimerEvent: {}
+[28.165017] (-) TimerEvent: {}
+[28.265752] (-) TimerEvent: {}
+[28.366448] (-) TimerEvent: {}
+[28.467221] (-) TimerEvent: {}
+[28.567954] (-) TimerEvent: {}
+[28.668746] (-) TimerEvent: {}
+[28.769467] (-) TimerEvent: {}
+[28.870185] (-) TimerEvent: {}
+[28.970908] (-) TimerEvent: {}
+[29.071621] (-) TimerEvent: {}
+[29.172361] (-) TimerEvent: {}
+[29.273063] (-) TimerEvent: {}
+[29.373857] (-) TimerEvent: {}
+[29.474575] (-) TimerEvent: {}
+[29.575314] (-) TimerEvent: {}
+[29.676111] (-) TimerEvent: {}
+[29.776891] (-) TimerEvent: {}
+[29.877656] (-) TimerEvent: {}
+[29.978367] (-) TimerEvent: {}
+[30.079152] (-) TimerEvent: {}
+[30.179886] (-) TimerEvent: {}
+[30.280800] (-) TimerEvent: {}
+[30.381587] (-) TimerEvent: {}
+[30.482316] (-) TimerEvent: {}
+[30.583041] (-) TimerEvent: {}
+[30.683794] (-) TimerEvent: {}
+[30.784519] (-) TimerEvent: {}
+[30.885314] (-) TimerEvent: {}
+[30.986052] (-) TimerEvent: {}
+[31.086794] (-) TimerEvent: {}
+[31.187499] (-) TimerEvent: {}
+[31.288213] (-) TimerEvent: {}
+[31.388965] (-) TimerEvent: {}
+[31.489723] (-) TimerEvent: {}
+[31.590433] (-) TimerEvent: {}
+[31.691146] (-) TimerEvent: {}
+[31.791908] (-) TimerEvent: {}
+[31.892644] (-) TimerEvent: {}
+[31.993420] (-) TimerEvent: {}
+[32.094180] (-) TimerEvent: {}
+[32.194898] (-) TimerEvent: {}
+[32.295640] (-) TimerEvent: {}
+[32.396378] (-) TimerEvent: {}
+[32.497098] (-) TimerEvent: {}
+[32.597845] (-) TimerEvent: {}
+[32.698566] (-) TimerEvent: {}
+[32.799310] (-) TimerEvent: {}
+[32.900091] (-) TimerEvent: {}
+[33.000839] (-) TimerEvent: {}
+[33.101583] (-) TimerEvent: {}
+[33.202314] (-) TimerEvent: {}
+[33.303028] (-) TimerEvent: {}
+[33.403740] (-) TimerEvent: {}
+[33.504517] (-) TimerEvent: {}
+[33.605254] (-) TimerEvent: {}
+[33.705997] (-) TimerEvent: {}
+[33.806726] (-) TimerEvent: {}
+[33.907455] (-) TimerEvent: {}
+[34.008280] (-) TimerEvent: {}
+[34.109378] (-) TimerEvent: {}
+[34.210096] (-) TimerEvent: {}
+[34.310830] (-) TimerEvent: {}
+[34.411551] (-) TimerEvent: {}
+[34.512344] (-) TimerEvent: {}
+[34.573536] (raspicam2) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/RasPiCamPublisherNode.hpp:9\x1b[m\x1b[K,\n'}
+[34.574900] (raspicam2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/src/raspicam2_node.cpp:1\x1b[m\x1b[K:\n'}
+[34.575389] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:96:13:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[Kvoid image_encoder_buffer_callback(MMAL_PORT_T*, MMAL_BUFFER_HEADER_T*)\x1b[m\x1b[K\xe2\x80\x99 declared \xe2\x80\x98\x1b[01m\x1b[Kstatic\x1b[m\x1b[K\xe2\x80\x99 but never defined [\x1b[01;35m\x1b[K-Wunused-function\x1b[m\x1b[K]\n'}
+[34.575816] (raspicam2) StderrLine: {'line': b'   96 | static void \x1b[01;35m\x1b[Kimage_encoder_buffer_callback\x1b[m\x1b[K(MMAL_PORT_T* port, MMAL_BUFFER_HEADER_T* buffer);\n'}
+[34.576224] (raspicam2) StderrLine: {'line': b'      |             \x1b[01;35m\x1b[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[34.576616] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:106:13:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[Kvoid video_encoder_buffer_callback(MMAL_PORT_T*, MMAL_BUFFER_HEADER_T*)\x1b[m\x1b[K\xe2\x80\x99 declared \xe2\x80\x98\x1b[01m\x1b[Kstatic\x1b[m\x1b[K\xe2\x80\x99 but never defined [\x1b[01;35m\x1b[K-Wunused-function\x1b[m\x1b[K]\n'}
+[34.577018] (raspicam2) StderrLine: {'line': b'  106 | static void \x1b[01;35m\x1b[Kvideo_encoder_buffer_callback\x1b[m\x1b[K(MMAL_PORT_T* port, MMAL_BUFFER_HEADER_T* buffer);\n'}
+[34.577483] (raspicam2) StderrLine: {'line': b'      |             \x1b[01;35m\x1b[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[34.577897] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:108:13:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[Kvoid splitter_buffer_callback(MMAL_PORT_T*, MMAL_BUFFER_HEADER_T*)\x1b[m\x1b[K\xe2\x80\x99 declared \xe2\x80\x98\x1b[01m\x1b[Kstatic\x1b[m\x1b[K\xe2\x80\x99 but never defined [\x1b[01;35m\x1b[K-Wunused-function\x1b[m\x1b[K]\n'}
+[34.578301] (raspicam2) StderrLine: {'line': b'  108 | static void \x1b[01;35m\x1b[Ksplitter_buffer_callback\x1b[m\x1b[K(MMAL_PORT_T* port, MMAL_BUFFER_HEADER_T* buffer);\n'}
+[34.578693] (raspicam2) StderrLine: {'line': b'      |             \x1b[01;35m\x1b[K^~~~~~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[34.579084] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:118:26:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KMMAL_COMPONENT_T* create_camera_component(RASPIVID_STATE&)\x1b[m\x1b[K\xe2\x80\x99 declared \xe2\x80\x98\x1b[01m\x1b[Kstatic\x1b[m\x1b[K\xe2\x80\x99 but never defined [\x1b[01;35m\x1b[K-Wunused-function\x1b[m\x1b[K]\n'}
+[34.579483] (raspicam2) StderrLine: {'line': b'  118 | static MMAL_COMPONENT_T* \x1b[01;35m\x1b[Kcreate_camera_component\x1b[m\x1b[K(RASPIVID_STATE& state);\n'}
+[34.579868] (raspicam2) StderrLine: {'line': b'      |                          \x1b[01;35m\x1b[K^~~~~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[34.580243] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:128:22:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KMMAL_STATUS_T create_image_encoder_component(RASPIVID_STATE&)\x1b[m\x1b[K\xe2\x80\x99 declared \xe2\x80\x98\x1b[01m\x1b[Kstatic\x1b[m\x1b[K\xe2\x80\x99 but never defined [\x1b[01;35m\x1b[K-Wunused-function\x1b[m\x1b[K]\n'}
+[34.580730] (raspicam2) StderrLine: {'line': b'  128 | static MMAL_STATUS_T \x1b[01;35m\x1b[Kcreate_image_encoder_component\x1b[m\x1b[K(RASPIVID_STATE& state);\n'}
+[34.581129] (raspicam2) StderrLine: {'line': b'      |                      \x1b[01;35m\x1b[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[34.581663] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:138:22:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KMMAL_STATUS_T create_video_encoder_component(RASPIVID_STATE&)\x1b[m\x1b[K\xe2\x80\x99 declared \xe2\x80\x98\x1b[01m\x1b[Kstatic\x1b[m\x1b[K\xe2\x80\x99 but never defined [\x1b[01;35m\x1b[K-Wunused-function\x1b[m\x1b[K]\n'}
+[34.582125] (raspicam2) StderrLine: {'line': b'  138 | static MMAL_STATUS_T \x1b[01;35m\x1b[Kcreate_video_encoder_component\x1b[m\x1b[K(RASPIVID_STATE& state);\n'}
+[34.582502] (raspicam2) StderrLine: {'line': b'      |                      \x1b[01;35m\x1b[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[34.582875] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:148:22:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KMMAL_STATUS_T create_splitter_component(RASPIVID_STATE&)\x1b[m\x1b[K\xe2\x80\x99 declared \xe2\x80\x98\x1b[01m\x1b[Kstatic\x1b[m\x1b[K\xe2\x80\x99 but never defined [\x1b[01;35m\x1b[K-Wunused-function\x1b[m\x1b[K]\n'}
+[34.583326] (raspicam2) StderrLine: {'line': b'  148 | static MMAL_STATUS_T \x1b[01;35m\x1b[Kcreate_splitter_component\x1b[m\x1b[K(RASPIVID_STATE& state);\n'}
+[34.583737] (raspicam2) StderrLine: {'line': b'      |                      \x1b[01;35m\x1b[K^~~~~~~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[34.584126] (raspicam2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/ubuntu/colcon_ws/src/raspicam2_node/include/raspicam.h:160:22:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[KMMAL_STATUS_T connect_ports(MMAL_PORT_T*, MMAL_PORT_T*, mmal::connection_ptr&)\x1b[m\x1b[K\xe2\x80\x99 declared \xe2\x80\x98\x1b[01m\x1b[Kstatic\x1b[m\x1b[K\xe2\x80\x99 but never defined [\x1b[01;35m\x1b[K-Wunused-function\x1b[m\x1b[K]\n'}
+[34.584532] (raspicam2) StderrLine: {'line': b'  160 | static MMAL_STATUS_T \x1b[01;35m\x1b[Kconnect_ports\x1b[m\x1b[K(MMAL_PORT_T* output_port, MMAL_PORT_T* input_port,\n'}
+[34.584921] (raspicam2) StderrLine: {'line': b'      |                      \x1b[01;35m\x1b[K^~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[34.612517] (-) TimerEvent: {}
+[34.713258] (-) TimerEvent: {}
+[34.814031] (-) TimerEvent: {}
+[34.914741] (-) TimerEvent: {}
+[35.015655] (-) TimerEvent: {}
+[35.116611] (-) TimerEvent: {}
+[35.136783] (raspicam2) StdoutLine: {'line': b'[100%] \x1b[32m\x1b[1mLinking CXX executable raspicam2_node\x1b[0m\n'}
+[35.216854] (-) TimerEvent: {}
+[35.317761] (-) TimerEvent: {}
+[35.418801] (-) TimerEvent: {}
+[35.519876] (-) TimerEvent: {}
+[35.620898] (-) TimerEvent: {}
+[35.721792] (-) TimerEvent: {}
+[35.822620] (-) TimerEvent: {}
+[35.923321] (-) TimerEvent: {}
+[35.990562] (raspicam2) StdoutLine: {'line': b'[100%] Built target raspicam2_node\n'}
+[36.023543] (-) TimerEvent: {}
+[36.030196] (raspicam2) CommandEnded: {'returncode': 0}
+[36.123788] (-) TimerEvent: {}
+[36.224702] (-) TimerEvent: {}
+[36.278392] (raspicam2) JobProgress: {'identifier': 'raspicam2', 'progress': 'install'}
+[36.320009] (raspicam2) Command: {'cmd': ['/usr/bin/cmake', '--install', '/home/ubuntu/colcon_ws/build/raspicam2'], 'cwd': '/home/ubuntu/colcon_ws/build/raspicam2', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('TMUX', '/tmp//tmux-1000/default,2095,0'), ('USER', 'ubuntu'), ('SSH_CLIENT', '192.168.0.140 41748 22'), ('LC_TIME', 'lzh_TW'), ('XDG_SESSION_TYPE', 'tty'), ('SHLVL', '2'), ('LD_LIBRARY_PATH', '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib'), ('MOTD_SHOWN', 'pam'), ('HOME', '/home/ubuntu'), ('OLDPWD', '/home/ubuntu/colcon_ws/src'), ('SSH_TTY', '/dev/pts/0'), ('ROS_PYTHON_VERSION', '3'), ('LC_MONETARY', 'lzh_TW'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLCON_PREFIX_PATH', '/home/ubuntu/turtlebot3_ws/install'), ('ROS_DISTRO', 'foxy'), ('LOGNAME', 'ubuntu'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('TERM', 'screen'), ('XDG_SESSION_ID', '2'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/opt/ros/foxy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'), ('LC_ADDRESS', 'lzh_TW'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('LANG', 'en_US.UTF-8'), ('LC_TELEPHONE', 'lzh_TW'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('ROS_DOMAIN_ID', '30'), ('AMENT_PREFIX_PATH', '/home/ubuntu/turtlebot3_ws/install/turtlebot3:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_bringup:/home/ubuntu/turtlebot3_ws/install/turtlebot3_node:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/home/ubuntu/turtlebot3_ws/install/turtlebot3_description:/opt/ros/foxy'), ('SHELL', '/bin/bash'), ('LC_NAME', 'lzh_TW'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('LC_MEASUREMENT', 'lzh_TW'), ('LC_IDENTIFICATION', 'lzh_TW'), ('PWD', '/home/ubuntu/colcon_ws/build/raspicam2'), ('OPENCR_PORT', '/dev/ttyACM0'), ('TURTLEBOT3_MODEL', 'burger'), ('LC_ALL', 'en_US.UTF-8'), ('SSH_CONNECTION', '192.168.0.140 41748 192.168.0.161 22'), ('XDG_DATA_DIRS', '/usr/local/share:/usr/share:/var/lib/snapd/desktop'), ('PYTHONPATH', '/home/ubuntu/turtlebot3_ws/build/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.8/site-packages:/home/ubuntu/turtlebot3_ws/build/turtlebot3_example:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages'), ('LC_NUMERIC', 'lzh_TW'), ('LC_PAPER', 'lzh_TW'), ('COLCON', '1'), ('TMUX_PANE', '%0'), ('CMAKE_PREFIX_PATH', '/home/ubuntu/turtlebot3_ws/install/turtlebot3:/home/ubuntu/turtlebot3_ws/install/turtlebot3_bringup:/home/ubuntu/turtlebot3_ws/install/turtlebot3_node:/home/ubuntu/turtlebot3_ws/install/turtlebot3_description:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy'), ('OPENCR_MODEL', 'burger')]), 'shell': False}
+[36.329940] (-) TimerEvent: {}
+[36.360370] (raspicam2) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[36.362268] (raspicam2) StdoutLine: {'line': b'-- Execute custom install script\n'}
+[36.364205] (raspicam2) StdoutLine: {'line': b'-- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/lib/libRasPiCamPublisherNode.so\n'}
+[36.397660] (raspicam2) StdoutLine: {'line': b'-- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/lib/libraspicam.so\n'}
+[36.430078] (-) TimerEvent: {}
+[36.432324] (raspicam2) StdoutLine: {'line': b'-- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/lib/raspicam2/raspicam2_node\n'}
+[36.470532] (raspicam2) StdoutLine: {'line': b'-- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/cfg/params.yaml\n'}
+[36.506553] (raspicam2) StdoutLine: {'line': b'-- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/ament_index/resource_index/package_run_dependencies/raspicam2\n'}
+[36.530249] (-) TimerEvent: {}
+[36.542018] (raspicam2) StdoutLine: {'line': b'-- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/ament_index/resource_index/parent_prefix_path/raspicam2\n'}
+[36.576150] (raspicam2) StdoutLine: {'line': b'-- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/environment/ament_prefix_path.sh\n'}
+[36.611152] (raspicam2) StdoutLine: {'line': b'-- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/environment/ament_prefix_path.dsv\n'}
+[36.630417] (-) TimerEvent: {}
+[36.645324] (raspicam2) StdoutLine: {'line': b'-- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/environment/path.sh\n'}
+[36.680983] (raspicam2) StdoutLine: {'line': b'-- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/environment/path.dsv\n'}
+[36.714935] (raspicam2) StdoutLine: {'line': b'-- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/local_setup.bash\n'}
+[36.730590] (-) TimerEvent: {}
+[36.749093] (raspicam2) StdoutLine: {'line': b'-- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/local_setup.sh\n'}
+[36.783368] (raspicam2) StdoutLine: {'line': b'-- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/local_setup.zsh\n'}
+[36.817754] (raspicam2) StdoutLine: {'line': b'-- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/local_setup.dsv\n'}
+[36.830780] (-) TimerEvent: {}
+[36.853333] (raspicam2) StdoutLine: {'line': b'-- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/package.dsv\n'}
+[36.889323] (raspicam2) StdoutLine: {'line': b'-- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/ament_index/resource_index/packages/raspicam2\n'}
+[36.924671] (raspicam2) StdoutLine: {'line': b'-- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/ament_index/resource_index/rclcpp_components/raspicam2\n'}
+[36.930945] (-) TimerEvent: {}
+[36.959412] (raspicam2) StdoutLine: {'line': b'-- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/cmake/raspicam2Config.cmake\n'}
+[36.993147] (raspicam2) StdoutLine: {'line': b'-- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/cmake/raspicam2Config-version.cmake\n'}
+[37.028078] (raspicam2) StdoutLine: {'line': b'-- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/package.xml\n'}
+[37.031089] (-) TimerEvent: {}
+[37.066448] (raspicam2) CommandEnded: {'returncode': 0}
+[37.132611] (-) TimerEvent: {}
+[37.234375] (-) TimerEvent: {}
+[37.335090] (-) TimerEvent: {}
+[37.406527] (raspicam2) JobEnded: {'identifier': 'raspicam2', 'rc': 0}
+[37.417589] (-) EventReactorShutdown: {}

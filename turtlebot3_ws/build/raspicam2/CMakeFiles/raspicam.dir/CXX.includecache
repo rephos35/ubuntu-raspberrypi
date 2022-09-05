@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/turtlebot3_ws/src/raspicam2_node/include/RaspiCamControl.h
+
+/home/ubuntu/turtlebot3_ws/src/raspicam2_node/include/mmal_cxx_helper.h
+interface/mmal/mmal_component.h
+/home/ubuntu/turtlebot3_ws/src/raspicam2_node/include/interface/mmal/mmal_component.h
+interface/mmal/util/mmal_connection.h
+/home/ubuntu/turtlebot3_ws/src/raspicam2_node/include/interface/mmal/util/mmal_connection.h
+memory
+-
+functional
+-
+
+/home/ubuntu/turtlebot3_ws/src/raspicam2_node/include/raspicam.h
+interface/mmal/mmal.h
+/home/ubuntu/turtlebot3_ws/src/raspicam2_node/include/interface/mmal/mmal.h
+RaspiCamControl.h
+/home/ubuntu/turtlebot3_ws/src/raspicam2_node/include/RaspiCamControl.h
+mmal_cxx_helper.h
+/home/ubuntu/turtlebot3_ws/src/raspicam2_node/include/mmal_cxx_helper.h
+
+/home/ubuntu/turtlebot3_ws/src/raspicam2_node/src/raspicam.cpp
+stdio.h
+-
+bcm_host.h
+/home/ubuntu/turtlebot3_ws/src/raspicam2_node/src/bcm_host.h
+interface/vcos/vcos.h
+/home/ubuntu/turtlebot3_ws/src/raspicam2_node/src/interface/vcos/vcos.h
+interface/mmal/mmal_logging.h
+/home/ubuntu/turtlebot3_ws/src/raspicam2_node/src/interface/mmal/mmal_logging.h
+interface/mmal/util/mmal_default_components.h
+/home/ubuntu/turtlebot3_ws/src/raspicam2_node/src/interface/mmal/util/mmal_default_components.h
+interface/mmal/util/mmal_util.h
+/home/ubuntu/turtlebot3_ws/src/raspicam2_node/src/interface/mmal/util/mmal_util.h
+interface/mmal/util/mmal_util_params.h
+/home/ubuntu/turtlebot3_ws/src/raspicam2_node/src/interface/mmal/util/mmal_util_params.h
+raspicam.h
+-
+

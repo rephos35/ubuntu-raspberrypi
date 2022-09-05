@@ -1,0 +1,30 @@
+[0.062s] Invoking command in '/home/ubuntu/colcon_ws/build/raspicam2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy /usr/bin/cmake --build /home/ubuntu/colcon_ws/build/raspicam2 -- -j4 -l4
+[0.285s] [ 57%] Built target raspicam_common
+[0.380s] [ 71%] Built target raspicam
+[0.527s] [ 85%] Built target RasPiCamPublisherNode
+[0.667s] [100%] Built target raspicam2_node
+[0.709s] Invoked command in '/home/ubuntu/colcon_ws/build/raspicam2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy /usr/bin/cmake --build /home/ubuntu/colcon_ws/build/raspicam2 -- -j4 -l4
+[1.012s] Invoking command in '/home/ubuntu/colcon_ws/build/raspicam2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy /usr/bin/cmake --install /home/ubuntu/colcon_ws/build/raspicam2
+[1.044s] -- Install configuration: ""
+[1.046s] -- Execute custom install script
+[1.048s] -- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/lib/libRasPiCamPublisherNode.so
+[1.049s] -- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/lib/libraspicam.so
+[1.051s] -- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/lib/raspicam2/raspicam2_node
+[1.053s] -- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/cfg/params.yaml
+[1.055s] -- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/ament_index/resource_index/package_run_dependencies/raspicam2
+[1.056s] -- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/ament_index/resource_index/parent_prefix_path/raspicam2
+[1.058s] -- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/environment/ament_prefix_path.sh
+[1.059s] -- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/environment/ament_prefix_path.dsv
+[1.061s] -- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/environment/path.sh
+[1.062s] -- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/environment/path.dsv
+[1.063s] -- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/local_setup.bash
+[1.064s] -- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/local_setup.sh
+[1.066s] -- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/local_setup.zsh
+[1.067s] -- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/local_setup.dsv
+[1.068s] -- Symlinking: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/package.dsv
+[1.104s] -- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/ament_index/resource_index/packages/raspicam2
+[1.105s] -- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/ament_index/resource_index/rclcpp_components/raspicam2
+[1.106s] -- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/cmake/raspicam2Config.cmake
+[1.107s] -- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/cmake/raspicam2Config-version.cmake
+[1.109s] -- Up-to-date symlink: /home/ubuntu/colcon_ws/install/raspicam2/share/raspicam2/package.xml
+[1.116s] Invoked command in '/home/ubuntu/colcon_ws/build/raspicam2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy /usr/bin/cmake --install /home/ubuntu/colcon_ws/build/raspicam2

@@ -1,0 +1,22 @@
+[INFO] [1645788089.341272635] [turtlebot3_node]: Init TurtleBot3 Node Main
+[INFO] [1645788089.343184422] [turtlebot3_node]: Init DynamixelSDKWrapper
+[INFO] [1645788089.347357582] [DynamixelSDKWrapper]: Succeeded to open the port(/dev/ttyACM0)!
+[INFO] [1645788089.355212743] [DynamixelSDKWrapper]: Succeeded to change the baudrate!
+[INFO] [1645788089.391836923] [turtlebot3_node]: Start Calibration of Gyro
+[INFO] [1645788094.392385212] [turtlebot3_node]: Calibration End
+[INFO] [1645788094.392589987] [turtlebot3_node]: Add Motors
+[INFO] [1645788094.393957929] [turtlebot3_node]: Add Wheels
+[INFO] [1645788094.396031880] [turtlebot3_node]: Add Sensors
+[INFO] [1645788094.404111705] [turtlebot3_node]: Succeeded to create battery state publisher
+[INFO] [1645788094.413003833] [turtlebot3_node]: Succeeded to create imu publisher
+[INFO] [1645788094.422859706] [turtlebot3_node]: Succeeded to create sensor state publisher
+[INFO] [1645788094.428967504] [turtlebot3_node]: Succeeded to create joint state publisher
+[INFO] [1645788094.429164353] [turtlebot3_node]: Add Devices
+[INFO] [1645788094.429264685] [turtlebot3_node]: Succeeded to create motor power server
+[INFO] [1645788094.436906924] [turtlebot3_node]: Succeeded to create reset server
+[INFO] [1645788094.442390528] [turtlebot3_node]: Succeeded to create sound server
+[INFO] [1645788094.448259811] [turtlebot3_node]: Run!
+[INFO] [1645788094.498331497] [diff_drive_controller]: Init Odometry
+[INFO] [1645788094.512759617] [diff_drive_controller]: Run!
+[WARN] [1645788094.647777953] []: Messages of type 1 arrived closer (5000000) than the lower bound you provided (15000000) (will print only once)
+[INFO] [1645788134.863560463] [rclcpp]: signal_handler(signal_value=2)

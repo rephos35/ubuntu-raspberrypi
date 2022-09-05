@@ -1,0 +1,57 @@
+[0.079s] Invoking command in '/home/ubuntu/colcon_ws/build/raspicam2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy /usr/bin/cmake /home/ubuntu/colcon_ws/src/raspicam2_node -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ubuntu/colcon_ws/install/raspicam2
+[1.192s] -- The C compiler identification is GNU 9.3.0
+[2.000s] -- The CXX compiler identification is GNU 9.3.0
+[2.037s] -- Check for working C compiler: /usr/bin/cc
+[2.372s] -- Check for working C compiler: /usr/bin/cc -- works
+[2.379s] -- Detecting C compiler ABI info
+[2.684s] -- Detecting C compiler ABI info - done
+[2.726s] -- Detecting C compile features
+[2.729s] -- Detecting C compile features - done
+[2.742s] -- Check for working CXX compiler: /usr/bin/c++
+[3.128s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[3.131s] -- Detecting CXX compiler ABI info
+[3.468s] -- Detecting CXX compiler ABI info - done
+[3.511s] -- Detecting CXX compile features
+[3.513s] -- Detecting CXX compile features - done
+[3.547s] -- Found ament_cmake: 0.9.8 (/opt/ros/foxy/share/ament_cmake/cmake)
+[3.724s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[3.724s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[4.435s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[4.727s] -- Found rclcpp: 2.3.1 (/opt/ros/foxy/share/rclcpp/cmake)
+[5.115s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.189s] -- Found rosidl_adapter: 1.2.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[5.637s] -- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[5.769s] -- Found FastRTPS: /opt/ros/foxy/include  
+[6.216s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[6.593s] -- Found rmw_implementation_cmake: 1.0.3 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[6.603s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[6.611s] -- Looking for pthread.h
+[6.964s] -- Looking for pthread.h - found
+[6.964s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[7.279s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[7.280s] -- Looking for pthread_create in pthreads
+[7.540s] -- Looking for pthread_create in pthreads - not found
+[7.541s] -- Looking for pthread_create in pthread
+[7.847s] -- Looking for pthread_create in pthread - found
+[7.851s] -- Found Threads: TRUE  
+[8.674s] -- Found rclcpp_components: 2.3.1 (/opt/ros/foxy/share/rclcpp_components/cmake)
+[9.012s] -- Found sensor_msgs: 2.0.4 (/opt/ros/foxy/share/sensor_msgs/cmake)
+[9.869s] CMake Error: The following variables are used in this project, but they are set to NOTFOUND.
+[9.869s] Please set them or make sure they are set and tested correctly in the CMake files:
+[9.869s] bcmhost_LIBS
+[9.870s]     linked by target "raspicam_common" in directory /home/ubuntu/colcon_ws/src/raspicam2_node
+[9.870s] mmal_LIBS
+[9.870s]     linked by target "raspicam_common" in directory /home/ubuntu/colcon_ws/src/raspicam2_node
+[9.871s] mmalcore_LIBS
+[9.871s]     linked by target "raspicam_common" in directory /home/ubuntu/colcon_ws/src/raspicam2_node
+[9.872s] mmalutil_LIBS
+[9.872s]     linked by target "raspicam_common" in directory /home/ubuntu/colcon_ws/src/raspicam2_node
+[9.873s] mmalvcclient_LIBS
+[9.873s] -- Configuring incomplete, errors occurred!
+[9.874s] See also "/home/ubuntu/colcon_ws/build/raspicam2/CMakeFiles/CMakeOutput.log".
+[9.875s]     linked by target "raspicam_common" in directory /home/ubuntu/colcon_ws/src/raspicam2_node
+[9.875s] vcos_LIBS
+[9.876s]     linked by target "raspicam_common" in directory /home/ubuntu/colcon_ws/src/raspicam2_node
+[9.877s] 
+[9.877s] See also "/home/ubuntu/colcon_ws/build/raspicam2/CMakeFiles/CMakeError.log".
+[9.896s] Invoked command in '/home/ubuntu/colcon_ws/build/raspicam2' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/opt/ros/foxy /usr/bin/cmake /home/ubuntu/colcon_ws/src/raspicam2_node -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ubuntu/colcon_ws/install/raspicam2

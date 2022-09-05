@@ -1,0 +1,6 @@
+1645789392.3246970 [INFO] [launch]: All log files can be found below /home/ubuntu/.ros/log/2022-02-25-11-43-12-314481-raspberrypi-4735
+1645789392.3254924 [INFO] [launch]: Default logging verbosity is set to INFO
+1645789392.7259562 [INFO] [robot_state_publisher-1]: process started with pid [4737]
+1645789392.7270968 [INFO] [hlds_laser_publisher-2]: process started with pid [4739]
+1645789392.7282794 [INFO] [turtlebot3_ros-3]: process started with pid [4741]
+1645789936.4638789 [ERROR] [turtlebot3_ros-3]: process has died [pid 4741, exit code -11, cmd '/home/ubuntu/turtlebot3_ws/install/turtlebot3_node/lib/turtlebot3_node/turtlebot3_ros -i /dev/ttyACM0 --ros-args --params-file /home/ubuntu/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/param/burger.yaml'].

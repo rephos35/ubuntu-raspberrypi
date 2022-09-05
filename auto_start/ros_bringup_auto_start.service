@@ -1,0 +1,13 @@
+[Unit]
+Description=ros2 auto start: bringup
+
+[Service]
+User=ubuntu
+Type=simple
+ExecStart=/usr/bin/bash /home/ubuntu/auto_start/shell_script_bringup.sh
+WorkingDirectory=/home/ubuntu/turtlebot3_ws/
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
+
